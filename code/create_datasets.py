@@ -10,12 +10,9 @@ import urllib
 ###################
 apikey = 'XXX'
 
-
 ####################
 ## Data Dictionay ##
 ####################
-# Put the details of the dataset we're going to create into a dict.
-
 dataset_dict = [
 		{
 		    'name': 'testing_creation_via_api',
@@ -37,6 +34,7 @@ dataset_dict = [
 		}
 	]
 
+# Function to create datasets based on dictionaries.
 def createDataset(dataset_dict,apikey):
 	# Use the json module to dump the dictionary to a string for posting.
 	payload = json.dumps(dataset_dict[0])
