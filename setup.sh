@@ -13,17 +13,6 @@ cd R
 ./configure
 make
 
-# Compiling ImageMagick
-cd ~
-wget http://ftp.de.debian.org/debian/pool/main/i/imagemagick/imagemagick_6.8.9.9-5.debian.tar.xz
-tar -xvf imagemagick_6.8.9.9-5.debian.tar.xz
-mv debian imagemagick
-cd $HOME
-export MAGICK_HOME="$HOME/imagemagick"
-export PATH="$MAGICK_HOME/bin:$PATH"
-LD_LIBRARY_PATH="${LD_LIBRARY_PATH:+$LD_LIBRARY_PATH:}$MAGICK_HOME/lib"
-export LD_LIBRARY_PATH
-
 # Creating Python's virtual env
 cd ~
 virtualenv venv
