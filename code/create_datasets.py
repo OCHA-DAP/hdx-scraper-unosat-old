@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+######################
+#### Dependencies ####
+######################
 import json
 import requests
 
@@ -11,9 +14,13 @@ apikey = '4a4ed4e3-571b-4b99-9bc1-ae1df26b77a8'
 ####################
 ## Data Dictionay ##
 ####################
+# Loading data from a local JSON file.
+def loadData():
+	# 
+
 dataset_dict = [
 		{
-		    'name': 'testing_creation_via_api_ketng_34',
+		    'name': 'testing_creation_via_apis_2',
 		    'title': '(TEST) Dataset Created via the API',
 		    'author': 'luiscape',
 		    'author_email': 'capelo@un.org',
@@ -27,16 +34,29 @@ dataset_dict = [
 		    'private': True,
 		    'url': None,
 		    'state': 'active',
-		    # 'resources': [{
-					 #    	'package_id' : 'shapefile_of_x.shp',
-					 #    	'url':'http://example.com',
-					 #    	'name': 'shapefile_of_x.shp'
-					 #     }]
+		    'resources': [{
+					    	'package_id' : 'shapefile_of_x.shp',
+					    	'url':'http://example.com',
+					    	'name': 'shapefile_of_x.shp'
+					     }],
 		    'tags': [{'name':'test' }],
-		    'groups': [{ 'title': "Guinea", 'id': "gin", 'name': "gin" }],
-		    'owner_org': 'un-operational-satellite-appplications-programme-unosat'
+		    'groups': [{ 'title': "Guinea", 'id': "gin", 'name': "gin" }, { 'title': "Guinea", 'id': "gin", 'name': "gin" }],
+		    'owner_org': 'hdx'
+		    # 'owner_org': 'un-operational-satellite-appplications-programme-unosat'
 		}
 	]
+
+# Related items have to be created separatelly, using the related_create API.
+related_dict = [
+	{
+		'title': 'XXX',
+		'type': 'paper',
+		'description': 'XXX',
+		'url': 'XXX',
+		'image_url':'XXX',
+		'dataset_id':'XXX'
+	}
+]
 
 ####################
 ###### Logic #######

@@ -10,6 +10,8 @@
 library(RCurl)
 library(XML)
 library(countrycode)
+library(dplyr)
+library(rjson)
 
 # Scraperwiki helper function
 onSw <- function(d = F, l = 'tool/') {
@@ -126,12 +128,18 @@ subsetData <- function(df = NULL, subset = TRUE) {
   
   # shp_url column
   findPattern <- function(data = NULL, pattern = NULL) {
-    data$resource_format <- ifelse(grepl(pattern, data$url_2, ignore.case = T), pattern, data$resource_format)
-    data$resource_format <- ifelse(grepl(pattern, data$url_3, ignore.case = T), pattern, data$resource_format)
-    data$resource_format <- ifelse(grepl(pattern, data$url_4, ignore.case = T), pattern, data$resource_format)
-    data$resource_format <- ifelse(grepl(pattern, data$url_5, ignore.case = T), pattern, data$resource_format)
-    data$resource_format <- ifelse(grepl(pattern, data$url_6, ignore.case = T), pattern, data$resource_format)
-    data$resource_format <- gsub("\\.", "", data$resource_format)
+    # finding matches
+    data$url_2_format <- ifelse(grepl(pattern, data$url_2, ignore.case = T), pattern, data$resource_format)
+    data$url_3_format <- ifelse(grepl(pattern, data$url_3, ignore.case = T), pattern, data$resource_format)
+    data$url_4_format <- ifelse(grepl(pattern, data$url_4, ignore.case = T), pattern, data$resource_format)
+    data$url_5_format <- ifelse(grepl(pattern, data$url_5, ignore.case = T), pattern, data$resource_format)
+    data$url_6_format <- ifelse(grepl(pattern, data$url_6, ignore.case = T), pattern, data$resource_format)
+    # cleaning
+    data$url_2_format <- gsub("\\.", "", data$resource_format)
+    data$url_3_format <- gsub("\\.", "", data$resource_format)
+    data$url_4_format <- gsub("\\.", "", data$resource_format)
+    data$url_5_format <- gsub("\\.", "", data$resource_format)
+    data$url_6_format <- gsub("\\.", "", data$resource_format)
     return(data)
   }
   
@@ -175,16 +183,20 @@ subsetData <- function(df = NULL, subset = TRUE) {
   
   # Algorithm to elimitate duplicates
   # selecting the latest date only
-#    output$dataset_date <- as.Date(output$dataset_date, format="%d-%b-%Y")
+#    
   
-#   cleanDuplicates <- function(df = NULL) {
-#     x <- output %>%
-#       group_by(url_2) %>%
-#       filter(dataset_date == max(as.Date(dataset_date)))     
-#   }
+  cleanDuplicates <- function(x = NULL) {
+    # Using dplyr to "chain" the transformation 
+    # of a data.frame.
+    x$dataset_date <- as.Date(x$dataset_date, format="%d-%b-%Y")
+    x <- data %>%
+      group_by(url_2) %>%
+      filter(dataset_date == max(dataset_date))
+    x$dataset_date <- as.character(x$dataset_date)
+    return(x)
+  }
   
-
-    
+  output <- cleanDuplicates(output)
   
   # standardizing the glide number
   fixGlide <- function(vector = NULL) {
@@ -224,6 +236,16 @@ runScraper <- function(csv = F) {
   subset_of_interest <- subsetData(content)
   subset_of_interest$tag <- addTags(subset_of_interest$glide_id)
   if (csv) write.csv(subset_of_interest, 'data/subset_of_interest.csv', row.names = F)
+  # Storign the resulting JSON
+  if (json) {
+    for (i in 1:nrow(y)) {
+      if (i == 1) x <- y[i,]
+      else x[[i]] <- y[i,]
+    }
+    sink("data/data.json")
+    cat(toJSON(x))
+    sink() 
+  }
 }
 
 # runScraper(T)
