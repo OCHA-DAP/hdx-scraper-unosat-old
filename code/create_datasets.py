@@ -9,7 +9,7 @@ import requests
 ###################
 ## Configuration ##
 ###################
-apikey = '4a4ed4e3-571b-4b99-9bc1-ae1df26b77a8'
+apikey = 'XXX'
 
 ####################
 ## Data Dictionay ##
