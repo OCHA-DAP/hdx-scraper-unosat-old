@@ -3,7 +3,7 @@ import ckanapi
 ###################
 ## Configuration ##
 ###################
-apikey = 'a6863277-f35e-4f50-af85-78a2d9ebcdd3'
+apikey = 'XXX'
 
 def createDatasets():
 	hdx = ckanapi.RemoteCKAN('https://data.hdx.rwlabs.org',
