@@ -1,8 +1,10 @@
-import json
+import json as j
 
 def loadData(file_input):
-	data = json.load(open(file_input))[0]
-	print(json.dumps(data))
-	print(len(data))
+	data = j.load(open(file_input))[0]
+	json = j.dumps(data)
+	print len(j.load(open(file_input))[0]["dataset.250"])
+	return(json)
 
-loadData("data/data.json")
+payload = loadData("data/data.json")
+# print(payload)
