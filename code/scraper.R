@@ -11,7 +11,7 @@ library(RCurl)
 library(XML)
 library(countrycode)
 library(dplyr)
-library(rjson)
+library(RJSONIO)
 
 # Scraperwiki helper function
 onSw <- function(p = NULL, l = 'tool/', d = F) {
@@ -162,9 +162,6 @@ subsetAndClean <- function(df = NULL, verbose = FALSE) {
   # Creating the dataset name as per HDX.
   df$dataset_name <- createDatasetName(df$title)
 
-  # Chosing the latest duplicate file (based on date).
-  df <- cleanDuplicates(df)
-
   # Fixing all the glide numbers
   df$glide_id <- fixGlide(df$glide_id)
 
@@ -174,6 +171,20 @@ subsetAndClean <- function(df = NULL, verbose = FALSE) {
   # Adding tags.
   df$tag <- addGlideTags(df$glide_id)
   df <- addOtherTags(df)
+  
+  # Creating file names
+  df$file_name_1 <- extractFileNames(df$url_1)
+  df$file_name_2 <- extractFileNames(df$url_2)
+  df$file_name_3 <- extractFileNames(df$url_3)
+  df$file_name_4 <- extractFileNames(df$url_4)
+  df$file_name_5 <- extractFileNames(df$url_5)
+  df$file_name_6 <- extractFileNames(df$url_6)
+  
+  # Improving title
+  df$title <- createTitleName(df$title)
+  
+  # Chosing the latest duplicate file (based on date).
+  df <- cleanDuplicates(df)
 
   # Output
   return(df)
@@ -187,30 +198,30 @@ subsetAndClean <- function(df = NULL, verbose = FALSE) {
 ############################################
 
 # Scraper wrapper.
-runScraper <- function(csv = FALSE, json = TRUE, db = TRUE) {
+runScraper <- function(p = NULL, table = NULL, key = NULL, c = NULL, csv = TRUE, json = TRUE, db = TRUE) {
   page_list <- grabPageLinks()
   system.time(page_content <- fetchContent(page_list))
   subset_of_interest <- subsetAndClean(page_content)
 
    # Storing results in a CSV file.
-  if (csv) write.csv(subset_of_interest, onSw(CSV_PATH), row.names = F)
+  if (csv) write.csv(subset_of_interest, onSw(c), row.names = F)
 
   # Storing results in a JSON file.
   if (json) {
-    x <- createJSON(subset_of_interest)
-    sink(JSON_PATH)
-    cat(toJSON(x))
+    json_data <- createJSON(subset_of_interest)
+    sink(onSw(p))
+    cat(toJSON(json_data))
     sink()
   }
 
   # Storing results in a SQLite database.
-  if (db) { 
-    writeTable()
+  if (db) {
+    writeTable(subset_of_interest, table, "scraperwiki")
   }
 }
 
 # Changing the status of SW.
-tryCatch(runScraper(p = PATH, table = db_table_name, key = apikey),
+tryCatch(runScraper(p = JSON_PATH, table = DB_TABLE_NAME_SUBSET, key = apikey, c = CSV_PATH),
          error = function(e) {
            cat('Error detected ... sending notification.')
            system('mail -s "CKAN Statistics: Organization list failed." luiscape@gmail.com')

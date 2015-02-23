@@ -48,7 +48,7 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
 # Simple function to create a
 # dataset name as per HDX.
 createDatasetName <- function(vector = NULL) {
-  cat('Creating the dataset name ...')
+  cat('Creating the dataset id ...')
   dataset_name <- gsub(" ", "-", vector)
   dataset_name <- gsub("\\:", "", dataset_name)
   dataset_name <- gsub("\\,", "", dataset_name)
@@ -61,6 +61,14 @@ createDatasetName <- function(vector = NULL) {
   return(dataset_name)
 }
 
+# Function to create a nice HDX title.
+createTitleName <- function(vector = NULL) {
+  cat('Creating the dataset name ...')
+  title <- paste("Geodata of", vector)
+  cat('done.\n')
+  return(title)
+}
+
 # Algorithm to elimitate duplicates
 # selecting the latest date only
 cleanDuplicates <- function(df = NULL) {
@@ -70,10 +78,19 @@ cleanDuplicates <- function(df = NULL) {
   df$dataset_date <- as.Date(df$dataset_date)
   df <- df %>%
     group_by(url_2) %>%
-    filter(dataset_date == max(dataset_date))
+    filter(dataset_date == max(dataset_date)) %>%
+    arrange(desc(dataset_date))
   df$dataset_date <- as.character(df$dataset_date)
   cat('done.\n')
   return(df)
+}
+
+# Extracting file names with regex
+extractFileNames <- function(vector = NULL) {
+  cat('Extracting file names ...')
+  vector <- gsub("^((http[s]?|ftp):\\/)?\\/?([^:\\/\\s]+)((\\/\\w+)*\\/)", "", vector, perl = TRUE)
+  cat('done.\n')
+  return(vector)
 }
 
 # Standardizing the glide number.
@@ -101,7 +118,10 @@ addMetadata <- function(df = NULL) {
 
   # Adding schema elements.
   df$license_title = "hdx-other"
+  df$author = "unosat"
+  df$author_email = "emergencymapping@unosat.org"
   df$maintainer = "unosat"
+  df$maintainer_email = "emergencymapping@unosat.org"
   df$package_creator = "unosat"
   df$private = TRUE
   df$methodology_other = NA
@@ -121,11 +141,13 @@ addMetadata <- function(df = NULL) {
 
 # Adding tags based on glide numbers
 addGlideTags <- function(vector = NULL) {
-  cat('Adding tags ...')
+  cat('Adding tags based on Glide number ...')
   vector <- data.frame(code = substr(vector, 1, 2))
   glide_dictionary <- data.frame(code = c("FL","FR","VO","CE","TC","DR","EQ","AC","OT","RC"),
                                  name  = c('Flood', 'Fire', 'Vulcano', 'Complex Emergency', 'Tropical Storm', 'Drought', 'Earthquake', 'Munitions Depot Explosion', 'Refugee Camp', 'Complex Emergency'))
+  glide_dictionary$name <- as.character(glide_dictionary$name)
   vector <- merge(vector, glide_dictionary, by.y="code", all.x = T)
+  vector$code <- NULL
   cat('done.\n')
   return(vector$name)
 }
@@ -140,48 +162,54 @@ addOtherTags <- function(df = NULL) {
 }
 
 
-# 
-# # Function to transform a UNOSAT data.frame
-# # into a CKAN / HDX dataset JSON object.
-# createJSON <- function(df = NULL) {
-#   cat('Creating CKAN JSON object ...')
-# 
-#   for (i in 1:nrow(df)) {
-#     it <- data.frame(
-#       name = df$name,
-#       title = df$,
-#       author = 
-#       author_email = ,
-#       maintainer = ,
-#       maintainer_email = ,
-#       license_id = "",
-#       license_other = "",
-#       notes = "",
-#       dataset_source = "",
-#       package_creator = "",
-#       private = TRUE,
-#       url = "",
-#       state = "active",
-#       resources = c(
-#         package_id = c(),
-#         url = c(),
-#         name = c()
-#         format = c()
-#         ),
-#       tags = c(
-#         name = c()
-#         ),
-#       groups = c(
-#         title = c(),
-#         id = c(),
-#         name = cd()
-#         ),
-#       owner_org = 
-#       )
-#     if (i == 1) out <- it
-#     else out <- rbind(out, it)
-#   }
-#   # names(out) <- rep("dataset", length(out))
-#   cat('done.\n')
-#   return(out)
-# }
+
+# Function to transform a UNOSAT data.frame
+# into a CKAN / HDX dataset JSON object.
+createJSON <- function(df = NULL) {
+  cat('Creating CKAN JSON object ...')
+  
+  # Making all variables character -- and !factors.
+  df <- data.frame(lapply(df, as.character), stringsAsFactors=FALSE)
+
+  for (i in 1:nrow(df)) {
+    with(df, 
+         it <<- list(
+            name = dataset_name[i],
+            title = title[i],
+            author = author[i],
+            author_email = author_email[i],
+            maintainer = maintainer[i],
+            maintainer_email = maintainer_email[i],
+            license_id = license_id[i],
+            license_other = license_other[i],
+            notes = notes[i],
+            dataset_source = dataset_source[i],
+            package_creator = package_creator[i],
+            private = TRUE,  # otherwise it will be public to the world
+            url = NULL,
+            state = "active",  # better don't touch this
+            resources = list(
+              package_id = c(url_2[i], url_3[i], url_4[i], url_5[i], url_6[i]),
+              url = c(url_2[i], url_3[i], url_4[i], url_5[i], url_6[i]),
+              name = c(url_2[i], url_3[i], url_4[i], url_5[i], url_6[i]),
+              format = c(url_2_format[i], url_3_format[i], url_4_format[i], url_5_format[i], url_6_format[i])
+              ),
+            tags = list(
+              name = c(tag[i], tag_1[i], tag_2[i], tag_3[i], tag_4[i])
+              ),
+            groups = list(
+              # title = c(),
+              # name = cd(),
+              id = list(group_id[i])
+              ),
+            owner_org = owner_org[i]
+            )
+    )
+    if (i == 1) out <- it
+    else out <- rbind(out, it)
+  }
+  # names(out) <- rep("dataset", length(out))
+  cat('done.\n')
+  return(out)
+}
+
