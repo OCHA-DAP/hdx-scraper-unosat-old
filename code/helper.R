@@ -88,7 +88,7 @@ cleanDuplicates <- function(df = NULL) {
 # Extracting file names with regex
 extractFileNames <- function(vector = NULL) {
   cat('Extracting file names ...')
-  vector <- gsub("^((http[s]?|ftp):\\/)?\\/?([^:\\/\\s]+)((\\/\\w+)*\\/)", "", vector, perl = TRUE)
+  vector <- basename(as.character(vector))
   cat('done.\n')
   return(vector)
 }
@@ -153,7 +153,7 @@ addGlideTags <- function(vector = NULL) {
 }
 
 addOtherTags <- function(df = NULL) {
-  tags = c("geodata", "shapefiles", "geodatabase")
+  tags = c("geodata", "shapefile", "geodatabase")
   df$tag_1 = df$glide_id
   df$tag_2 = tags[1]
   df$tag_3 = tags[2]
@@ -165,7 +165,7 @@ addOtherTags <- function(df = NULL) {
 
 # Function to transform a UNOSAT data.frame
 # into a CKAN / HDX dataset JSON object.
-createJSON <- function(df = NULL) {
+createDatasetsJson <- function(df = NULL) {
   cat('Creating CKAN JSON object ...')
   
   # Making all variables character -- and !factors.
@@ -182,25 +182,27 @@ createJSON <- function(df = NULL) {
             maintainer_email = maintainer_email[i],
             license_id = license_id[i],
             license_other = license_other[i],
+            dataset_date = format(as.Date(dataset_date[i]), "%m/%d/%Y"),
+            subnational = "1",
             notes = notes[i],
             dataset_source = dataset_source[i],
             package_creator = package_creator[i],
             private = TRUE,  # otherwise it will be public to the world
             url = NULL,
             state = "active",  # better don't touch this
-            resources = list(
-              package_id = c(url_2[i], url_3[i], url_4[i], url_5[i], url_6[i]),
-              url = c(url_2[i], url_3[i], url_4[i], url_5[i], url_6[i]),
-              name = c(url_2[i], url_3[i], url_4[i], url_5[i], url_6[i]),
-              format = c(url_2_format[i], url_3_format[i], url_4_format[i], url_5_format[i], url_6_format[i])
-              ),
             tags = list(
-              name = c(tag[i], tag_1[i], tag_2[i], tag_3[i], tag_4[i])
+              list(name = tag[i]),
+              list(name = tag_1[i]),
+              list(name = tag_2[i]),
+              list(name = tag_3[i]),
+              list(name = tag_4[i])
               ),
             groups = list(
-              # title = c(),
-              # name = cd(),
-              id = list(group_id[i])
+              list(
+                # title = c(),
+                # name = cd(),
+                id = group_id[i]
+                )
               ),
             owner_org = owner_org[i]
             )
@@ -212,4 +214,85 @@ createJSON <- function(df = NULL) {
   cat('done.\n')
   return(out)
 }
+
+
+
+# Function to create resouces.
+createResourcesJson <- function(df = NULL) {
+  cat('Creating CKAN JSON object ...')
+  
+  # Making all variables character -- and !factors.
+  df <- data.frame(lapply(df, as.character), stringsAsFactors=FALSE)
+  
+  for (i in 1:nrow(df)) {
+      with(df, 
+           it <<-
+               list(
+                package_id = dataset_name[i],
+                url = url_2[i],
+                name = file_name_2[i],
+                format = url_2_format[i]
+               ),
+               list(
+                package_id = dataset_name[i],
+                url = url_3[i],
+                name = file_name_3[i],
+                format = url_3_format[i]
+                ),
+               list(
+                 package_id = dataset_name[i],
+                 url = url_4[i],
+                 name = file_name_4[i],
+                 format = url_4_format[i]
+               ),
+               list(
+                 package_id = dataset_name[i],
+                 url = url_5[i],
+                 name = file_name_5[i],
+                 format = url_5_format[i]
+               ),
+               list(
+                 package_id = dataset_name[i],
+                 url = url_6[i],
+                 name = file_name_6[i],
+                 format = url_6_format[i]
+               )
+      )
+      
+    if (i == 1) out <- it
+    else out <- rbind(out, it)
+  }
+  # names(out) <- rep("dataset", length(out))
+  cat('done.\n')
+  return(out)
+}
+
+
+# Function to create gallery items.
+createGalleryJson <- function(df = NULL) {
+  cat('Creating CKAN JSON object ...')
+  
+  # Making all variables character -- and !factors.
+  df <- data.frame(lapply(df, as.character), stringsAsFactors=FALSE)
+  
+  for (i in 1:nrow(df)) {
+    with(df, 
+         it <<- list(
+             title = "Static PDF Map",
+             type = "paper",
+             description = "Static viewing map for printing.",
+             url = url_1[i],
+             image_url = img_url[i],
+             dataset_id = dataset_name[i]
+         )
+    )
+    if (i == 1) out <- it
+    else out <- rbind(out, it)
+  }
+  # names(out) <- rep("dataset", length(out))
+  cat('done.\n')
+  return(out)
+}
+
+
 

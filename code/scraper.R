@@ -12,6 +12,9 @@ library(XML)
 library(countrycode)
 library(dplyr)
 library(RJSONIO)
+# library(jsonlite)
+
+subset_of_interest <- read.csv("data/backup.csv")
 
 # Scraperwiki helper function
 onSw <- function(p = NULL, l = 'tool/', d = F) {
@@ -26,7 +29,7 @@ JSON_PATH = onSw("http/data.json")
 CSV_PATH = onSw("http/data.csv")
 DB_TABLE_NAME_ALL = "unosat_datasets_all"
 DB_TABLE_NAME_SUBSET = "unosat_datasets_subset"
-DATA_EXTENSIONS = c('.ZIP', '.KML', '.SHP', '.GDB', '.KMZ')
+DATA_EXTENSIONS = c('.ZIP', '.KML', '.SHP', '.GDB', '.KMZ', '.XML')
 GALLERY_EXTENSIONS = c('.JPG', '.JPEG', '.PNG', '.PDF')
 
 # Loading helper functions
@@ -208,10 +211,22 @@ runScraper <- function(p = NULL, table = NULL, key = NULL, c = NULL, csv = TRUE,
 
   # Storing results in a JSON file.
   if (json) {
-    json_data <- createJSON(subset_of_interest)
-    sink(onSw(p))
-    cat(toJSON(json_data))
-    sink()
+    ## TODO: ##
+    # subset:
+    # - package data
+    # - resources data
+    # - gallery items data
+    
+    datasets_json <- createDatasetsJson(subset_of_interest)
+    resources_json <- createResourcesJson(subset_of_interest)
+    gallery_json <- createGalleryJson(subset_of_interest)
+    jsons <- list(datasets_json, resources_json, gallery_json)
+    for (i in 1:length(jsons)) {
+      p = c("data/datasets.json", "data/resources.json", "data/gallery.json")
+      sink(onSw(p[i]))
+        cat(toJSON(jsons[i]))
+      sink()
+    }
   }
 
   # Storing results in a SQLite database.

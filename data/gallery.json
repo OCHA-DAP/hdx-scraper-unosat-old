@@ -1,0 +1,1300 @@
+[
+  [
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/AF/FL20140430AFG/UNOSAT_A3_FL20140430AFG_KulukhTapah_KunduzProvince_landscape.pdf",
+      "image_url": "http://maps.unosat.org/AF/FL20140430AFG/UNOSAT_A3_FL20140430AFG_KulukhTapah_KunduzProvince_landscape.jpg",
+      "dataset_id": "geodata-of-flood-waters-over-kulukh-tapah-kunduz-province-afghanistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "https://unosatgis.cern.ch/WebMap/UNOSAT_LIVE/FL20140430AFG",
+      "image_url": "http://maps.unosat.org/AF/FL20140430AFG/Webmap_Afghanistan.jpg",
+      "dataset_id": "geodata-of-unosat-live-map-floods-and-landslide-in-afghanistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/DZ/FR20120816DZA/UNOSAT_A3_Overview_22082012_DZA_FR.pdf",
+      "image_url": "http://maps.unosat.org/DZ/FR20120816DZA/UNOSAT_A3_Overview_22082012_DZA_FR.jpg",
+      "dataset_id": "geodata-of-overview-of-wildfires-in-northern-algeria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/BD/FL20131024BGD/UNOSAT_A3_MODIS_Flood_Portrait_KhulnaSatkhiraJessore_v3o.pdf",
+      "image_url": "http://maps.unosat.org/BD/FL20131024BGD/UNOSAT_A3_MODIS_Flood_Portrait_KhulnaSatkhiraJessore_v3o.jpg",
+      "dataset_id": "geodata-of-waterlogging-over-satkhira-khulna-and-jessore-districts-bangladesh"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/BO/FL20140213BOL/UNOSAT_A3_Flooding_BOL_20140321_trinidad_es.pdf",
+      "image_url": "http://maps.unosat.org/BO/FL20140213BOL/UNOSAT_A3_Flooding_BOL_20140321_trinidad_es.jpg",
+      "dataset_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/BO/FL20140213BOL/UNOSAT_A3_Flooding_BOL_20140312_Trinidad_es.pdf",
+      "image_url": "http://maps.unosat.org/BO/FL20140213BOL/UNOSAT_A3_Flooding_BOL_20140312_Trinidad_es.jpg",
+      "dataset_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/BO/FL20140213BOL/UNOSAT_A3_Flooding_BOL_20140312_Riberalta_es.pdf",
+      "image_url": "http://maps.unosat.org/BO/FL20140213BOL/UNOSAT_A3_Flooding_BOL_20140312_Riberalta_es.jpg",
+      "dataset_id": "geodata-of-inundaciones-en-riberalta-departamento-de-beni-bolivia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://www.disasterscharter.org/home",
+      "image_url": "http://maps.unosat.org/BO/2008/spanish_versions/UNOSAT_Trinidad_Urban_Flood_Map_TerraSARX_14Feb08_sp_Highres_v1_icon.jpg",
+      "dataset_id": "geodata-of-versión-actualizada-inundaciones-en-trinidad-departamento-del-beni-14-feb-2008-bolivia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/KH/FL20131021KHM/UNOSAT_A3_Flooding_KHM_RS_28102013.pdf",
+      "image_url": "http://maps.unosat.org/KH/FL20131021KHM/UNOSAT_A3_Flooding_KHM_RS_28102013.jpg",
+      "dataset_id": "geodata-of-update-3-flood-waters-over-phnom-penh-city-cambodia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CV/VO20141124CPV/UNOSAT_A3_Volcano_Fogo_portrait_20141125_v1.1.pdf",
+      "image_url": "http://maps.unosat.org/CV/VO20141124CPV/UNOSAT_A3_Volcano_Fogo_portrait_20141125_v1.1.jpg",
+      "dataset_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde---impact"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CV/VO20141124CPV/UNOSAT_A3_Volcano_Fogo_landscape.pdf",
+      "image_url": "http://maps.unosat.org/CV/VO20141124CPV/UNOSAT_A3_Volcano_Fogo_landscape.jpg",
+      "dataset_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CF/CE20131212CAF/UNOSAT_A3_landscape_Marcounda Province_7July2014_Overview.pdf",
+      "image_url": "http://maps.unosat.org/CF/CE20131212CAF/UNOSAT_A3_landscape_Marcounda Province_7July2014_Overview.jpg",
+      "dataset_id": "geodata-of-damage-assessment-in-marcounda-sub-prefecture-central-african-republic"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CF/CE20131212CAF/UNOSAT_A3_BanguiDamageAssessment_20140606.pdf",
+      "image_url": "http://maps.unosat.org/CF/CE20131212CAF/UNOSAT_A3_BanguiDamageAssessment_20140606.jpg",
+      "dataset_id": "geodata-of-damage-assesment-in-bangui-central-african-republic"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/TD/FL10102012TCD/UNOSAT_A4_ReportCover_NDjamena_14102012.pdf",
+      "image_url": "http://maps.unosat.org/TD/FL10102012TCD/UNOSAT_A4_ReportCover_NDjamena_14102012.JPG",
+      "dataset_id": "geodata-of-situational-update-1-satellite-assessment-of-floods-over-the-city-of-n'djamena-chad"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CD/CE20131107COD/UNOSAT_A3_20140204_Kamatsi_portrait.pdf",
+      "image_url": "http://maps.unosat.org/CD/CE20131107COD/UNOSAT_A3_20140204_Kamatsi_portrait.jpg",
+      "dataset_id": "geodata-of-idp-settlement-in-kamatsi-province-orientale-democratic-republic-of-congo"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CD/CE20131107COD/UNOSAT_A3_20140204_WEST_GETI.pdf",
+      "image_url": "http://maps.unosat.org/CD/CE20131107COD/UNOSAT_A3_20140204_WEST_GETI.jpg",
+      "dataset_id": "geodata-of-idp-settlement-in-west-geti-province-orientale-democratic-republic-of-congo"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CD/CE20131107COD/UNOSAT_A3_20140204_Boga.pdf",
+      "image_url": "http://maps.unosat.org/CD/CE20131107COD/UNOSAT_A3_20140204_Boga.jpg",
+      "dataset_id": "geodata-of-idp-settlement-in-boga-province-orientale-democratic-republic-of-congo"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CG/CE20121123COG/UNOSAT_CE20121123COG_Mugunga1IDP_v1.pdf",
+      "image_url": "http://maps.unosat.org/CG/CE20121123COG/UNOSAT_CE20121123COG_Mugunga3IDP_v1.jpg",
+      "dataset_id": "geodata-of-mugunga-1-displaced-persons-settlement-goma-democratic-republic-of-congo"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CG/CE20121123COG/UNOSAT_CE20121123COG_Mugunga3IDP_v1.pdf",
+      "image_url": "http://maps.unosat.org/CG/CE20121123COG/UNOSAT_CE20121123COG_Mugunga3IDP_v1.jpg",
+      "dataset_id": "geodata-of-muguna-3-displaced-persons-settlement-goma-democratic-republic-of-congo"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PS/ST20150107PSE/UNOSAT_A3_MODIS_AQUA_2015013.pdf",
+      "image_url": "http://maps.unosat.org/PS/ST20150107PSE/UNOSAT_A3_MODIS_AQUA_2015013.jpg",
+      "dataset_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PS/ST20150107PSE/UNOSAT_A3_MODIS_TERRA_Snow_Cover_Portrait.pdf",
+      "image_url": "http://maps.unosat.org/PS/ST20150107PSE/UNOSAT_A3_MODIS_TERRA_Snow_Cover_Portrait.jpg",
+      "dataset_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_Gaza_Report_Web_Final_2014.pdf",
+      "image_url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_Gaza_Report_Front_Page_500.jpg",
+      "dataset_id": "geodata-of-gaza-damage-assessment-2014-unosat-satellite-derived-geospatial-analysis"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_A3_KhuazaaAlQararra_20140801_Portraitopt.pdf",
+      "image_url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_A3_KhuazaaAlQararra_20140801_Portraitopt.jpg",
+      "dataset_id": "geodata-of-damage-assessment-in-khuza'a-and-al-qararra-gaza-strip-occupied-palestinian-territory"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_A3_Rafah_20140801.pdf",
+      "image_url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_A3_Rafah_20140801.jpg",
+      "dataset_id": "geodata-of-damage-assessment-in-rafah-gaza-strip---occupied-palestinian-territory"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_A3_East_Jarara_Central_Gaza_20140801_Portrait.pdf",
+      "image_url": "http://maps.unosat.org/PS/CE20140715PSE/UNOSAT_A3_East_Jarara_Central_Gaza_20140801_Portrait.jpg",
+      "dataset_id": "geodata-of-damage-assessment-in-jarara-area-gaza-strip---occupied-palestinian-territory"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/GP/UNOSAT_Overview_Guadeloupe_Lowres_v1.0.jpg",
+      "image_url": "http://maps.unosat.org/GP/UNOSAT_Overview_Guadeloupe_Lowres_v1.0_icon.jpg",
+      "dataset_id": "geodata-of-overview-map-of-the-islands-of-guadeloupe"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/HT/TC20123010HTI/UNOSAT_A4_HT_Report1_08112012.pdf",
+      "image_url": "http://maps.unosat.org/HT/TC20123010HTI/UNOSAT_A4_HT_Report1_06112012.jpg",
+      "dataset_id": "geodata-of-situation-update-1-tropical-storm-sandy-over-haiti-port-au-prince-and-croix-des-bouquets-districts"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/HT/TC20123010HTI/UNOSAT_A3_R2_20121101_HT_Flooding_Portrait.pdf",
+      "image_url": "http://maps.unosat.org/HT/TC20123010HTI/UNOSAT_A3_R2_20121101_HT_Flooding_Portrait.jpg",
+      "dataset_id": "geodata-of-satellite-detected-standing-waters-over-grand'anse-haiti"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/HA/DR20110714HOA/UNOSAT_A3_Luuq_HA_InfoCamps_Landscape_v6.pdf",
+      "image_url": "http://maps.unosat.org/HA/DR20110714HOA/UNOSAT_A3_Luuq_HA_InfoCamps_Landscape_v6.jpg",
+      "dataset_id": "geodata-of-shelters-detected-in-luuq-gedo-province-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/HA/DR20110714HOA/UNOSAT_A3_Dollow_20130313.pdf",
+      "image_url": "http://maps.unosat.org/HA/DR20110714HOA/UNOSAT_A3_Dollow_20130313.jpg",
+      "dataset_id": "geodata-of-informal-idp-shelters-in-border-town-of-doolow-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Biji_Damage_20141228.pdf",
+      "image_url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Biji_Damage_20141228.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-baiji-salah-ad-din-governorate-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Zumar_Damage_20150206.pdf",
+      "image_url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Zumar_Damage_20150206.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-zumar-nineveh-governorate-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Jalawla_Damage_20150206.pdf",
+      "image_url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Jalawla_Damage_20150206.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-jalawla-diyala-governorate-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Fallujah_Damage_20150122.pdf",
+      "image_url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_Portrait_Fallujah_Damage_20150122.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-fallujah-al-anbar-province-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_RamadiDamageAssessment_Landscape_Defopt.pdf",
+      "image_url": "http://maps.unosat.org/IQ/CE20140613IRQ/UNOSAT_A3_RamadiDamageAssessment_Landscape_Defopt.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-ramadi-al-anbar-province-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/IQ/FL20130508IRQ/UNOSAT_FL20130308IRQ_CentralWasitFlood_20130310_v1.pdf",
+      "image_url": "http://maps.unosat.org/IQ/FL20130508IRQ/UNOSAT_FL20130308IRQ_CentralWasitFlood_20130310_v1.jpg",
+      "dataset_id": "geodata-of-flood-waters-over-central-wasit-governorate-republic-of-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/IQ/FL20130508IRQ/UNOSAT_FL20130308IRQ_MaissanFlood_20130310_v3.pdf",
+      "image_url": "http://maps.unosat.org/IQ/FL20130508IRQ/UNOSAT_FL20130308IRQ_MaissanFlood_20130310_v3.jpg",
+      "dataset_id": "geodata-of-flood-waters-over-maissan-governorate-republic-of-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/ML/CE20120731MLI/UNOSAT_A3_Tibareybarey_20130204.pdf",
+      "image_url": "http://maps.unosat.org/ML/CE20120731MLI/UNOSAT_A3_Tibareybarey_20130204.jpg",
+      "dataset_id": "geodata-of-tibareybarey-refugee-camp-tillaberi-regionouallam-locality-niger"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/ML/CE20120731MLI/UNOSAT_A3_Mangaize_20130613.pdf",
+      "image_url": "http://maps.unosat.org/ML/CE20120731MLI/UNOSAT_A3_Mangaize_20130613.JPG",
+      "dataset_id": "geodata-of-mangaize-refugee-camp-tillaberi-regionouallam-locality-niger"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/ML/FL20130829MLI/UNOSAT_FL20130829MLI_BamakoStorm_20130901_v1o.pdf",
+      "image_url": "http://maps.unosat.org/ML/FL20130829MLI/UNOSAT_FL20130829MLI_BamakoStorm_20130901_v1o.jpg",
+      "dataset_id": "geodata-of-storm-impacts-in-the-bamako-capital-district-mali"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://www.disasterscharter.org/home",
+      "image_url": null,
+      "dataset_id": "geodata-of-poster-size-pre-disaster-map-of-al-hoceima-city"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://www.disasterscharter.org/home",
+      "image_url": null,
+      "dataset_id": "geodata-of-poster-size-pre-disaster-map-of-al-hoceima-region"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/MZ/FL20150112MOZ/UNOSAT_A3_Flooding_Shire_20150213.pdf",
+      "image_url": "http://maps.unosat.org/MZ/FL20150112MOZ/UNOSAT_A3_Flooding_Shire_20150213.jpg",
+      "dataset_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-region-malawi"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_Web_FL20130121MOZ_Comprehensive.jpg",
+      "image_url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_Web_FL20130121MOZ_Comprehensive.jpg",
+      "dataset_id": "geodata-of-consolidated-web-map-limpopo-river-floods-mozambique"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/MZ\\FL2013000018MOZ/UNOSAT_A3_XaiXai_RS2_02Feb2013.pdf",
+      "image_url": "http://maps.unosat.org/MZ\\FL2013000018MOZ/UNOSAT_A3_XaiXai_RS2_02Feb2013.jpg",
+      "dataset_id": "geodata-of-update-1-flood-waters-over-xai-xai-city-gaza-province-mozambique"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_A3_RS_FL20130121MOZ_ChokweFlood_4Feb.pdf",
+      "image_url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_A3_RS_FL20130121MOZ_ChokweFlood_4Feb.jpg",
+      "dataset_id": "geodata-of-update-1-flood-waters-over-chokwe-guika-bilene-and-xai-xai-districts-gaza-province-mozambique"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_A3_SP_XaiXai_29012013.pdf",
+      "image_url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_A3_SP_XaiXai_29012013.jpg",
+      "dataset_id": "geodata-of-flood-waters-over-xai-xai-city-gaza-province-mozambique"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_CE20130121MOZ_A3_SP_ChokweFlood_24Jan2013.pdf",
+      "image_url": "http://maps.unosat.org/MZ/FL2013000018MOZ/UNOSAT_CE20130121MOZ_A3_SP_ChokweFlood_24Jan2013.jpg",
+      "dataset_id": "geodata-of-flood-waters-over-chokwe-&-guika-district-gaza-province-mozambique"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/NG/FL2012101100NGA/UNOSAT_A3_Flooding_RiversState_20121016_Portrait.pdf",
+      "image_url": "http://maps.unosat.org/NG/FL2012101100NGA/UNOSAT_A3_Flooding_RiversState_20121016_Portrait.png",
+      "dataset_id": "geodata-of-satellite-analysis-of-standing-waters-in-rivers-state-nigeria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK/FL20140910PAK/UNOSAT_A3_Tarind_Muhammed_175k_landscape.pdf",
+      "image_url": "http://maps.unosat.org/PK/FL20140910PAK/UNOSAT_A3_Tarind_Muhammed_175k_landscape.jpg",
+      "dataset_id": "geodata-of-standing-waters-in-tarind-muhammed-panah--area-punjab-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_A3_EQ20130924_NortheastKech_Landscape_v1.pdf",
+      "image_url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_A3_EQ20130924_NortheastKech_Landscape_v1.jpg",
+      "dataset_id": "geodata-of-damage-assessment-for-northeastern-kech-district-balochistan-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_A3_EQ20130924_Kech_Portrait_Dal.pdf",
+      "image_url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_A3_EQ20130924_Kech_Portrait_Dal.jpg",
+      "dataset_id": "geodata-of-damage-assessment-for-dal-area-kech-district-balochistan-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_A3_EQ20130924_Kech_Portrait_Kuldan.pdf",
+      "image_url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_A3_EQ20130924_Kech_Portrait_Kuldan.jpg",
+      "dataset_id": "geodata-of-damage-assessment-for-kuldan-area-kech-district-balochistan-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_EQ20130924_A3_JebriArea_v1.pdf",
+      "image_url": "http://maps.unosat.org/PK/EQ20130924PAK/UNOSAT_EQ20130924_A3_JebriArea_v1.jpg",
+      "dataset_id": "geodata-of-damage-assessment-for-jebri-area-awaran-district-balochistan-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_SukkurBarrage_20130814_26.pdf",
+      "image_url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_SukkurBarrage_20130814_26.jpg",
+      "dataset_id": "geodata-of-update-overview-of-flood-waters-in-shikarpur-&-sukkur-district-sindh-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_SukkurBarrage_20130814_26.pdf",
+      "image_url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_SukkurBarrage_20130814_26.jpg",
+      "dataset_id": "geodata-of-update-overview-of-flood-waters-in-shikarpur-&-sukkur-district-sindh-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_PunjabUpdate_FL20130825.pdf",
+      "image_url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_PunjabUpdate_FL20130825.jpg",
+      "dataset_id": "geodata-of-update-overview-of-flood-waters-in-punjab-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_SialkotUpdate_FL20130827.pdf",
+      "image_url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_SialkotUpdate_FL20130827.jpg",
+      "dataset_id": "geodata-of-update-overview-of-flood-waters-in-sialkot-&-narowal-districts-punjab-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_Punjab_FL20130826.pdf",
+      "image_url": "http://maps.unosat.org/PK\\FL20130820PAK/UNOSAT_A3_Punjab_FL20130826.jpg",
+      "dataset_id": "geodata-of-overview-of-flood-waters-in-punjab-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PK/fl20120918pak/MODIS_FL20120918PAK_141012_v1_HR.pdf",
+      "image_url": "http://maps.unosat.org/PK/fl20120918pak/MODIS_FL20120918PAK_141012_v1_HR.jpg",
+      "dataset_id": "geodata-of-update-1-overview-of-flood-waters-in-the-north-of-sindh-province-pakistan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20141204PHL/UNOSAT_A3_DamagedArea_Borongan_20141214.pdf",
+      "image_url": "http://maps.unosat.org/PH/TC20141204PHL/UNOSAT_A3_DamagedArea_Borongan_20141214.jpg",
+      "dataset_id": "geodata-of-damaged-structures-in-borongan-eastern-samar-province-philippines"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20141204PHL/UNOSAT_A3_TX_20141208_SanMiguel_opt.pdf",
+      "image_url": "http://maps.unosat.org/PH/TC20141204PHL/UNOSAT_A3_TX_20141208_SanMiguel_opt.jpg",
+      "dataset_id": "geodata-of-satellite-detected-waters-over-san-miguel-leyte-eastern-visayas-philippines"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3_Julita_DamageAnalysis_Landscape.pdf",
+      "image_url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3__Capocaan_DamageAnalysis.jpg",
+      "dataset_id": "geodata-of-damaged-structures-in-julita-leyte-philippines"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3_Potot_DamagAnalysis_Portrait.pdf",
+      "image_url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3_Bentiqui_DamageAnalysis.jpg",
+      "dataset_id": "geodata-of-damaged-structures-in-potot-leyte-philippines"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3_Limon_DamageAnalysis_AOI1.pdf",
+      "image_url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3_Bentiqui_DamageAnalysis.jpg",
+      "dataset_id": "geodata-of-damaged-structures-in-limon-leyte-philippines"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3_Cabolan_DamageAnalysis_AOI2.pdf",
+      "image_url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_A3_Bentiqui_DamageAnalysis.jpg",
+      "dataset_id": "geodata-of-damaged-structures-in-cabolan-leyte-philippines"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20131108PHL/cd",
+      "image_url": "http://maps.unosat.org/PH/TC20131108PHL/UNOSAT_LIVEmap_TC20131108PHL_v1.jpg",
+      "dataset_id": "geodata-of-unosat-live-map-philippines-typhoon---tc_20131108_phl"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/PH/TC20121205PHL/UNOSAT_A3_NewBataan_Atlas_10122012.pdf",
+      "image_url": "http://maps.unosat.org/PH/TC20121205PHL/UNOSAT_A3_NewBataan_Atlas_10122012.jpg",
+      "dataset_id": "geodata-of-atlas-of-new-bataan-davao-region-philippines"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/CG/AC20120203COG/UNOSAT_COG_AC2012_DamageAssessment_v1.pdf",
+      "image_url": "http://maps.unosat.org/CG/AC20120203COG/UNOSAT_COG_AC2012_DamageAssessment_v1.jpg",
+      "dataset_id": "geodata-of-damage-assessment-regiment-blindé-munitions-explosion-mpila-brazzaville-congo"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/WS/TC20121215WSM/UNOSAT_A3_TC20121218WSM_Atlas_Toamasaga.pdf",
+      "image_url": "http://maps.unosat.org/WS/TC20121215WSM/UNOSAT_A3_TC20121218WSM_Atlas_Toamasaga.jpg",
+      "dataset_id": "geodata-of-atlas-of-tuamasaga-district-upolu-island-samoa"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SN/FL22082012SEN/UNOSAT_A3_Kaolack_05092012.pdf",
+      "image_url": "http://maps.unosat.org/SN/FL22082012SEN/UNOSAT_A3_Kaolack_05092012.jpg",
+      "dataset_id": "geodata-of-flood-waters-along-salown-delta-kaolack-city-senegal"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SB/FL20140405SLB/UNOSAT_A3_Honiara_20140413_Damage_portrait.pdf",
+      "image_url": "http://maps.unosat.org/SB/FL20140405SLB/UNOSAT_A3_Honiara_20140413_Damage_portrait.jpg",
+      "dataset_id": "geodata-of-damage-assessment-along-matanikau-river-honiara-guadalcanal-solomon-islands"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Hargeisa02112014_Landscapeopt.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Hargeisa02112014_Landscapeopt.jpg",
+      "dataset_id": "geodata-of-idp-shelter-changes-in-hargeisa-somalia-between-20-august-2012-and-02-november-2014"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_UPDATE_DaynileDharkeneyShelterAnalysis_20141009_Portraitopt.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_UPDATE_DaynileDharkeneyShelterAnalysis_20141009_Portraitopt.jpg",
+      "dataset_id": "geodata-of-update-idp-shelter-density-in-daynile-and-dharkenley-district-mogadishu-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Kismayo_ShelterCount_20140503opt.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Kismayo_ShelterCount_20140503.jpg",
+      "dataset_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Galkayo_20140420opt.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Galkayo_20140420opt.jpg",
+      "dataset_id": "geodata-of-idp-shelters-detected-north-of-galkayo-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Kismayo_ShelterCount_20140305opt.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Kismayo_ShelterCount_20140305opt.jpg",
+      "dataset_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Galkayo_20140407.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Galkayo_20140407.jpg",
+      "dataset_id": "geodata-of-idp-shelters-detected-in-galkayo-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/REPORT_MogadishuCamp_Analysis_24November2013.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/REMAPPED_UNOSAT_CE20130710SOM_MogadishuIDP_24Nov2013_reportcover_v2.jpg",
+      "dataset_id": "geodata-of-update-6-reduction-of-somali-idp-shelter-concentrations-in-mogadishu-somalia--3-june-2013---24-november-2013"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO\\CE20130710SOM/UNOSAT_A3_MetalRoofShelterDensity_07112013.pdf",
+      "image_url": "http://maps.unosat.org/SO\\CE20130710SOM/UNOSAT_A3_MetalRoofShelterDensity_07112013.jpg",
+      "dataset_id": "geodata-of-structural-development-afgooye-corridor-somalia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Baidoa_20130821v1.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_A3_Baidoa_20130821v1.jpg",
+      "dataset_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-11-march-2013--21-august-2013"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/HA/DR20110714HOA/UNOSAT_A3_KismayoIDP_Landscape_11Aug2013_v2o.pdf",
+      "image_url": "http://maps.unosat.org/HA/DR20110714HOA/UNOSAT_A3_KismayoIDP_Landscape_11Aug2013_v2.jpg",
+      "dataset_id": "geodata-of-idp-shelter-changes-in-kismayo-somalia-between-10-may-2012---11-august-2013"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_Mogadishu_IDPAnalysis_5_20130711_v3.pdf",
+      "image_url": "http://maps.unosat.org/SO/CE20130710SOM/UNOSAT_Mogadishu_IDPAnalysis_5_20130711_v3.jpg",
+      "dataset_id": "geodata-of-update-5-reduction-of-somali-idp-shelter-concentrations-in-mogadishu-somalia--2-may-2012---3-june-2013"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3__JubaIDP_20150215.pdf",
+      "image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3__JubaIDP_20150215.jpg",
+      "dataset_id": "geodata-of-idp-shelters-in-un-house-compound-juba-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Melut_20141202_Landscapeopt.pdf",
+      "image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Melut_20141202_Landscapeopt.jpg",
+      "dataset_id": "geodata-of-idp-camp-in-melut-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Wunthou_IDP_20140510.pdf",
+      "image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Wunthou_IDP_20140510.jpg",
+      "dataset_id": "geodata-of-wunthou-idp-site-awerial-county-lakes-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Minkaman_20140510.pdf",
+      "image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Minkaman_20140510.jpg",
+      "dataset_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_CE20131218SSD_Leitchour_5may2014.pdf",
+      "image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_CE20131218SSD_Leitchour_5may2014.jpg",
+      "dataset_id": "geodata-of-leitchour-refugee-camp-gambella-region-ethiopia"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_MalakalDamage_20140315.pdf",
+      "image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Malakal_20140122_V3_j.jpg",
+      "dataset_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/OT20130511SSD/UNOSAT_OT20130511SSD_A3_DoroCamp_Landscape.pdf",
+      "image_url": "http://maps.unosat.org/SS/OT20130511SSD/UNOSAT_OT20130511SSD_A3_DoroCamp_Landscape.jpg",
+      "dataset_id": "geodata-of-doro-refugee-camp-maban-county-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_A3_BatilCamp_FL20120924SSD_v3.pdf",
+      "image_url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_A3_BatilCamp_FL20120924SSD_v3.jpg",
+      "dataset_id": "geodata-of-batil-refugee-camp-maban-county-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_DoroCamp_Update_FL20120924SSD_v1c.pdf",
+      "image_url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_DoroCamp_Update_FL20120924SSD_v1c.jpg",
+      "dataset_id": "geodata-of-update-doro-refugee-camp-maban-county-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_YidaCamp_FL20120924SSD_v1_lowres.pdf",
+      "image_url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_YidaCamp_FL20120924SSD_v1.jpg",
+      "dataset_id": "geodata-of-yida-refugee-camp-pariang-county-unity-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_GendrasaCamp_FL20120924SSD_v2.pdf",
+      "image_url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_GendrasaCamp_FL20120924SSD_v2.jpg",
+      "dataset_id": "geodata-of-gendrasa-refugee-camp-maban-county-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_DoroCamp_FL20120924SSD_v1b.pdf",
+      "image_url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_DoroCamp_FL20120924SSD_v1b.jpg",
+      "dataset_id": "geodata-of-doro-refugee-camp-maban-county-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_BatilCamp_FL20120924SSD_v1.pdf",
+      "image_url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_BatilCamp_FL20120924SSD_v1.jpg",
+      "dataset_id": "geodata-of-batil-refugee-camp-maban-county-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_JamamCamp_FL20120924SSD_v1.pdf",
+      "image_url": "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_JamamCamp_FL20120924SSD_v1.jpg",
+      "dataset_id": "geodata-of-jamam-two-refugee-camp-maban-county-upper-nile-state-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/LK/FL20141230LKA/UNOSAT_A3_FL20141230LKA_Ampara_Batticoloa_Flood_201411124_20141218.pdf",
+      "image_url": "http://maps.unosat.org/LK/FL20141230LKA/UNOSAT_A3_FL20141230LKA_Ampara_Batticoloa_Flood_201411124_20141218.jpg",
+      "dataset_id": "geodata-of-satellite-detected-waters-over-ampara-and-batticaloa-districts-sri-lanka"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/FL20140803SDN/UNOSAT_A3_Flooding_Update_Khartoum_20140819.pdf",
+      "image_url": "http://maps.unosat.org/SD/FL20140803SDN/UNOSAT_A3_Flooding_Update_Khartoum_20140819.jpg",
+      "dataset_id": "geodata-of-update-flood-waters-over-khartoum-state-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "https://unosatgis.cern.ch/LIVE/FL20140803SDN/",
+      "image_url": "http://maps.unosat.org/SD/FL20140803SDN/UNOSAT_CE20140715PSE_WebMap_Thumbnail.jpg",
+      "dataset_id": "geodata-of-web-map-flood-water-over-khartoum-state-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/RC20140709SDN/UNOSAT_A3_Shagarab1_Portraitopt.pdf",
+      "image_url": "http://maps.unosat.org/SD/RC20140709SDN/UNOSAT_A3_Shagarab1_Portraitopt.jpg",
+      "dataset_id": "geodata-of-shagarab-1-refugee-camp-al-qadarif-province-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/RC20140709SDN/UNOSAT_A3_Shagarab2_Portraitopt.pdf",
+      "image_url": "http://maps.unosat.org/SD/RC20140709SDN/UNOSAT_A3_Shagarab2_Portraitopt.jpg",
+      "dataset_id": "geodata-of-shagarab-2-refugee-camp-al-qadarif-province-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/RC20140709SDN/UNOSAT_A3_UmGargour_Landscapeopt_v2.pdf",
+      "image_url": "http://maps.unosat.org/SD/RC20140709SDN/UNOSAT_A3_UmGargour_Landscapeopt_v2.jpg",
+      "dataset_id": "geodata-of-um-gargour-refugee-camp-al-qadarif-province-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v9.pdf",
+      "image_url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v6789.jpg",
+      "dataset_id": "geodata-of-rainfall-accumulation-from-14th-to-21st-october-2013-sudan-and-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v8.pdf",
+      "image_url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v6789.jpg",
+      "dataset_id": "geodata-of-rainfall-accumulation-from-7th-to-14th-october-2013-sudan-and-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v7.pdf",
+      "image_url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v6789.jpg",
+      "dataset_id": "geodata-of-rainfall-accumulation-from-30th-sept-to-7th-oct-2013-sudan-and-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v6.pdf",
+      "image_url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_TRMM_Portrait_v6789.jpg",
+      "dataset_id": "geodata-of-rainfall-accumulation-from-23rd-to-30th-september-2013-sudan-and-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_FL20130806SDN_TRMM_Portrait_v5.pdf",
+      "image_url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_FL20130806SDN_TRMM_Portrait_v5.jpg",
+      "dataset_id": "geodata-of-rainfall-accumulation-from-23rd-sept-to-20th-oct-2013-sudan-and-south-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD\\FL20130806SDN/UNOSAT_A3_Khartoum_Floods_FS2_20130809_Landscape.pdf",
+      "image_url": "http://maps.unosat.org/SD\\FL20130806SDN/UNOSAT_A3_Khartoum_Floods_FS2_20130809_Landscape.jpg",
+      "dataset_id": "geodata-of-update-2-flood-waters-over-khartoum-state-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_Khartoum_Floods_RS2_20130813_Landscape.pdf",
+      "image_url": "http://maps.unosat.org/SD/FL20130806SDN/UNOSAT_A3_Khartoum_Floods_RS2_20130813_Landscape.jpg",
+      "dataset_id": "geodata-of-update-flood-waters-over-khartoum-state-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SD\\FL20130806SDN/UNOSAT_A3_Khartoum_Floods_RS2_20130810_Landscape.pdf",
+      "image_url": "http://maps.unosat.org/SD\\FL20130806SDN/UNOSAT_A3_Khartoum_Floods_RS2_20130810_Landscape.jpg",
+      "dataset_id": "geodata-of-flood-waters-over-khartoum-state-sudan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landscape_Kobane_DamageAssessment_20150211.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landscape_Kobane_DamageAssessment_20150211.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20141111_v1.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20141111_v1.jpg",
+      "dataset_id": "geodata-of-update-al-azraq-refugee-camp-az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20141111.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20141111.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landscape_CE20130604SYR_Ar_Raqqa_20141106.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landscape_CE20130604SYR_Ar_Raqqa_20141106.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-ar-raqqa-ar-raqqa-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landscape_CE20130604_Idlib_20141106.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landscape_CE20130604_Idlib_20141106.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-idlib-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landcape_CE20130604SYR_Daraa_20141107.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Landcape_CE20130604SYR_Daraa_20141107.jpg",
+      "dataset_id": "geodata-of-damage-assessment-of-daraa-daraa-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_RubkonaIDP_Landscape_20140725_v2.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_RubkanIDP_Landscape_20140725.jpg",
+      "dataset_id": "geodata-of-rubkan-border-crossing-idp-settlement-homs-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20140706.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20140706.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20140426.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20140426.jpg",
+      "dataset_id": "geodata-of-update-al-azraq-refugee-camp--az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_20140406.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_20140406.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20140107.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20140107.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY\\CE20130604SYR/UNOSAT_A3_AlAzraq_20131228.pdf",
+      "image_url": "http://maps.unosat.org/SY\\CE20130604SYR/UNOSAT_A3_AlAzraq_20131228.jpg",
+      "dataset_id": "geodata-of-update-2-al-azraq-refugee-camp--az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Domiz_20131225.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Domiz_20131225.jpg",
+      "dataset_id": "geodata-of-domiz-refugee-camp--duhok-governorate-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130930.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130930.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20130914.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20130914.jpg",
+      "dataset_id": "geodata-of-update-al-azraq-refugee-camp--az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130825.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130825.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20130820.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20130820.jpg",
+      "dataset_id": "geodata-of-update-al-azraq-refugee-camp--az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_CE20130604SYR_A3_Domiz_Landscape_20130721.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_CE20130604SYR_A3_Domiz_Landscape_20130721.jpg",
+      "dataset_id": "geodata-of-domiz-refugee-camp--duhok-governorate-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_CE20130604SYR_A3_AlAzraq_20130721.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_CE20130604SYR_A3_AlAzraq_20130721.jpg",
+      "dataset_id": "geodata-of-update-al-azraq-refugee-camp--az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130710.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130710.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/Update_UNOSAT_A3_KingAbdullahPark_20130629v2.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/Update_UNOSAT_A3_KingAbdullahPark_20130629v2.jpg",
+      "dataset_id": "geodata-of-king-abdullah-park-refugee-camp-irbid-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_UbayidiCamp_CE20130604SYR_25June2013.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_UbayidiCamp_CE20130604SYR_25June2013.jpg",
+      "dataset_id": "geodata-of-ubayidi-refugee-camp-al-anbar-governorate-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20130616.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_20130616.jpg",
+      "dataset_id": "geodata-of-al-azraq-refugee-camp--az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_SafawalmarwahMartyrFamiliesCamps_CE20130604SYR_05June2013_v2.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_SafawalmarwahMartyrFamiliesCamps_CE20130604SYR_05June2013_v2.jpg",
+      "dataset_id": "geodata-of-safawalmarwah-and-martyr-families-idp-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Meydan_20130605_Landscape.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Meydan_20130605_Landscape.jpg",
+      "dataset_id": "geodata-of-meydan-idp-camp-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AsSalameCamp_CE20110704SYR_05June2013.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AsSalameCamp_CE20110704SYR_05June2013.jpg",
+      "dataset_id": "geodata-of-as-salame-idp-camp-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Cyber City_Landscape_20130527v2.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Cyber City_Landscape_20130527v2.jpg",
+      "dataset_id": "geodata-of-cyber-city-refugee-camp-irbid-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/Update_UNOSAT_A3_KingAbdullahPark_20130527.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/Update_UNOSAT_A3_KingAbdullahPark_20130527.jpg",
+      "dataset_id": "geodata-of-king-abdullah-park-refugee-camp-irbid-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130616v2.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130616v2.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_BabAlHawaCamp_CE20110704SYR_29May2013_v1.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_BabAlHawaCamp_CE20110704SYR_29May2013_v1.jpg",
+      "dataset_id": "geodata-of-bab-al-hawa-idp-camp-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_BabAlSalameCamp_CE20110704SYR_29May2013_v3.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_BabAlSalameCamp_CE20110704SYR_29May2013_v3.jpg",
+      "dataset_id": "geodata-of-bab-al-salame-idp-camp-a-zaz-district-aleppo-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Domiz_Landscape_20130604.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_Domiz_Landscape_20130604.jpg",
+      "dataset_id": "geodata-of-domiz-refugee-camp--duhok-governorate-iraq"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AtmehCamp_CE20110704SYR_10May2013_v1b.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AtmehCamp_CE20110704SYR_10May2013_v1b.jpg",
+      "dataset_id": "geodata-of-atmeh-idp-camp-in-harem-district-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_Roads_V2.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_A3_AlAzraq_Roads_V2.jpg",
+      "dataset_id": "geodata-of-al-azraq-refugee-camp--az-zarqa-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AlNasserCamp_CE20110704SYR_10May2013_v1.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AlNasserCamp_CE20110704SYR_10May2013_v1.jpg",
+      "dataset_id": "geodata-of-al-nasser-camp-in-harim-district-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_TaibahKaramaCamps_CE20110704SYR_10May2013_v1.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_TaibahKaramaCamps_CE20110704SYR_10May2013_v1.jpg",
+      "dataset_id": "geodata-of-taibah-and-al-karama-idp-camps-in-harim-region-idleb-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_QahCamp_CE20110704SYR_10May2013_v1.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_QahCamp_CE20110704SYR_10May2013_v1.jpg",
+      "dataset_id": "geodata-of-qah-idp-camp-in-harem-district-idleb-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_JarabulusCamp_CE20110704SYR_22May2013_v1b.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_JarabulusCamp_CE20110704SYR_22May2013_v1b.jpg",
+      "dataset_id": "geodata-of-jarabulus-idp-camp-aleppo-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AtmehCamp_CE20110704SYR_10May2013_v1b.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AtmehCamp_CE20110704SYR_10May2013_v1b.jpg",
+      "dataset_id": "geodata-of-atmeh-idp-camp-in-harem-district-idlib-governate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AqqrabatCamp_CE20110704SYR_10May2013_v1b.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AqqrabatCamp_CE20110704SYR_10May2013_v1b.jpg",
+      "dataset_id": "geodata-of-aqqrabat-idp-camp-in-harem-district-idlib-governorate-syria"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130521.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130521.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_AlZaatariCamp4Stages_Landscape_20130513.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_AlZaatariCamp4Stages_Landscape_20130513.jpg",
+      "dataset_id": "geodata-of-evolution-of-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130415.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130415.JPG",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130331.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130331.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130314.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_20130314.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_AlZaatariCamp4Stages_Landscape_20130314_V2.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_AlZaatariCamp4Stages_Landscape_20130314_V2.jpg",
+      "dataset_id": "geodata-of-evolution-of-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY\\CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_V2.pdf",
+      "image_url": "http://maps.unosat.org/SY\\CE-2011-0704-SYR/UNOSAT_A3_Update_AlZaatariCamp_Landscape_V2.jpg",
+      "dataset_id": "geodata-of-update-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_AlZaatariCamp_Landscape_CE20110704_v1.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_A3_AlZaatariCamp_Landscape_CE20110704_v1.jpg",
+      "dataset_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AlZaatariCamp_20121122_v1.pdf",
+      "image_url": "http://maps.unosat.org/SY/CE-2011-0704-SYR/UNOSAT_AlZaatariCamp_20121122_v1.jpg",
+      "dataset_id": "geodata-of-al-zaatari-refugee-camp---mafraq-governorate-jordan"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/ZW/FL20140207ZWE/UNOSAT_A3_FL20140207ZWE_TokweMukorsiDam_20140218_Landscapeopt.pdf",
+      "image_url": "http://maps.unosat.org/ZW/FL20140207ZWE/UNOSAT_A3_FL20140207ZWE_TokweMukorsiDam_20140218_Landscape.jpg",
+      "dataset_id": "geodata-of-update-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe"
+    },
+    {
+      "title": "Static PDF Map",
+      "type": "paper",
+      "description": "Static viewing map for printing.",
+      "url": "http://maps.unosat.org/ZW/FL20140207ZWE/UNOSAT_A3_FL20140207ZWE_TokweMukorsiDam_Landscapeopt.pdf",
+      "image_url": "http://maps.unosat.org/ZW/FL20140207ZWE/UNOSAT_A3_FL20140207ZWE_TokweMukorsiDam_Landscape.jpg",
+      "dataset_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe"
+    }
+  ]
+]

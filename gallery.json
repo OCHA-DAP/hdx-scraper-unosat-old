@@ -13,12 +13,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0430-AFG", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -44,12 +38,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0430-AFG", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -75,12 +63,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/DZ/FR20120816DZA/UNOSAT_FR20120816DZA.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/DZ/FR20120816DZA/UNOSAT_FR20120816DZA.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/DZ/FR20120816DZA/UNOSAT_FR20120816DZA.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FR-2012-0816-DZA", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -106,12 +88,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/BD/FL20131024BGD/UNOSAT_FL20131024BGD_Shapefiles.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/BD/FL20131024BGD/UNOSAT_FL20131024BGD_Shapefiles.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/BD/FL20131024BGD/UNOSAT_FL20131024BGD_Shapefiles.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-1024-BGD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -137,12 +113,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Shape_Trinidad.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Trinidad.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Shape_Trinidad.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Trinidad.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Shape_Trinidad.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Trinidad.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0213-BOL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -168,12 +138,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0213-BOL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -199,12 +163,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip", "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0213-BOL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -230,12 +188,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/BO/2008/spanish_versions/UNOSAT_Trinidad_Urban_Flood_Map_TerraSARX_14Feb08_sp_Highres_v1.pdf", "http://maps.unosat.org/BO/2008/spanish_versions/UNOSAT_Trinidad_Urban_Flood_Map_TerraSARX_14Feb08_sp_Highres_v1.kml", null, null, null ],
-"url": [ "http://maps.unosat.org/BO/2008/spanish_versions/UNOSAT_Trinidad_Urban_Flood_Map_TerraSARX_14Feb08_sp_Highres_v1.pdf", "http://maps.unosat.org/BO/2008/spanish_versions/UNOSAT_Trinidad_Urban_Flood_Map_TerraSARX_14Feb08_sp_Highres_v1.kml", null, null, null ],
-"name": [ "http://maps.unosat.org/BO/2008/spanish_versions/UNOSAT_Trinidad_Urban_Flood_Map_TerraSARX_14Feb08_sp_Highres_v1.pdf", "http://maps.unosat.org/BO/2008/spanish_versions/UNOSAT_Trinidad_Urban_Flood_Map_TerraSARX_14Feb08_sp_Highres_v1.kml", null, null, null ],
-"format": [ null, "KML", null, null, null ] 
-},
 "tags": {
  "name": [ "Munitions Depot Explosion", "FL-2007-000231-BOL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -261,12 +213,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/KH/FL20131021KHM/UNOSAT_FL20131021KHM_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/KH/FL20131021KHM/UNOSAT_FL20131021KHM_GDB.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/KH/FL20131021KHM/UNOSAT_FL20131021KHM_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/KH/FL20131021KHM/UNOSAT_FL20131021KHM_GDB.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/KH/FL20131021KHM/UNOSAT_FL20131021KHM_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/KH/FL20131021KHM/UNOSAT_FL20131021KHM_GDB.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-1021-KHM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -292,12 +238,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/CV/VO20141124CPV/WV20141125_lava_Flow_Fogo.kmz", null, null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/CV/VO20141124CPV/WV20141125_lava_Flow_Fogo.kmz", null, null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/CV/VO20141124CPV/WV20141125_lava_Flow_Fogo.kmz", null, null, null, null ],
-"format": [ "KMZ", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "VO-2014-1124-CPV", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -323,12 +263,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/CV/VO20141124CPV/LS20141125_lava_Flow_Fogo.kmz", null, null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/CV/VO20141124CPV/LS20141125_lava_Flow_Fogo.kmz", null, null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/CV/VO20141124CPV/LS20141125_lava_Flow_Fogo.kmz", null, null, null, null ],
-"format": [ "KMZ", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Refugee Camp", "VO-2014-1124-CPV", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -354,12 +288,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1212-CAF", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -385,12 +313,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip", "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip", "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip", "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1212-CAF", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -416,12 +338,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_kml.zip", "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_gdb.zip", null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_kml.zip", "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_gdb.zip", null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_kml.zip", "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/td/FL10102012TCD/FL10102012TCD_gdb.zip", null, null ],
-"format": [ "KML", "SHP", "GDB", null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-1010-TCD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -447,12 +363,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1107-COD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -478,12 +388,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1107-COD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -509,12 +413,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1107-COD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -540,12 +438,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/CG/CE20121123COG/mugunga1_structures.zip", null, null, null, null ],
-"url": [ "http://maps.unosat.org/CG/CE20121123COG/mugunga1_structures.zip", null, null, null, null ],
-"name": [ "http://maps.unosat.org/CG/CE20121123COG/mugunga1_structures.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2012-1123-COG", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -571,12 +463,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/CG/CE20121123COG/mugunga3_structures.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/CG/CE20121123COG/mugunga3_structures.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/CG/CE20121123COG/mugunga3_structures.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2012-1123-COG", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -602,12 +488,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "Modis_Aqua_Terra_Snowcover_20150113.zip", null, null, null, null ],
-"url": [ "Modis_Aqua_Terra_Snowcover_20150113.zip", null, null, null, null ],
-"name": [ "Modis_Aqua_Terra_Snowcover_20150113.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "ST-2015-0107-PSE", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -633,12 +513,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PS/ST20150107PSE/modis_terra_20150112_snowcover_Final.zip", null, null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PS/ST20150107PSE/modis_terra_20150112_snowcover_Final.zip", null, null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PS/ST20150107PSE/modis_terra_20150112_snowcover_Final.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "ST-2015-0107-PSE", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -664,12 +538,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2014-0715-PSE", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -695,12 +563,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2014-0715-PSE", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -726,12 +588,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2014-0715-PSE", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -757,12 +613,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip", "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2014-0715-PSE", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -788,12 +638,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/GP/UNOSAT_Overview_Guadeloupe_Highres_v1.0.jpeg", "http://cernunosat05.cern.ch/arcgis/services/fl/wms_fl_dailyupdate/MapServer/KmlServer", "http://unosat.web.cern.ch/unosat/shared/Horn_A/UNOSAT_HornGDB_v5_Arc93.gdb.zip", "http://unosat.web.cern.ch/unosat/shared/Horn_A/UNOSAT_HornGDB_v5_Arc93.gdb.zip", "http://cernunosat05.cern.ch/arcgis/services/fl/wms_fl_dailyupdate/MapServer/WMSServer" ],
-"url": [ "http://maps.unosat.org/GP/UNOSAT_Overview_Guadeloupe_Highres_v1.0.jpeg", "http://cernunosat05.cern.ch/arcgis/services/fl/wms_fl_dailyupdate/MapServer/KmlServer", "http://unosat.web.cern.ch/unosat/shared/Horn_A/UNOSAT_HornGDB_v5_Arc93.gdb.zip", "http://unosat.web.cern.ch/unosat/shared/Horn_A/UNOSAT_HornGDB_v5_Arc93.gdb.zip", "http://cernunosat05.cern.ch/arcgis/services/fl/wms_fl_dailyupdate/MapServer/WMSServer" ],
-"name": [ "http://maps.unosat.org/GP/UNOSAT_Overview_Guadeloupe_Highres_v1.0.jpeg", "http://cernunosat05.cern.ch/arcgis/services/fl/wms_fl_dailyupdate/MapServer/KmlServer", "http://unosat.web.cern.ch/unosat/shared/Horn_A/UNOSAT_HornGDB_v5_Arc93.gdb.zip", "http://unosat.web.cern.ch/unosat/shared/Horn_A/UNOSAT_HornGDB_v5_Arc93.gdb.zip", "http://cernunosat05.cern.ch/arcgis/services/fl/wms_fl_dailyupdate/MapServer/WMSServer" ],
-"format": [ null, "KML", "GDB", "GDB", null ] 
-},
 "tags": {
  "name": [ "Vulcano", "TC-2007-000135-GLP", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -819,12 +663,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat.org/shared/TC20121030HTI_kmz.zip", "http://unosat.org/shared/TC20123010HTI.zip", null, null, null ],
-"url": [ "http://unosat.org/shared/TC20121030HTI_kmz.zip", "http://unosat.org/shared/TC20123010HTI.zip", null, null, null ],
-"name": [ "http://unosat.org/shared/TC20121030HTI_kmz.zip", "http://unosat.org/shared/TC20123010HTI.zip", null, null, null ],
-"format": [ "KMZ", "ZIP", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2012-3010-HTI", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -850,12 +688,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/HT/TC20123010HTI/TC20123010HTI.zip", null, null, null, null ],
-"url": [ "http://maps.unosat.org/HT/TC20123010HTI/TC20123010HTI.zip", null, null, null, null ],
-"name": [ "http://maps.unosat.org/HT/TC20123010HTI/TC20123010HTI.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2012-3010-HTI", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -881,12 +713,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/Luuq_20121219.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/Luuq_20121219.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/Luuq_20121219.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "DR-2011-000097-HOA", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -912,12 +738,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/DR20110714HOA_Dolo_20130303.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/DR20110714HOA_Dolo_20130303.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/DR20110714HOA_Dolo_20130303.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "DR-2011-0714-HOA", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -943,12 +763,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji_Shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji_Shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji_Shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Vulcano", "CE-2014-0613-IRQ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -974,12 +788,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2014-0613-IRQ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1005,12 +813,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2014-0613-IRQ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1036,12 +838,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_shp.zip", "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2014-0613-IRQ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1067,12 +863,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2014-0613-IRQ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1098,12 +888,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/IQ/FL20130508IRQ/FL20130508IRQ.gdb.zip", null, null, null, null ],
-"url": [ "http://maps.unosat.org/IQ/FL20130508IRQ/FL20130508IRQ.gdb.zip", null, null, null, null ],
-"name": [ "http://maps.unosat.org/IQ/FL20130508IRQ/FL20130508IRQ.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-000508-IRQ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1129,12 +913,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/IQ/FL20130508IRQ/FL20130508IRQ.gdb.zip", null, null, null, null ],
-"url": [ "http://maps.unosat.org/IQ/FL20130508IRQ/FL20130508IRQ.gdb.zip", null, null, null, null ],
-"name": [ "http://maps.unosat.org/IQ/FL20130508IRQ/FL20130508IRQ.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-000508-IRQ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1160,12 +938,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/ML/CE20120731MLI/Tibareybarey_20130204.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/ML/CE20120731MLI/Tibareybarey_20130204.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/ML/CE20120731MLI/Tibareybarey_20130204.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2012-0731-MLI", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1191,12 +963,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/ML/CE20120731MLI/Mangaize_20130623.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/ML/CE20120731MLI/Mangaize_20130623.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/ML/CE20120731MLI/Mangaize_20130623.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2012-0731-MLI", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1222,12 +988,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/ML/FL20130829MLI/UNOSAT_FL20130829MLI_BamakoStorm_20130901_v1.zip", null, null, null, null ],
-"url": [ "http://maps.unosat.org/ML/FL20130829MLI/UNOSAT_FL20130829MLI_BamakoStorm_20130901_v1.zip", null, null, null, null ],
-"name": [ "http://maps.unosat.org/ML/FL20130829MLI/UNOSAT_FL20130829MLI_BamakoStorm_20130901_v1.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0829-MLI", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1253,12 +1013,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/MA/morocco_charter_spot5_overview_pre-disaster_al_hoceima_A1.zip", null, null, null, null ],
-"url": [ "http://maps.unosat.org/MA/morocco_charter_spot5_overview_pre-disaster_al_hoceima_A1.zip", null, null, null, null ],
-"name": [ "http://maps.unosat.org/MA/morocco_charter_spot5_overview_pre-disaster_al_hoceima_A1.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "Other", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1284,12 +1038,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/MA/morocco_charter_spot5_overview_pre-disaster_A1.zip", null, null, null, null ],
-"url": [ "http://maps.unosat.org/MA/morocco_charter_spot5_overview_pre-disaster_A1.zip", null, null, null, null ],
-"name": [ "http://maps.unosat.org/MA/morocco_charter_spot5_overview_pre-disaster_A1.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "Other", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1315,12 +1063,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "FL-2015-0112-MOZ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1346,12 +1088,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "https://unosatgis.cern.ch/webmap/UNOSAT_LIVE/Operative/?config=config_FL_20130121_MOZ.xml", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"url": [ "https://unosatgis.cern.ch/webmap/UNOSAT_LIVE/Operative/?config=config_FL_20130121_MOZ.xml", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"name": [ "https://unosatgis.cern.ch/webmap/UNOSAT_LIVE/Operative/?config=config_FL_20130121_MOZ.xml", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"format": [ null, "ZIP", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-20130121-MOZ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1377,12 +1113,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"format": [ "SHP", "ZIP", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-20130121-MOZ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1408,12 +1138,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_v2.zip", null, null, null ],
-"format": [ "SHP", "ZIP", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-20130121-MOZ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1439,12 +1163,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-20130121-MOZ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1470,12 +1188,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-sdn/moz/SPOT_20120124_vectors.zip", null, null, null, null ],
-"url": [ "http://cern.ch/unosat-sdn/moz/SPOT_20120124_vectors.zip", null, null, null, null ],
-"name": [ "http://cern.ch/unosat-sdn/moz/SPOT_20120124_vectors.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-20130121-MOZ", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1501,12 +1213,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/NG/FL2012101100NGA/FL20121011NGA_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/NG/FL2012101100NGA/FL20121011NGA.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/NG/FL2012101100NGA/FL20121011NGA_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/NG/FL2012101100NGA/FL20121011NGA.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/NG/FL2012101100NGA/FL20121011NGA_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/NG/FL2012101100NGA/FL20121011NGA.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-1011-00NGA", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1532,12 +1238,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0910-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1563,12 +1263,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "EQ-2013-0924-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1594,12 +1288,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "EQ-2013-0924-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1625,12 +1313,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "EQ-2013-0924-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1656,12 +1338,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.kmz", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null ],
-"url": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.kmz", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null ],
-"name": [ "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.kmz", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.zip", "http://cern.ch/unosat-maps/PK/EQ20130924PAK/EQ20130924PAK_UNOSAT.gdb.zip", null, null ],
-"format": [ "KMZ", "ZIP", "GDB", null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "EQ-2013-0924-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1687,12 +1363,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v3.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v3.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v3.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0820-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1718,12 +1388,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v3.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v3.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v3.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0820-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1749,12 +1413,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v2.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v2.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v2.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0820-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1780,12 +1438,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v2.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v2.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK_v2.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0820-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1811,12 +1463,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20130820PAK/FL20130822PAK.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0820-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1842,12 +1488,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/pk/fl20120918pak/MODIS_FL20120918PAK_141012_v1_HR.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/pk/fl20120918pak/MODIS_FL20120918PAK_141012_v1_HR.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/pk/fl20120918pak/MODIS_FL20120918PAK_141012_v1_HR.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0917-PAK", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1873,12 +1513,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "TC-2014-1204-PHL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1904,12 +1538,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ null, "TC-2014-1204-PHL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1935,12 +1563,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2013-1108-PHL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1966,12 +1588,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2013-1108-PHL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -1997,12 +1613,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2013-1108-PHL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2028,12 +1638,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL_shp.zip", "http://cern.ch/unosat-maps/PH/TC20131108PHL/TC20131108PHL.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2013-1108-PHL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2059,12 +1663,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20121205PHL/UNOSAT_TC_20121205PHL_V2_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20121205PHL/UNOSAT_TC_20121205PHL_V2.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20121205PHL/UNOSAT_TC_20121205PHL_V2_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20121205PHL/UNOSAT_TC_20121205PHL_V2.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20121205PHL/UNOSAT_TC_20121205PHL_V2_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20121205PHL/UNOSAT_TC_20121205PHL_V2.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2012-000197-PHL", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2090,12 +1688,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/CG/AC20120203COG/Brazzaville_blast_19march2012_12.kmz", "http://cernunosat05.cern.ch/UNOSAT/AC-2012-000035-COG/", "http://cernunosat05.cern.ch/arcgis/services/COG/AC-2012-000035-COG_Damage_Assessment/MapServer/WMSServer", null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/CG/AC20120203COG/Brazzaville_blast_19march2012_12.kmz", "http://cernunosat05.cern.ch/UNOSAT/AC-2012-000035-COG/", "http://cernunosat05.cern.ch/arcgis/services/COG/AC-2012-000035-COG_Damage_Assessment/MapServer/WMSServer", null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/CG/AC20120203COG/Brazzaville_blast_19march2012_12.kmz", "http://cernunosat05.cern.ch/UNOSAT/AC-2012-000035-COG/", "http://cernunosat05.cern.ch/arcgis/services/COG/AC-2012-000035-COG_Damage_Assessment/MapServer/WMSServer", null, null ],
-"format": [ "KMZ", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "AC-2012-000035-COG", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2121,12 +1713,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/WS/TC20121215WSM/UNOSAT_TC20121215WSM_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/WS/TC20121215WSM/UNOSAT_TC20121215WSM.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/WS/TC20121215WSM/UNOSAT_TC20121215WSM_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/WS/TC20121215WSM/UNOSAT_TC20121215WSM.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/WS/TC20121215WSM/UNOSAT_TC20121215WSM_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/WS/TC20121215WSM/UNOSAT_TC20121215WSM.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "TC-2012-000201-WSM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2152,12 +1738,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SN/FL22082012SEN/FL20120822SEN.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SN/FL22082012SEN/FL20120822SEN.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SN/FL22082012SEN/FL20120822SEN.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-2208-SEN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2183,12 +1763,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SB/FL20140405SLB/UNOSAT_Honiara_Damage_20140413.KMZ", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SB/FL20140405SLB/UNOSAT_Honiara_Damage_20140413.KMZ", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SB/FL20140405SLB/UNOSAT_Honiara_Damage_20140413.KMZ", null, null, null, null ],
-"format": [ "KMZ", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0405-SLB", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2214,12 +1788,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2245,12 +1813,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Refugee Camp", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2276,12 +1838,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_shp.zip", "ttp://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_gdb.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_shp.zip", "ttp://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_gdb.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_shp.zip", "ttp://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_gdb.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2307,12 +1863,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2338,12 +1888,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Kismayo_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Kismayo.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Kismayo_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Kismayo.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Kismayo_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Kismayo.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2369,12 +1913,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Galkayo_20140407.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Galkayo_20140407.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Galkayo_20140407.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2400,12 +1938,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Mogadishu_20131124.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Mogadishu_20131124.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Mogadishu_20131124.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2431,12 +1963,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/UNOSAT_CE20130710SOM.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/UNOSAT_CE20130710SOM.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/UNOSAT_CE20130710SOM.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2462,12 +1988,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Baidoa_20130821.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Baidoa_20130821.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Baidoa_20130821.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2493,12 +2013,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/DR20110714HOA_KIS.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/DR20110714HOA_KIS.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/HA/DR20110714HOA/DR20110714HOA_KIS.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2524,12 +2038,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Mogadishu_20130603.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Mogadishu_20130603.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Mogadishu_20130603.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0710-SOM", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2555,12 +2063,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip", "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip", "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip", "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2013-1218-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2586,12 +2088,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2013-1218-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2617,12 +2113,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Wunthou_Shelters_10May2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Wunthou_10May2014.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Wunthou_Shelters_10May2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Wunthou_10May2014.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Wunthou_Shelters_10May2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Wunthou_10May2014.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1218-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2648,12 +2138,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Minkaman_Shelters_10May2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Minkaman_10May2014_.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Minkaman_Shelters_10May2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Minkaman_10May2014_.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Minkaman_Shelters_10May2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Minkaman_10May2014_.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1218-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2679,12 +2163,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Leitchour_Shelters_5may2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD__Leitchour_5May2014.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Leitchour_Shelters_5may2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD__Leitchour_5May2014.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Leitchour_Shelters_5may2014.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD__Leitchour_5May2014.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1218-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2710,12 +2188,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-1218-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2741,12 +2213,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "OT-2013-0511-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2772,12 +2238,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/batilcamp_17feb2013.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/batilcamp_17feb2013.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/batilcamp_17feb2013.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0924-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2803,12 +2263,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/FL20120924SSD_Doro_20130113.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/FL20120924SSD_Doro_20130113.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/FL20120924SSD_Doro_20130113.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0924-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2834,12 +2288,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_YidaCamp_FL20120924SSD_v1_highres.pdf", "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/Yida_shelters_12oct2012.zip.zip", null, null, null ],
-"url": [ "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_YidaCamp_FL20120924SSD_v1_highres.pdf", "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/Yida_shelters_12oct2012.zip.zip", null, null, null ],
-"name": [ "http://maps.unosat.org/SS/FL20120924SSD/UNOSAT_YidaCamp_FL20120924SSD_v1_highres.pdf", "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/Yida_shelters_12oct2012.zip.zip", null, null, null ],
-"format": [ null, "ZIP", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0924-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2865,12 +2313,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/gendrasacamp_3oct2012.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/gendrasacamp_3oct2012.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/gendrasacamp_3oct2012.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0924-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2896,12 +2338,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/dorocamp_4oct2012.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/dorocamp_4oct2012.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/dorocamp_4oct2012.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0924-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2927,12 +2363,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/batilcamp_5aug2012.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/batilcamp_5aug2012.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/batilcamp_5aug2012.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0924-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2958,12 +2388,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/jamamtwocamp_28sept2012.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/jamamtwocamp_28sept2012.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SS/FL20120924SSD/jamamtwocamp_28sept2012.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2012-0924-SSD", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -2989,12 +2413,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_shp.zip", "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_shp.zip", "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_shp.zip", "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "FL-2014-1230-LKA", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3020,12 +2438,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0803-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3051,12 +2463,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0803-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3082,12 +2488,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "RC-2014-0709-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3113,12 +2513,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "RC-2014-0709-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3144,12 +2538,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "RC-2014-0709-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3175,12 +2563,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v9.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v9.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v9.zip", null, null, null, null ],
-"format": [ "SHP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3206,12 +2588,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v8.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v8.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v8.zip", null, null, null, null ],
-"format": [ "SHP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3237,12 +2613,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v7.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v7.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v7.zip", null, null, null, null ],
-"format": [ "SHP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3268,12 +2638,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v6.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v6.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp_v6.zip", null, null, null, null ],
-"format": [ "SHP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3299,12 +2663,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_TRMM_shp.zip", null, null, null, null ],
-"format": [ "SHP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3330,12 +2688,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_v3.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_v3.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_v3.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3361,12 +2713,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_shp_v2.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN.gdb_v2.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_shp_v2.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN.gdb_v2.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_shp_v2.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN.gdb_v2.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3392,12 +2738,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20130806SDN/FL20130806SDN.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "FL-2013-0806-SDN", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3423,12 +2763,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Tropical Storm", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3454,12 +2788,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3485,12 +2813,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_Shelters_20141111_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20141111.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_Shelters_20141111_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20141111.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_Shelters_20141111_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20141111.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Refugee Camp", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3516,12 +2838,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ null, "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3547,12 +2863,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ null, "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3578,12 +2888,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"url": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"name": [ "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip", "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Refugee Camp", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3609,12 +2913,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3640,12 +2938,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3671,12 +2963,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20140426_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130616.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20140426_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130616.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20140426_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130616.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3702,12 +2988,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Flood", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3733,12 +3013,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Earthquake", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3764,12 +3038,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3795,12 +3063,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225_SHP.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225.gdb.zip", null, null, null ],
-"format": [ "SHP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3826,12 +3088,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20130930.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20130930.gdb.zip", null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20130930.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20130930.gdb.zip", null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20130930.zip", "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20130930.gdb.zip", null, null, null ],
-"format": [ "ZIP", "GDB", null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3857,12 +3113,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130914.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130914.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130914.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2013-0604-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3888,12 +3138,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130825.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130825.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130825.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3919,12 +3163,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130825.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130825.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130825.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3950,12 +3188,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20130721.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20130721.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20130721.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -3981,12 +3213,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130721.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130721.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130721.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4012,12 +3238,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130710.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130710.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130710.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4043,12 +3263,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/KA_20130229.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/KA_20130229.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/KA_20130229.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4074,12 +3288,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Ubayidi_20130625.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Ubayidi_20130625.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Ubayidi_20130625.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4105,12 +3313,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130616.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130616.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130616.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4136,12 +3338,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Safawalmarwah_MartyrFamilies_20130605.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Safawalmarwah_MartyrFamilies_20130605.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Safawalmarwah_MartyrFamilies_20130605.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4167,12 +3363,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Meydan_20130605.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Meydan_20130605.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Meydan_20130605.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4198,12 +3388,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/As_Salame_20130605.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/As_Salame_20130605.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/As_Salame_20130605.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4229,12 +3413,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Cyber_City_20130527.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Cyber_City_20130527.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Cyber_City_20130527.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4260,12 +3438,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/KA_20130527.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/KA_20130527.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/KA_20130527.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4291,12 +3463,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130616.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130616.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130616.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4322,12 +3488,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/BabAlHawa_20130529.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/BabAlHawa_20130529.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/BabAlHawa_20130529.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4353,12 +3513,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/BabAlSalame_20132905.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/BabAlSalame_20132905.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/BabAlSalame_20132905.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4384,12 +3538,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20130604.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20130604.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20130604.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4415,12 +3563,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Atmeh_20130510.gdb.zip", null, null, null, null ],
-"url": [ "unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Atmeh_20130510.gdb.zip", null, null, null, null ],
-"name": [ "unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Atmeh_20130510.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4446,12 +3588,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130529.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130529.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130529.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4477,12 +3613,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlNasser_20130510.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlNasser_20130510.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlNasser_20130510.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4508,12 +3638,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Taibah_AlKarama_20130510.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Taibah_AlKarama_20130510.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Taibah_AlKarama_20130510.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4539,12 +3663,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Qah_20130510.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Qah_20130510.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Qah_20130510.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4570,12 +3688,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Jarabulus_20130522.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Jarabulus_20130522.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Jarabulus_20130522.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4601,12 +3713,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Atmeh_20130510.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Atmeh_20130510.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Atmeh_20130510.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4632,12 +3738,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "//unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Aqqrabat_20130510.gdb.zip", null, null, null, null ],
-"url": [ "//unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Aqqrabat_20130510.gdb.zip", null, null, null, null ],
-"name": [ "//unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Aqqrabat_20130510.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4663,12 +3763,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130521.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130521.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130521.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4694,12 +3788,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130504.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130504.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Zaatari_20130504.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4725,12 +3813,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130415.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130415.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130415.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4756,12 +3838,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130331.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130331.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130331.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4787,12 +3863,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130314.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130314.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130314.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4818,12 +3888,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130226.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130226.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/Al_Zaatari_20130226.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-0704-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4849,12 +3913,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlZaatari_20130203.gdb.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlZaatari_20130203.gdb.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlZaatari_20130203.gdb.zip", null, null, null, null ],
-"format": [ "GDB", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4880,12 +3938,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://cern.ch/unosat-sdn/syria/AlZaatari_structures.zip", null, null, null, null ],
-"url": [ "http://cern.ch/unosat-sdn/syria/AlZaatari_structures.zip", null, null, null, null ],
-"name": [ "http://cern.ch/unosat-sdn/syria/AlZaatari_structures.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4911,12 +3963,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlZaatari.zip", null, null, null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlZaatari.zip", null, null, null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE-2011-0704-SYR/AlZaatari.zip", null, null, null, null ],
-"format": [ "ZIP", null, null, null, null ] 
-},
 "tags": {
  "name": [ "Complex Emergency", "CE-2011-000181-SYR", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4942,12 +3988,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/TokweMukorsiDam.kmz", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip", null, null ],
-"url": [ "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/TokweMukorsiDam.kmz", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip", null, null ],
-"name": [ "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/TokweMukorsiDam.kmz", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip", null, null ],
-"format": [ "KMZ", "SHP", "GDB", null, null ] 
-},
 "tags": {
  "name": [ "Flood", "FL-2014-0207-ZWE", "geodata", "shapefiles", "geodatabase" ] 
 },
@@ -4973,12 +4013,6 @@
 "private": true,
 "url": null,
 "state": "active",
-"resources": {
- "package_id": [ "https://unosatgis.cern.ch/arcgis/rest/services/FL/FP01_FL_20140207_ZWE_Flood_20140211_TerraSARX/MapServer/kml/mapImage.kmz", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip", null, null ],
-"url": [ "https://unosatgis.cern.ch/arcgis/rest/services/FL/FP01_FL_20140207_ZWE_Flood_20140211_TerraSARX/MapServer/kml/mapImage.kmz", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip", null, null ],
-"name": [ "https://unosatgis.cern.ch/arcgis/rest/services/FL/FP01_FL_20140207_ZWE_Flood_20140211_TerraSARX/MapServer/kml/mapImage.kmz", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip", "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip", null, null ],
-"format": [ "KMZ", "SHP", "GDB", null, null ] 
-},
 "tags": {
  "name": [ "Earthquake", "FL-2014-0207-ZWE", "geodata", "shapefiles", "geodatabase" ] 
 },
