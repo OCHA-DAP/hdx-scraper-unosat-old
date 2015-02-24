@@ -14,8 +14,6 @@ library(dplyr)
 library(RJSONIO)
 # library(jsonlite)
 
-subset_of_interest <- read.csv("data/backup.csv")
-
 # Scraperwiki helper function
 onSw <- function(p = NULL, l = 'tool/', d = F) {
   if(d) return(paste0(l, p))

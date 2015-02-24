@@ -18,6 +18,7 @@ datasets_path = 'data/datasets.json'
 resources_path = 'data/resources.json'
 gallery_path = 'data/gallery.json'
 verbose = False
+clean_run = True
 
 # Loading data from a local resource.
 def loadData(p, verbose=verbose):
@@ -70,7 +71,7 @@ def createDatasets(dataset_dict, apikey, verbose=verbose):
   for dataset in dataset_dict:
       check = requests.get(package_show_url + dataset["name"], headers=headers, auth=('dataproject', 'humdata')).json()
       if check["success"] is True:
-        print "Dataset '%s' already exists. Updating ..." % dataset["name"]
+        print "%s : UPDATING" % dataset["name"]
         r = requests.post(package_update_url, data=json.dumps(dataset), headers=headers, auth=('dataproject', 'humdata'))
 
       else:
@@ -110,8 +111,21 @@ def deleteResources(dataset_dict, apikey, verbose=verbose):
     return
 
   # Base config.
+  package_show_url = 'https://test-data.hdx.rwlabs.org/api/action/package_show?id='
   resource_delete_url = 'https://test-data.hdx.rwlabs.org/api/action/resource_delete'
   headers = { 'X-CKAN-API-Key': apikey, 'content-type': 'application/json' }
+
+  for dataset in dataset_dict:
+      # Fetching dataset information.
+      d = requests.get(package_show_url + dataset["name"], headers=headers, auth=('dataproject', 'humdata')).json()
+
+      if d["success"] is True:
+          # Deleting previous resources to make sure
+          # the new batch is the most up-to-date.
+          for resource in d["result"]["resources"]:
+            print "%s : RESOURCE DELETED" % resource["id"]
+            u = { 'id': resource["id"] }
+            requests.post(resource_delete_url, data=json.dumps(u), headers=headers, auth=('dataproject', 'humdata'))
 
 
 # Function to create datasets based on dictionaries.
@@ -132,7 +146,6 @@ def createResources(resource_dict, apikey, verbose=verbose):
     return
 
   # Base config.
-  package_show_url = 'https://test-data.hdx.rwlabs.org/api/action/package_show?id='
   resource_create_url = 'https://test-data.hdx.rwlabs.org/api/action/resource_create'
   headers = { 'X-CKAN-API-Key': apikey, 'content-type': 'application/json' }
 
@@ -141,34 +154,18 @@ def createResources(resource_dict, apikey, verbose=verbose):
         print "Resouce %s isn't data file. Skipping." % (resource["name"])
         continue
 
-      dataset = requests.get(package_show_url + resource["package_id"], headers=headers, auth=('dataproject', 'humdata')).json()
+      # Adding resources.
+      r = requests.post(resource_create_url, data=json.dumps(resource), headers=headers, auth=('dataproject', 'humdata'))
 
-      if dataset["success"] is True:
+      if verbose is True:
+        print "Status code: ", r.status_code
+        # print r.json()
 
-        # Deleting previous resources to make sure
-        # the new batch is the most up-to-date.
-        for resource in dataset["result"]["resources"]:
-            print "Deleting resource id %s" % resource["id"]
-            u = { 'id': resource["id"] }
-            requests.post(resource_delete_url, data=json.dumps(u), headers=headers, auth=('dataproject', 'humdata'))
-
-
-        # Adding resources.
-        r = requests.post(resource_create_url, data=json.dumps(resource), headers=headers, auth=('dataproject', 'humdata'))
-
-        if verbose is True:
-            print "Status code: ", r.status_code
-            # print r.json()
-
-        if r.status_code != 200:
-            print "%s : FAIL" % (resource["name"])
-
-        else:
-            print "%s : OK" % (resource["name"])
+      if r.status_code != 200:
+        print "%s : FAIL" % (resource["name"])
 
       else:
-        print "Dataset not identified."
-
+        print "%s : OK" % (resource["name"])
 
 
 # Function to create datasets based on dictionaries.
@@ -234,6 +231,10 @@ try:
   dataset_dict = loadData(datasets_path)
   resource_dict = loadData(resources_path)
   gallery_dict = loadData(gallery_path)
+
+  # Delete resources before running:
+  if clean_run is True:
+    deleteResources(dataset_dict=dataset_dict, apikey=apikey)
 
   # Creating datasets.
   createDatasets(dataset_dict=dataset_dict, apikey=apikey)
