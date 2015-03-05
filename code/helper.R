@@ -41,6 +41,15 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
   for (i in 1:length(pattern_vector)) {
     data <- findPattern(df = data, pattern_vector[i])
   }
+  
+  # From "SHP" to "ZIPPED SHAPEFILE" to use the
+  # new geo-preview feature.
+  data$url_2_format <- ifelse(data$url_2_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
+  data$url_3_format <- ifelse(data$url_3_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
+  data$url_4_format <- ifelse(data$url_4_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
+  data$url_5_format <- ifelse(data$url_5_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
+  data$url_6_format <- ifelse(data$url_6_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
+  
   cat('done.\n')
   return(data)
 }
@@ -48,15 +57,40 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
 # Simple function to create a
 # dataset name as per HDX.
 createDatasetName <- function(vector = NULL) {
-  cat('Creating the dataset id ...')
+  cat('Creating dataset ids ...')
+  # Removing special characters
+  dataset_name <- gsub("[[:punct:]]", "", vector)  # punctuation
+  dataset_name <- gsub("[^[:alnum:]]", "", dataset_name)  # non alpha-numeric
+  # dataset_name <- gsub("[[:alnum:]]", "", dataset_name)  # non alpha-numeric
+  
+  # Adjusting the blank spaces.
   dataset_name <- gsub(" ", "-", vector)
   dataset_name <- gsub("\\:", "", dataset_name)
   dataset_name <- gsub("\\,", "", dataset_name)
   dataset_name <- gsub("\\.", "", dataset_name)
   dataset_name <- gsub("\\(", "", dataset_name)
   dataset_name <- gsub("\\)", "", dataset_name)
+  dataset_name <- gsub("---", "-", dataset_name)
   dataset_name <- tolower(dataset_name)
+  dataset_name <- gsub("--", "-", dataset_name)
+  dataset_name <- gsub("&", "", dataset_name)
+  dataset_name <- gsub("'", "", dataset_name)
+  
+  # Removing "update" from title
+  dataset_name <- gsub("update", "", dataset_name, ignore.case = TRUE)
+  dataset_name <- gsub("update:", "", dataset_name, ignore.case = TRUE)
+  dataset_name <- gsub("update: ", "", dataset_name, ignore.case = TRUE)
+  dataset_name <- gsub("update ", "", dataset_name, ignore.case = TRUE)
+  
+  # Adding geodata to title.
   dataset_name <- paste0("geodata-of-", dataset_name)
+  
+  # Trimming names to 90 characters.
+  dataset_name <- strtrim(dataset_name, 90)
+  
+  # Trimming double dashes
+  dataset_name <- gsub("--", "-", dataset_name)
+  
   cat('done.\n')
   return(dataset_name)
 }
@@ -77,7 +111,7 @@ cleanDuplicates <- function(df = NULL) {
   cat('Cleaning duplicates ...')
   df$dataset_date <- as.Date(df$dataset_date)
   df <- df %>%
-    group_by(url_2) %>%
+    group_by(dataset_name) %>%
     filter(dataset_date == max(dataset_date)) %>%
     arrange(desc(dataset_date))
   df$dataset_date <- as.character(df$dataset_date)
@@ -162,6 +196,7 @@ addOtherTags <- function(df = NULL) {
 }
 
 
+#### JSON SERIALIZATION ####
 
 # Function to transform a UNOSAT data.frame
 # into a CKAN / HDX dataset JSON object.

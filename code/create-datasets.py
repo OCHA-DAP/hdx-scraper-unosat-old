@@ -3,12 +3,12 @@
 # without the proper GeoJSON "wrapper".
 
 ## TODO:
-# - Create a delete resources function independently.
-# - Take it out of the createResources function.
+# - Create function to delete all datasets from UNOSAT.
 
 import sys
 import yajl as json
 import requests
+from termcolor import colored as color
 
 ###################
 ## Configuration ##
@@ -18,7 +18,8 @@ datasets_path = 'data/datasets.json'
 resources_path = 'data/resources.json'
 gallery_path = 'data/gallery.json'
 verbose = False
-clean_run = True
+delete_resources = True  # This will delete all datasets before adding.
+delete_datasets = True  # This will delete ALL dataset from the org.
 
 # Loading data from a local resource.
 def loadData(p, verbose=verbose):
@@ -45,6 +46,55 @@ def loadData(p, verbose=verbose):
 ####################
 ###### Logic #######
 ####################
+
+# Function to delete all datasets owned by an organization.
+def deleteAllDatasetsFromOrg(organization, apikey):
+
+  print "--------------------------------------------------"
+  print "//////////////////////////////////////////////////"
+  print "--------------------------------------------------"
+  print "////////////// DELETING DATASETS /////////////////"
+  print "--------------------------------------------------"
+  print "//////////////////////////////////////////////////"
+  print "--------------------------------------------------"
+
+  # Checking for input.
+  if (organization is None):
+    print "No organization id provided. Please provide an organization id."
+    print "--------------------------------------------------"
+    return
+
+  # Base config.
+  organization_show_url = 'https://test-data.hdx.rwlabs.org/api/action/organization_show?id='
+  package_delete_url = 'https://test-data.hdx.rwlabs.org/api/action/package_delete'
+  headers = { 'X-CKAN-API-Key': apikey, 'content-type': 'application/json' }
+
+  # Fetching dataset information.
+  dataset_dict = requests.get(organization_show_url + organization, headers=headers, auth=('dataproject', 'humdata')).json()
+
+  if dataset_dict["success"] is True:
+    for dataset in dataset_dict["result"]["packages"]:
+      # Deleting previous datasets to make sure
+      # we have a hyper-clean run.
+      # Action
+      u = { 'id': dataset["id"] }
+      r = requests.post(package_delete_url, data=json.dumps(u), headers=headers, auth=('dataproject', 'humdata'))
+
+      if r.status_code != 200:
+        message = color("FAIL", "red", attrs=['bold'])
+        print "%s : %s" % (dataset["name"], message)
+
+      else:
+        message = color("SUCCESS", "green", attrs=['bold'])
+        print "%s : %s" % (dataset["name"], message)
+
+  else:
+    print "There was an error getting the dataset list."
+    print "--------------------------------------------------"
+    return
+
+
+
 # Function to create datasets based on dictionaries.
 def createDatasets(dataset_dict, apikey, verbose=verbose):
 
@@ -71,7 +121,11 @@ def createDatasets(dataset_dict, apikey, verbose=verbose):
   for dataset in dataset_dict:
       check = requests.get(package_show_url + dataset["name"], headers=headers, auth=('dataproject', 'humdata')).json()
       if check["success"] is True:
-        print "%s : UPDATING" % dataset["name"]
+        # Message
+        message = color("UPDATING", "yellow", attrs=['bold'])
+        print "%s : %s" % (dataset["name"], message)
+
+        # Action
         r = requests.post(package_update_url, data=json.dumps(dataset), headers=headers, auth=('dataproject', 'humdata'))
 
       else:
@@ -83,10 +137,12 @@ def createDatasets(dataset_dict, apikey, verbose=verbose):
         # print r.json()
 
       if r.status_code != 200:
-        print "%s : FAIL" % (dataset["name"])
+        message = color("FAIL", "red", attrs=['bold'])
+        print "%s : %s" % (dataset["name"], message)
 
       else:
-        print "%s : OK" % (dataset["name"])
+        message = color("SUCCESS", "green", attrs=['bold'])
+        print "%s : %s" % (dataset["name"], message)
 
 
   print "--------------------------------------------------"
@@ -123,7 +179,11 @@ def deleteResources(dataset_dict, apikey, verbose=verbose):
           # Deleting previous resources to make sure
           # the new batch is the most up-to-date.
           for resource in d["result"]["resources"]:
-            print "%s : RESOURCE DELETED" % resource["id"]
+            # Message
+            message = color("RESOURCE DELETED", "green", attrs=['bold'])
+            print "%s : %s" % (resource["id"], message)
+
+            # Action
             u = { 'id': resource["id"] }
             requests.post(resource_delete_url, data=json.dumps(u), headers=headers, auth=('dataproject', 'humdata'))
 
@@ -151,7 +211,8 @@ def createResources(resource_dict, apikey, verbose=verbose):
 
   for resource in resource_dict:
       if resource["format"] is None:
-        print "Resouce %s isn't data file. Skipping." % (resource["name"])
+        message = color("SKIPPING", "yellow", attrs=['bold'])
+        print "%s : %s" % (resource["name"], message)
         continue
 
       # Adding resources.
@@ -162,10 +223,12 @@ def createResources(resource_dict, apikey, verbose=verbose):
         # print r.json()
 
       if r.status_code != 200:
-        print "%s : FAIL" % (resource["name"])
+        message = color("FAIL", "red", attrs=['bold'])
+        print "%s : %s" % (resource["name"], message)
 
       else:
-        print "%s : OK" % (resource["name"])
+        message = color("SUCCESS", "green", attrs=['bold'])
+        print "%s : %s" % (resource["name"], message)
 
 
 # Function to create datasets based on dictionaries.
@@ -208,7 +271,9 @@ def createGalleryItems(gallery_dict, apikey, verbose=verbose):
         for result in old_related["result"]:
             u = { 'id': result["id"] }
             re = requests.post(related_delete_url, data=json.dumps(u), headers=headers, auth=('dataproject', 'humdata'))
-            print "Deleting gallery item with id %s" % (result["id"])
+
+            message = color("DELETED", "yellow", attrs=['bold'])
+            print "%s : %s" % (result["id"], message)
 
         # Adding gallery items.
         r = requests.post(related_create_url, data=json.dumps(item), headers=headers, auth=('dataproject', 'humdata'))
@@ -218,10 +283,12 @@ def createGalleryItems(gallery_dict, apikey, verbose=verbose):
             print r.json()
 
         if r.status_code != 200:
-            print "%s : FAIL" % (item["url"])
+          message = color("FAIL", "red", attrs=['bold'])
+          print "%s : %s" % (item["url"], message)
 
         else:
-            print "%s : OK" % (item["url"])
+          message = color("SUCCESS", "green", attrs=['bold'])
+          print "%s : %s" % (item["url"], message)
 
   print "--------------------------------------------------"
 
@@ -232,8 +299,12 @@ try:
   resource_dict = loadData(resources_path)
   gallery_dict = loadData(gallery_path)
 
+  # Delete all datasets before running:
+  if delete_datasets is True:
+    deleteAllDatasetsFromOrg("un-operational-satellite-appplications-programme-unosat", apikey=apikey)
+
   # Delete resources before running:
-  if clean_run is True:
+  if delete_resources is True:
     deleteResources(dataset_dict=dataset_dict, apikey=apikey)
 
   # Creating datasets.
