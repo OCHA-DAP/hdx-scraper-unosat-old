@@ -1,6 +1,3 @@
-# Script to extract features from GeoJSON files
-# making the resulting files a collection of features
-# without the proper GeoJSON "wrapper".
 
 ## TODO:
 # - Create function to delete all datasets from UNOSAT.
