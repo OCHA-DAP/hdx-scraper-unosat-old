@@ -13,7 +13,7 @@ from termcolor import colored as color
 ###################
 ## Configuration ##
 ###################
-apikey = 'a6863277-f35e-4f50-af85-78a2d9ebcdd3'  # consider adding key via cli
+apikey = 'XXX'  # consider adding key via cli
 datasets_path = 'data/datasets.json'
 resources_path = 'data/resources.json'
 gallery_path = 'data/gallery.json'
