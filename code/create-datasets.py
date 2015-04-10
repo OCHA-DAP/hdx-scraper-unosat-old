@@ -21,8 +21,13 @@ verbose = False
 delete_resources = True  # This will delete all datasets before adding.
 delete_datasets = True  # This will delete ALL dataset from the org.
 
-# Loading data from a local resource.
-def loadData(p, verbose=verbose):
+
+#####################
+###### Helpers ######
+#####################
+
+def LoadData(p, verbose=verbose):
+  '''Loading data from a local resource.'''
     if verbose is True:
         print "--------------------------------------------------"
         print "Loading JSON data from %s." % p
@@ -47,8 +52,8 @@ def loadData(p, verbose=verbose):
 ###### Logic #######
 ####################
 
-# Function to delete all datasets owned by an organization.
-def deleteAllDatasetsFromOrg(organization, apikey):
+def DeleteAllDatasetsFromOrg(organization, apikey):
+  '''Delete all datasets owned by an organization.'''
 
   print "--------------------------------------------------"
   print "//////////////////////////////////////////////////"
@@ -95,8 +100,8 @@ def deleteAllDatasetsFromOrg(organization, apikey):
 
 
 
-# Function to create datasets based on dictionaries.
-def createDatasets(dataset_dict, apikey, verbose=verbose):
+def CreateDatasets(dataset_dict, apikey, verbose=verbose):
+  '''Create datasets based on dictionaries.'''
 
   print "--------------------------------------------------"
   print "//////////////////////////////////////////////////"
@@ -148,9 +153,10 @@ def createDatasets(dataset_dict, apikey, verbose=verbose):
   print "--------------------------------------------------"
 
 
-# Function to delete resources. It helps "clean-up"
+# This helps "clean-up"
 # datasets before adding resources to them.
-def deleteResources(dataset_dict, apikey, verbose=verbose):
+def DeleteResources(dataset_dict, apikey, verbose=verbose):
+  '''Delete resources.'''
 
   print "--------------------------------------------------"
   print "//////////////////////////////////////////////////"
@@ -188,8 +194,8 @@ def deleteResources(dataset_dict, apikey, verbose=verbose):
             requests.post(resource_delete_url, data=json.dumps(u), headers=headers, auth=('dataproject', 'humdata'))
 
 
-# Function to create datasets based on dictionaries.
-def createResources(resource_dict, apikey, verbose=verbose):
+def CreateResources(resource_dict, apikey, verbose=verbose):
+  '''Create datasets based on dictionaries.'''
 
   print "--------------------------------------------------"
   print "//////////////////////////////////////////////////"
@@ -231,8 +237,8 @@ def createResources(resource_dict, apikey, verbose=verbose):
         print "%s : %s" % (resource["name"], message)
 
 
-# Function to create datasets based on dictionaries.
-def createGalleryItems(gallery_dict, apikey, verbose=verbose):
+def CreateGalleryItems(gallery_dict, apikey, verbose=verbose):
+  '''Create datasets based on dictionaries.'''
 
   print "--------------------------------------------------"
   print "//////////////////////////////////////////////////"
@@ -293,25 +299,32 @@ def createGalleryItems(gallery_dict, apikey, verbose=verbose):
   print "--------------------------------------------------"
 
 
+def Main():
+  '''Wrapper'''
 
-try:
-  # Loading dictionaries.
-  dataset_dict = loadData(datasets_path)
-  resource_dict = loadData(resources_path)
-  gallery_dict = loadData(gallery_path)
+  try:
+    # Loading dictionaries.
+    dataset_dict = LoadData(datasets_path)
+    resource_dict = LoadData(resources_path)
+    gallery_dict = LoadData(gallery_path)
 
-  # Delete all datasets before running:
-  if delete_datasets is True:
-    deleteAllDatasetsFromOrg("un-operational-satellite-appplications-programme-unosat", apikey=apikey)
+    # Delete all datasets before running:
+    if delete_datasets is True:
+      DeleteAllDatasetsFromOrg("un-operational-satellite-appplications-programme-unosat", apikey=apikey)
 
-  # Delete resources before running:
-  if delete_resources is True:
-    deleteResources(dataset_dict=dataset_dict, apikey=apikey)
+    # Delete resources before running:
+    if delete_resources is True:
+      DeleteResources(dataset_dict=dataset_dict, apikey=apikey)
 
-  # Creating datasets.
-  createDatasets(dataset_dict=dataset_dict, apikey=apikey)
-  createResources(resource_dict=resource_dict, apikey=apikey)
-  createGalleryItems(gallery_dict=gallery_dict, apikey=apikey)
+    # Creating datasets.
+    CreateDatasets(dataset_dict=dataset_dict, apikey=apikey)
+    CreateResources(resource_dict=resource_dict, apikey=apikey)
+    CreateGalleryItems(gallery_dict=gallery_dict, apikey=apikey)
 
-except Exception as e:
-  print e
+  except Exception as e:
+    print e
+
+
+
+if __name__ == '__main__':
+  Main()
