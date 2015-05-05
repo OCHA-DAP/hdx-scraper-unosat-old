@@ -21,10 +21,10 @@ That should scrape datasets from UNOSAT's website and create three files: `datas
 
 
 ## Registering
-At the beginning of the `create-datasets.py` script you will see a `Configuration` area. Use those variables to configure your CKAN instance (i.e. test or real) and to specify where are the `datasets.json`, `gallery.json`, and `resources.json` files. Then:
+Edit the appropriate `*.json` file in the `config` folder then run the `hdx_register` folder as a Python module. The most important thing to edit in the config file is your API key.
 
 ```shell
-$ python create-datasets.py
+$ python scripts/hdx_register
 ```
 
 You should be able to follow the progress from the terminal.
