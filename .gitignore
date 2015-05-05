@@ -1,5 +1,7 @@
-.RData
-.Rhistory
 venv/*
 venv/**
-test.csv
+backup/*
+backup/**
+
+.RData
+.Rhistory

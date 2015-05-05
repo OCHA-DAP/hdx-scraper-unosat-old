@@ -26,7 +26,6 @@ JSON_PATH = onSw("http/data.json")
 CSV_PATH = onSw("http/data.csv")
 DB_TABLE_NAME_ALL = "unosat_datasets_all"
 DB_TABLE_NAME_SUBSET = "unosat_datasets_subset"
-# DATA_EXTENSIONS = c('.ZIP', '.KML', '.SHP', '.GDB', '.KMZ', '.XML')
 DATA_EXTENSIONS = c('.ZIP', '.KML', '.SHP', '.GDB', '.KMZ')
 GALLERY_EXTENSIONS = c('.JPG', '.JPEG', '.PNG', '.PDF')
 
@@ -94,8 +93,8 @@ fetchContent <- function(list_of_pages = NULL, verbose = F) {
     # from WFP locally and then proceeds to processing the page.
     # This approach isn't efficient, but deals solves the issue
     # that XPath for particular pages wasn't being generated.
-    url = list_of_pages$page_url[i]
-    download.file(url, 'data/temp.html', method = 'wget', quiet = T)
+    url = as.character(list_of_pages$page_url[i])
+    download.file(url = url, destfile = 'data/temp.html', method = 'wget', quiet = T)
     doc <- htmlParse(paste0(onSw(),'data/temp.html'))
 
     # Debugging
@@ -199,12 +198,14 @@ subsetAndClean <- function(df = NULL, verbose = FALSE) {
 ############################################
 
 # Scraper wrapper.
-runScraper <- function(p = NULL, table = NULL, key = NULL, c = NULL, csv = TRUE, json = TRUE, db = TRUE) {
+runScraper <- function(p = NULL, backup = FALSE, table = NULL, key = NULL, c = NULL, csv = TRUE, json = TRUE, db = TRUE) {
   page_list <- grabPageLinks()
-  system.time(page_content <- fetchContent(page_list))
+  if (backup) page_content <- read.csv(list.files('backup')[1])
+  else system.time(page_content <- fetchContent(page_list))
   subset_of_interest <- subsetAndClean(page_content)
+  
 
-   # Storing results in a CSV file.
+  # Storing results in a CSV file.
   if (csv) write.csv(subset_of_interest, onSw(c), row.names = F)
 
   # Storing results in a JSON file.

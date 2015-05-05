@@ -470,7 +470,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Refugee Camp"
+          "name": "Flood"
         },
         {
           "name": "CE-2013-0604-SYR"
@@ -552,7 +552,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Refugee Camp"
+          "name": "Flood"
         },
         {
           "name": "CE-2013-0604-SYR"
@@ -944,6 +944,88 @@
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
     },
     {
+      "name": "geodata-of-bentiu-idp-camp-rubkona-county-unity-state-south-sudan",
+      "title": "Geodata of Bentiu IDP Camp, Rubkona County, Unity State, South Sudan",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "03/24/2015",
+      "subnational": "1",
+      "notes": "This map illustrates the IDP camp at the UNMISS Protection of Civilian (PoC) area adjacent to the UNMISS base in Bentiu, Rubkona County, Unity State, South Sudan. Using high-resolution optical satellite imagery collected by the WorldView-3 satellite on 07 March 2015, UNOSAT identified a total of 9,713 structures. Approximately 9,515 of these were classified as tent shelters and 198 as administrative buildings. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "CE-2013-1218-SSD"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "ssd"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-consolidated-web-map-limpopo-river-floods-mozambique",
+      "title": "Geodata of Consolidated Web Map: Limpopo River Floods, Mozambique",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "02/18/2013",
+      "subnational": "1",
+      "notes": "This web map compiles all UNOSAT flood data created in support of relief efforts in Mozambique using radar and optical satellite data acquired between 24 January and 2 February 2013 and at multiple resolutions. A cumulative flood layer is also provided, showing the maximum flood extents experienced along the Limpopo River over all stages of the flood. This web map is provided for visualization purposes only and in some areas simplifies the flooded area polygons. Users requiring the full detail of the geospatial data used for this web map are encouraged to download the source geodatabase.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Complex Emergency"
+        },
+        {
+          "name": "FL-20130121-MOZ"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "moz"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
       "name": "geodata-of-cyber-city-refugee-camp-irbid-governorate-jordan",
       "title": "Geodata of Cyber City Refugee Camp, Irbid Governorate, Jordan",
       "author": "unosat",
@@ -980,6 +1062,47 @@
       "groups": [
         {
           "id": "syr"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-damage-and-displaced-persons-visible-in-satellite-imagery-kathmandu-nepal-27-ap",
+      "title": "Geodata of Damage and Displaced Persons Visible in Satellite Imagery. Kathmandu, Nepal - 27 April 2015",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "04/28/2015",
+      "subnational": "1",
+      "notes": "UNITAR/UNOSAT analyzed satellite imagery collected 27 April 2015 by the Pleiades satellite over the city of Kathmandu, Nepal. Damaged structures and the locations of displaced persons were identified. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR/UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "EQ-2015-000048-NPL"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "npl"
         }
       ],
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
@@ -1044,7 +1167,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "CE-2013-1212-CAF"
@@ -1126,7 +1249,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "CE-2013-1218-SSD"
@@ -1167,7 +1290,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "FL-2014-0405-SLB"
@@ -2028,7 +2151,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Fire"
+          "name": "Flood"
         },
         {
           "name": "CE-2013-0604-SYR"
@@ -2069,7 +2192,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Vulcano"
+          "name": "Tropical Storm"
         },
         {
           "name": "CE-2014-0613-IRQ"
@@ -2087,6 +2210,88 @@
       "groups": [
         {
           "id": "irq"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-damage-assessment-of-banepa-kathmandu-valley-nepal",
+      "title": "Geodata of Damage Assessment of Banepa, Kathmandu Valley, Nepal",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "04/30/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected damage and destruction in the municipality of Banepa, Kathmandu Valley, Nepal. Located about 25 kilometers east of Kathmandu city, Banepa experienced some damage as a result of the 25 April 2015 earthquake. Using satellite imagery acquired 27 April 2015 UNITAR / UNOSAT identified a total of 20 affected structures. Approximately 4 of these were destroyed, 12 severely damaged, and 4 moderately damaged. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "EQ-2015-000048-NPL"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "npl"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-damage-assessment-of-bhaktapur-kathmandu-valley-nepal",
+      "title": "Geodata of Damage Assessment of Bhaktapur, Kathmandu Valley, Nepal",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "04/30/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected damage and destruction in the city of Bhaktapur, Kathmandu Valley, Nepal. Located about 20 kilometers east of Kathmandu city, Bhaktapur was significantly impacted by the 25 April 2015 earthquake in Nepal. Using satellite imagery acquired 27 April 2015 UNITAR / UNOSAT identified a total of 458 affected structures. Approximately 115 of these were destroyed, 170 severely damaged, and 173 moderately damaged. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "EQ-2015-000048-NPL"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "npl"
         }
       ],
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
@@ -2110,7 +2315,7 @@
       "state": "active",
       "tags": [
         {
-          "name": null
+          "name": "Flood"
         },
         {
           "name": "CE-2013-0604-SYR"
@@ -2128,6 +2333,47 @@
       "groups": [
         {
           "id": "syr"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-damage-assessment-of-daraudi-valley-western-region-nepal",
+      "title": "Geodata of Damage Assessment of Daraudi Valley, Western Region, Nepal",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "05/05/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected damage and destruction in the Daraudi Valley of Nepal. Located in the immediate vicinity of the 25 April 2015 earthquake epicenter, Daraudi Valley was significantly impacted. Using satellite imagery acquired 29 April 2015 UNITAR / UNOSAT identified a total of 651 affected structures in Daraudi Valley situated from less than one to roughly four kilometers away from the epicenter. Approximately 434 of these were destroyed, 175 severely damaged, and 42 moderately damaged. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "EQ-2015-000048-NPL"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "npl"
         }
       ],
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
@@ -2256,6 +2502,47 @@
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
     },
     {
+      "name": "geodata-of-damage-assessment-of-hansapur-area-western-region-nepal",
+      "title": "Geodata of Damage Assessment of Hansapur Area, Western Region, Nepal",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "05/05/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected damage and destruction in the Hansapur area of Nepal. Located roughly seven and a half to twelve kilometers west of the 25 April 2015 earthquake epicenter, the Hansapur area was significantly impacted by this event. Using satellite imagery acquired 29 April 2015 UNITAR / UNOSAT identified a total of 145 affected structures in this area. Approximately 33 of these were destroyed, 47 severely damaged, and 65 moderately damaged. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Vulcano"
+        },
+        {
+          "name": "EQ-2015-000048-NPL"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "npl"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
       "name": "geodata-of-damage-assessment-of-homs-homs-governorate-syria",
       "title": "Geodata of Damage Assessment of Homs, Homs Governorate, Syria",
       "author": "unosat",
@@ -2315,7 +2602,7 @@
       "state": "active",
       "tags": [
         {
-          "name": null
+          "name": "Flood"
         },
         {
           "name": "CE-2013-0604-SYR"
@@ -2387,9 +2674,9 @@
       "maintainer_email": "emergencymapping@unosat.org",
       "license_id": "hdx-other",
       "license_other": null,
-      "dataset_date": "02/11/2015",
+      "dataset_date": "03/06/2015",
       "subnational": "1",
-      "notes": "This map illustrates satellite-detected damage and destruction in a portion of the city of Kobane, Aleppo Governorate, Syria. Using satellite imagery acquired 22 January 2015 and 06 September 2014, UNITAR / UNOSAT identified a total of 3,167 affected structures within the area of this map. Approximately 1,167 of these were destroyed, 1,155 severely damaged, and 845 moderately damaged. The city-wide analysis of Kobane revealed a total of 3,247 affected structures, of which 1,206 were destroyed, 1,169 severely damaged, and 872 moderately damaged. A total of 979 impact craters were also identified within Kobane and its immediate surroundings. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "notes": "This map illustrates satellite-detected damage and destruction in a portion of the city of Kobane, Aleppo Governorate, Syria. Using satellite imagery acquired 22 January 2015, 6 December 2014, and 6 September 2014, UNITAR / UNOSAT identified a total of 3,247 affected structures by 22 January 2015 within the area analyzed. Approximately 1,206 of these were destroyed, 1,169 severely damaged, and 872 moderately damaged. A total of 979 impact craters were also identified within Kobane and its immediate surroundings. The inset images show craters likely caused by air strikes. By 6 December 2014 UNOSAT identified a total of eight craters possible caused by air strikes in the neighborhoods of Sanayi and Kaniya Kurdan and by 22 January 2015 an additional twelve were identified in the neighborhoods of Kaniya Kurdan and Saredari, a possible indicator of ongoing bombardment in the area. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
       "dataset_source": "UNOSAT",
       "package_creator": "unosat",
       "private": true,
@@ -2420,6 +2707,47 @@
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
     },
     {
+      "name": "geodata-of-damage-assessment-of-muchok-area-western-region-nepal",
+      "title": "Geodata of Damage Assessment of Muchok Area, Western Region, Nepal",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "05/05/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected damage and destruction in the Muchok area of Nepal. Located roughly two to seven kilometers west of the 25 April 2015 earthquake epicenter, the Muchok area was significantly impacted by this event. Using satellite imagery acquired 29 April 2015 UNITAR / UNOSAT identified a total of 299 affected structures in this area. Approximately 162 of these were destroyed, 66 severely damaged, 38 moderately damaged, and 33 possibly damaged. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Vulcano"
+        },
+        {
+          "name": "EQ-2015-000048-NPL"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "npl"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
       "name": "geodata-of-damage-assessment-of-ramadi-al-anbar-province-iraq",
       "title": "Geodata of Damage Assessment of Ramadi, Al Anbar Province, Iraq",
       "author": "unosat",
@@ -2438,7 +2766,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": null
         },
         {
           "name": "CE-2014-0613-IRQ"
@@ -2456,6 +2784,47 @@
       "groups": [
         {
           "id": "irq"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-damage-assessment-of-sankhu-kathmandu-valley-nepal",
+      "title": "Geodata of Damage Assessment of Sankhu, Kathmandu Valley, Nepal",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "04/30/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected damage and destruction in the town of Sankhu, Kathmandu Valley, Nepal. Located northeast of Kathmandu city, Sankhu was significantly impacted by the 25 April 2015 earthquake in Nepal. Using satellite imagery acquired 27 April 2015 UNITAR / UNOSAT identified a total of 300 affected structures. Approximately 166 of these were destroyed, 97 severely damaged, and 37 moderately damaged. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "EQ-2015-000048-NPL"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "npl"
         }
       ],
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
@@ -2479,7 +2848,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Vulcano"
+          "name": "Tropical Storm"
         },
         {
           "name": "CE-2014-0613-IRQ"
@@ -2725,7 +3094,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Refugee Camp"
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -2807,7 +3176,7 @@
       "state": "active",
       "tags": [
         {
-          "name": null
+          "name": "Flood"
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -2889,7 +3258,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Flood"
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -2971,7 +3340,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Flood"
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -3299,7 +3668,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": null
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -3340,7 +3709,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Fire"
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -3422,7 +3791,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "CE-2013-1212-CAF"
@@ -3463,7 +3832,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Earthquake"
+          "name": "Complex Emergency"
         },
         {
           "name": "CE-2013-1218-SSD"
@@ -4019,6 +4388,47 @@
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
     },
     {
+      "name": "geodata-of-flood-waters-in-southern-region-malawi-and-zambezia-mozambique",
+      "title": "Geodata of Flood Waters In Southern Region, Malawi and Zambezia, Mozambique",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "02/16/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected flood waters in the Chikwawa and Nsanje Districts of Southern Region of Malawi and in the Morrumbala District of Zambezia Province of Mozambique along the Shire River as detected by Landsat-7 imagery acquired 07 February 2015. It is likely that flood waters have been systematically underestimated along highly vegetated areas along main river banks, and within built-up urban areas because of the special characteristics of the satellite data used. This analysis has not yet been validated in the field. Please send ground feedback to UNITAR /UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "FL-2015-0112-MOZ"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "moz"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
       "name": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-region-malawi",
       "title": "Geodata of Flood Waters In Zambezia, Tete and Sofala, Mozambique, and Southern Region, Malawi",
       "author": "unosat",
@@ -4030,6 +4440,47 @@
       "dataset_date": "02/16/2015",
       "subnational": "1",
       "notes": "This map illustrates satellite-detected flood waters in the Caia, Chemba, Mopeia and Mutarara and Morrumbala Districts of Mozambique and Nsanje District of southern Malawi along the Shire River as detected by the COSMO SkyMed image acquired 13 February 2015. Between 04 February 2015 and 13 February 2015 waters receded by approximatively 8% according to analysis results and according to The World Population Data 11.500 people are located within this potentially affected areas. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "FL-2015-0112-MOZ"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "moz"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-region-malawi",
+      "title": "Geodata of Flood Waters In Zambezia, Tete and Sofala, Mozambique, and Southern Region, Malawi",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "02/16/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected flood waters in the Caia, Chemba, Mopeia and Mutarara and Morrumbala Districts of Mozambique and Nsanje District of southern Malawi along the Shire River as detected by Landsat-7 imagery acquired 07 February 2015. It is likely that flood waters have been systematically underestimated along highly vegetated areas along main river banks, and within built-up urban areas because of the special characteristics of the satellite data used. This analysis has not yet been validated in the field. Please send ground feedback to UNITAR /UNOSAT.",
       "dataset_source": "UNOSAT",
       "package_creator": "unosat",
       "private": true,
@@ -4078,7 +4529,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Refugee Camp"
         },
         {
           "name": "FL-2014-1230-LKA"
@@ -4652,7 +5103,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Complex Emergency"
         },
         {
           "name": "FL-2015-0112-MOZ"
@@ -4693,7 +5144,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": null
         },
         {
           "name": "FL-2015-0112-MOZ"
@@ -4857,7 +5308,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Drought"
+          "name": "Complex Emergency"
         },
         {
           "name": "CE-2013-1218-SSD"
@@ -4898,7 +5349,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Refugee Camp"
         },
         {
           "name": "CE-2013-1218-SSD"
@@ -5185,7 +5636,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Drought"
+          "name": "Complex Emergency"
         },
         {
           "name": "CE-2013-1212-CAF"
@@ -5472,7 +5923,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "CE-2013-0710-SOM"
@@ -5513,7 +5964,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": null
         },
         {
           "name": "CE-2013-0710-SOM"
@@ -5595,7 +6046,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "CE-2013-0710-SOM"
@@ -5636,7 +6087,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Refugee Camp"
+          "name": "Flood"
         },
         {
           "name": "CE-2013-0710-SOM"
@@ -5677,7 +6128,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "CE-2013-0710-SOM"
@@ -5923,7 +6374,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "FL-2014-0213-BOL"
@@ -5964,7 +6415,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Flood"
+          "name": "Earthquake"
         },
         {
           "name": "FL-2014-0213-BOL"
@@ -6315,17 +6766,17 @@
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
     },
     {
-      "name": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan",
-      "title": "Geodata of Minkaman IDP site, Awerial County, Lakes State, South Sudan",
+      "name": "geodata-of-minawao-refugee-settlement-far-north-province-cameroon",
+      "title": "Geodata of Minawao Refugee Settlement, Far North Province, Cameroon",
       "author": "unosat",
       "author_email": "emergencymapping@unosat.org",
       "maintainer": "unosat",
       "maintainer_email": "emergencymapping@unosat.org",
       "license_id": "hdx-other",
       "license_other": null,
-      "dataset_date": "12/02/2014",
+      "dataset_date": "04/02/2015",
       "subnational": "1",
-      "notes": "This map illustrates satellite-detected shelters and other buildings at Minkaman IDP Site in Lakes State, South Sudan, as seen by the WorldView-2 satellite on 24 November 2014. People displaced by ongoing instability in the region of Bor have established multiple IDP camps on the west bank of the White Nile in Awerial County. Imagery acquired on 1 September 2014 showed approximately 16,364 shelters and 670 infrastructure or support buildings occupying multiple areas along the White Nile. Imagery also showed an area being prepared for accommodating new shelters. As of 24 November 2014 this ground has been partially covered by shelters as well as other areas of the IDP site, and approximately 18,636 shelters and 640 infrastructure or support buildings have been detected. Note that IDPs sheltering under trees are not detected by this analysis. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT\n",
+      "notes": "This map illustrates satellite-detected shelters and other buildings at the Minawao refugee settlement, Mayo-Tsanaga District, Far North Province, in Cameroon as seen by the WorldView-2 satellite on 10 March 2015. UNOSAT analyzed a total of 5,220 structures (4,027 tent shelters, 903 improvised shelters and 290 administrative buildings) within the 261 hectares of the settlement area. Note that apparently adjoining, contiguous shelters were counted as a single shelter which may thus underestimate total number of shelters. This is a preliminary analysis & has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT",
       "dataset_source": "UNOSAT",
       "package_creator": "unosat",
       "private": true,
@@ -6333,7 +6784,48 @@
       "state": "active",
       "tags": [
         {
-          "name": "Complex Emergency"
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "CE-2014-0617-NGA"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "nga"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan",
+      "title": "Geodata of Minkaman IDP Site, Awerial County, Lakes State, South Sudan",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "03/11/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected shelters and other buildings at the Minkaman IDP site in Lake State, South Sudan, as seen by WorldView-1 satellite on 8 February and 12 February 2015. UNOSAT analyzed these images and located 12,349 shelters and 611 administrative buildings in the IDP site area. A previous UNOSAT analysis using an image from 24 November 2014 indicated 18,636 IDPs shelters, and thus the updated analysis represents a decrease of approximatively 33% in the number of shelters. Note that IDPs sheltering under trees are not detected by this analysis. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
         },
         {
           "name": "CE-2013-1218-SSD"
@@ -6433,6 +6925,47 @@
       "groups": [
         {
           "id": "cod"
+        }
+      ],
+      "owner_org": "un-operational-satellite-appplications-programme-unosat"
+    },
+    {
+      "name": "geodata-of-neighborhood-damage-assessment-kobane-aleppo-governorate-syria",
+      "title": "Geodata of Neighborhood Damage Assessment Kobane, Aleppo Governorate, Syria",
+      "author": "unosat",
+      "author_email": "emergencymapping@unosat.org",
+      "maintainer": "unosat",
+      "maintainer_email": "emergencymapping@unosat.org",
+      "license_id": "hdx-other",
+      "license_other": null,
+      "dataset_date": "03/06/2015",
+      "subnational": "1",
+      "notes": "This map illustrates satellite-detected damage and destruction per neighborhood in the city of Kobane, Aleppo Governorate, Syria. Using satellite imagery acquired 22 January 2015 compared with imagery from 6 September 2014, UNITAR / UNOSAT identified a total of 2,730 affected structures by 22 January 2015 within the neighborhoods. Approximately 961 of these were destroyed, 969 severely damaged, and 800 moderately damaged. A total of 246 impact craters were also identified within the city of Kobane. This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
+      "dataset_source": "UNOSAT",
+      "package_creator": "unosat",
+      "private": true,
+      "url": null,
+      "state": "active",
+      "tags": [
+        {
+          "name": "Tropical Storm"
+        },
+        {
+          "name": "CE-2013-0604-SYR"
+        },
+        {
+          "name": "geodata"
+        },
+        {
+          "name": "shapefile"
+        },
+        {
+          "name": "geodatabase"
+        }
+      ],
+      "groups": [
+        {
+          "id": "syr"
         }
       ],
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
@@ -6907,7 +7440,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Refugee Camp"
+          "name": "Flood"
         },
         {
           "name": "VO-2014-1124-CPV"
@@ -6948,7 +7481,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Complex Emergency"
+          "name": "Flood"
         },
         {
           "name": "VO-2014-1124-CPV"
@@ -7522,7 +8055,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Refugee Camp"
         },
         {
           "name": "FL-2014-1230-LKA"
@@ -7563,7 +8096,7 @@
       "state": "active",
       "tags": [
         {
-          "name": null
+          "name": "Flood"
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -7604,7 +8137,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Complex Emergency"
+          "name": "Flood"
         },
         {
           "name": "TC-2014-1204-PHL"
@@ -7973,7 +8506,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Tropical Storm"
+          "name": "Complex Emergency"
         },
         {
           "name": "ST-2015-0107-PSE"
@@ -8137,7 +8670,7 @@
       "state": "active",
       "tags": [
         {
-          "name": "Earthquake"
+          "name": "Drought"
         },
         {
           "name": "FL-2014-0207-ZWE"
@@ -8324,47 +8857,6 @@
       "owner_org": "un-operational-satellite-appplications-programme-unosat"
     },
     {
-      "name": "geodata-of-unosat-live-map-floods-and-landslide-in-afghanistan",
-      "title": "Geodata of UNOSAT LIVE Map: Floods and Landslide in Afghanistan",
-      "author": "unosat",
-      "author_email": "emergencymapping@unosat.org",
-      "maintainer": "unosat",
-      "maintainer_email": "emergencymapping@unosat.org",
-      "license_id": "hdx-other",
-      "license_other": null,
-      "dataset_date": "05/06/2014",
-      "subnational": "1",
-      "notes": "This webmap compiles UNOSAT flood data and landslide data created in support of relief efforts in Afghanistan using radar and optical satellite data acquired between 29 April and 3 May 2014. Heavy rainfall occurred on 23-24 April 2014, flooding a large part of Khwaja Du Koh city and leading to an important landslide over Ab Barek village, where almost 2,000 people were reportedly killed. This analysis has not been yet validated in the field. Please send ground feedback to UNITAR/UNOSAT",
-      "dataset_source": "UNOSAT",
-      "package_creator": "unosat",
-      "private": true,
-      "url": null,
-      "state": "active",
-      "tags": [
-        {
-          "name": "Flood"
-        },
-        {
-          "name": "FL-2014-0430-AFG"
-        },
-        {
-          "name": "geodata"
-        },
-        {
-          "name": "shapefile"
-        },
-        {
-          "name": "geodatabase"
-        }
-      ],
-      "groups": [
-        {
-          "id": "afg"
-        }
-      ],
-      "owner_org": "un-operational-satellite-appplications-programme-unosat"
-    },
-    {
       "name": "geodata-of-waterlogging-over-satkhira-khulna-and-jessore-districts-bangladesh",
       "title": "Geodata of Waterlogging Over Satkhira, Khulna, and Jessore Districts, Bangladesh",
       "author": "unosat",
@@ -8401,47 +8893,6 @@
       "groups": [
         {
           "id": "bgd"
-        }
-      ],
-      "owner_org": "un-operational-satellite-appplications-programme-unosat"
-    },
-    {
-      "name": "geodata-of-web-map-flood-water-over-khartoum-state-sudan",
-      "title": "Geodata of Web Map: Flood Water Over Khartoum State, Sudan",
-      "author": "unosat",
-      "author_email": "emergencymapping@unosat.org",
-      "maintainer": "unosat",
-      "maintainer_email": "emergencymapping@unosat.org",
-      "license_id": "hdx-other",
-      "license_other": null,
-      "dataset_date": "08/13/2014",
-      "subnational": "1",
-      "notes": "This web map compiles all UNOSAT flood data created in support of relief efforts in Sudan using radar data acquired between 08 and 10 August 2014 and at multiple resolutions. The area surrounding Khartoum City and Umdurman seem to have been flooded and many other areas including Umdaba, East Nile and Khartoum Bahri are affected by varying levels of water and/or saturated soils. It is likely that flood waters have been systematically underestimated along highly vegetated areas along main river banks, and within built-up urban areas because of the characteristics of the satellite data used. This analysis has not yet been validated in the field. Please send ground feedback to UNITAR / UNOSAT.",
-      "dataset_source": "UNOSAT",
-      "package_creator": "unosat",
-      "private": true,
-      "url": null,
-      "state": "active",
-      "tags": [
-        {
-          "name": "Flood"
-        },
-        {
-          "name": "FL-2014-0803-SDN"
-        },
-        {
-          "name": "geodata"
-        },
-        {
-          "name": "shapefile"
-        },
-        {
-          "name": "geodatabase"
-        }
-      ],
-      "groups": [
-        {
-          "id": "sdn"
         }
       ],
       "owner_org": "un-operational-satellite-appplications-programme-unosat"

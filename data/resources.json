@@ -138,10 +138,28 @@
 "format": "ZIPPED SHAPEFILE" 
 },
 {
+ "package_id": "geodata-of-bentiu-idp-camp-rubkona-county-unity-state-south-sudan",
+"url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Bentiu.shp.zip",
+"name": "CE20131218SSD_Bentiu.shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
+ "package_id": "geodata-of-consolidated-web-map-limpopo-river-floods-mozambique",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL2013000018MOZ/UNOSAT_FL20130121MOZ_shp.zip",
+"name": "UNOSAT_FL20130121MOZ_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
  "package_id": "geodata-of-cyber-city-refugee-camp-irbid-governorate-jordan",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Cyber_City_20130527.gdb.zip",
 "name": "Cyber_City_20130527.gdb.zip",
 "format": "GDB" 
+},
+{
+ "package_id": "geodata-of-damage-and-displaced-persons-visible-in-satellite-imagery-kathmandu-nepal-27-ap",
+"url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/Kathmandu_Nepal_27April2015_IDP_Damage.kmz",
+"name": "Kathmandu_Nepal_27April2015_IDP_Damage.kmz",
+"format": "KMZ" 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic",
@@ -306,9 +324,27 @@
 "format": "ZIPPED SHAPEFILE" 
 },
 {
+ "package_id": "geodata-of-damage-assessment-of-banepa-kathmandu-valley-nepal",
+"url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
+"name": "EQ20150425NPL_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-bhaktapur-kathmandu-valley-nepal",
+"url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
+"name": "EQ20150425NPL_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
  "package_id": "geodata-of-damage-assessment-of-daraa-daraa-governorate-syria",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-daraudi-valley-western-region-nepal",
+"url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
+"name": "EQ20150425NPL_shp.zip",
 "format": "ZIPPED SHAPEFILE" 
 },
 {
@@ -327,6 +363,12 @@
  "package_id": "geodata-of-damage-assessment-of-hama-hama-governorate-syria",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-hansapur-area-western-region-nepal",
+"url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
+"name": "EQ20150425NPL_shp.zip",
 "format": "ZIPPED SHAPEFILE" 
 },
 {
@@ -354,9 +396,21 @@
 "format": "ZIPPED SHAPEFILE" 
 },
 {
+ "package_id": "geodata-of-damage-assessment-of-muchok-area-western-region-nepal",
+"url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
+"name": "EQ20150425NPL_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
  "package_id": "geodata-of-damage-assessment-of-ramadi-al-anbar-province-iraq",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi_shp.zip",
 "name": "CE20140613IRQ_Ramadi_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-sankhu-kathmandu-valley-nepal",
+"url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
+"name": "EQ20150425NPL_shp.zip",
 "format": "ZIPPED SHAPEFILE" 
 },
 {
@@ -588,9 +642,21 @@
 "format": "ZIPPED SHAPEFILE" 
 },
 {
+ "package_id": "geodata-of-flood-waters-in-southern-region-malawi-and-zambezia-mozambique",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.shp.zip",
+"name": "FL20150112MOZ.shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-region-malawi",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip",
 "name": "FL20150112MOZ_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
+ "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-region-malawi",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.shp.zip",
+"name": "FL20150112MOZ.shp.zip",
 "format": "ZIPPED SHAPEFILE" 
 },
 {
@@ -924,9 +990,15 @@
 "format": "GDB" 
 },
 {
+ "package_id": "geodata-of-minawao-refugee-settlement-far-north-province-cameroon",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/NG/CE20140617NGA/CE20140617NGA_Minawao_shp.zip",
+"name": "CE20140617NGA_Minawao_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
+},
+{
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan",
-"url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
-"name": "CE20131218SSD_shp.zip",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_MinkamanFEB2015_shp.zip",
+"name": "CE20131218SSD_MinkamanFEB2015_shp.zip",
 "format": "ZIPPED SHAPEFILE" 
 },
 {
@@ -940,6 +1012,12 @@
 "url": "http://maps.unosat.org/CG/CE20121123COG/mugunga1_structures.zip",
 "name": "mugunga1_structures.zip",
 "format": "ZIP" 
+},
+{
+ "package_id": "geodata-of-neighborhood-damage-assessment-kobane-aleppo-governorate-syria",
+"url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_shp.zip",
+"name": "Kobane_20150122_shp.zip",
+"format": "ZIPPED SHAPEFILE" 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-along-tonle-sap-lake-cambodia",
@@ -1165,7 +1243,7 @@
 },
 {
  "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria",
-"url": "Modis_Aqua_Terra_Snowcover_20150113.zip",
+"url": "http://cern.ch/unosat-maps/PS/ST20150107PSE/Modis_Aqua_Terra_Snowcover_20150113.zip",
 "name": "Modis_Aqua_Terra_Snowcover_20150113.zip",
 "format": "ZIP" 
 },
@@ -1218,22 +1296,10 @@
 "format": "GDB" 
 },
 {
- "package_id": "geodata-of-unosat-live-map-floods-and-landslide-in-afghanistan",
-"url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
-"name": "FL20140430AFG.gdb.zip",
-"format": "GDB" 
-},
-{
  "package_id": "geodata-of-waterlogging-over-satkhira-khulna-and-jessore-districts-bangladesh",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/BD/FL20131024BGD/UNOSAT_FL20131024BGD_Shapefiles.zip",
 "name": "UNOSAT_FL20131024BGD_Shapefiles.zip",
 "format": "ZIP" 
-},
-{
- "package_id": "geodata-of-web-map-flood-water-over-khartoum-state-sudan",
-"url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip",
-"name": "FL20140803SDN.gdb.zip",
-"format": "GDB" 
 },
 {
  "package_id": "geodata-of-wunthou-idp-site-awerial-county-lakes-state-south-sudan",
