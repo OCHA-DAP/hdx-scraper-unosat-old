@@ -2,8 +2,7 @@ venv/*
 venv/**
 backup/*
 backup/**
-config/*
-config/**
+
 
 .RData
 .Rhistory
