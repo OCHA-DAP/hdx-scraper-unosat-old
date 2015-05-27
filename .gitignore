@@ -2,7 +2,9 @@ venv/*
 venv/**
 backup/*
 backup/**
-
+config/*
+config/**
 
 .RData
 .Rhistory
+.DS_Store
