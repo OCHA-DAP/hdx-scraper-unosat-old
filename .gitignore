@@ -8,3 +8,4 @@ config/**
 .RData
 .Rhistory
 .DS_Store
+scraperwiki.sqlite
