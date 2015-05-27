@@ -1,4 +1,4 @@
-cffi==1.0.0b1
+cffi==1.0.0
 ckanapi==3.3
 colorlog==2.6.0
 docopt==0.6.2
