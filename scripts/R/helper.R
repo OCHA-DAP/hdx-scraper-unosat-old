@@ -1,33 +1,50 @@
-#############################################
-## Helper Functions for the UNOSAT scraper ##
-#############################################
+#
+# Helper / patch functions for the
+# UNOSAT scraper.
+#
+# Author: Luis Capelo | capelo@un.org
+#
 
-# Function to identify a file pattern
-# selecting only those patterns of interest.
+#
+# Identify a file extension
+# and filter non-matches.
+#
 identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
   cat('Idenfying data files ...')
   
-  # Creating the format variables.
+  #
+  # Creating file format dimensions.
+  #
   data$url_2_format <- NA
   data$url_3_format <- NA
   data$url_4_format <- NA
   data$url_5_format <- NA
   data$url_6_format <- NA
   
+  #
+  # Find file extension by pattern.
+  #
   findPattern <- function(df = NULL, pattern = NULL, verbose = v) {
-    # Making sure it is a character.
+    
+    #
+    # Changing type to character.
+    #
     pattern <- as.character(pattern)
     m = paste("Searching for pattern", pattern, "\n")
     if (verbose) cat(m)
 
-    # Finding matches.
+    #
+    # Find matches using regex.
+    #
     df$url_2_format <- ifelse(grepl(pattern, df$url_2, ignore.case = T), pattern, df$url_2_format)
     df$url_3_format <- ifelse(grepl(pattern, df$url_3, ignore.case = T), pattern, df$url_3_format)
     df$url_4_format <- ifelse(grepl(pattern, df$url_4, ignore.case = T), pattern, df$url_4_format)
     df$url_5_format <- ifelse(grepl(pattern, df$url_5, ignore.case = T), pattern, df$url_5_format)
     df$url_6_format <- ifelse(grepl(pattern, df$url_6, ignore.case = T), pattern, df$url_6_format)
 
-    # Cleaning the periods.
+    #
+    # Cleaning periods.
+    #
     df$url_2_format <- as.character(gsub("\\.", "", df$url_2_format))
     df$url_3_format <- gsub("\\.", "", df$url_3_format)
     df$url_4_format <- gsub("\\.", "", df$url_4_format)
@@ -36,14 +53,19 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
 
     return(df)
   }
+  
+  #
   # Iterating over the file extensions
   # to identify any potential matches.
+  #
   for (i in 1:length(pattern_vector)) {
     data <- findPattern(df = data, pattern_vector[i])
   }
   
+  #
   # From "SHP" to "ZIPPED SHAPEFILE" to use the
   # new geo-preview feature.
+  #
   data$url_2_format <- ifelse(data$url_2_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
   data$url_3_format <- ifelse(data$url_3_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
   data$url_4_format <- ifelse(data$url_4_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
@@ -54,16 +76,22 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
   return(data)
 }
 
-# Simple function to create a
-# dataset name as per HDX.
-createDatasetName <- function(vector = NULL) {
+#
+# Create dataset ID based on page name.
+#
+createDatasetName <- function(vector = NULL, update=FALSE, add_geodata=TRUE) {
   cat('Creating dataset ids ...')
-  # Removing special characters
+
+  #
+  # Remove special characters using regex.
+  #
   dataset_name <- gsub("[[:punct:]]", "", vector)  # punctuation
   dataset_name <- gsub("[^[:alnum:]]", "", dataset_name)  # non alpha-numeric
   # dataset_name <- gsub("[[:alnum:]]", "", dataset_name)  # non alpha-numeric
   
-  # Adjusting the blank spaces.
+  #
+  # Adjust blank spaces.
+  #
   dataset_name <- gsub(" ", "-", vector)
   dataset_name <- gsub("\\:", "", dataset_name)
   dataset_name <- gsub("\\,", "", dataset_name)
@@ -76,26 +104,40 @@ createDatasetName <- function(vector = NULL) {
   dataset_name <- gsub("&", "", dataset_name)
   dataset_name <- gsub("'", "", dataset_name)
   
-  # Removing "update" from title
-  dataset_name <- gsub("update", "", dataset_name, ignore.case = TRUE)
-  dataset_name <- gsub("update:", "", dataset_name, ignore.case = TRUE)
-  dataset_name <- gsub("update: ", "", dataset_name, ignore.case = TRUE)
-  dataset_name <- gsub("update ", "", dataset_name, ignore.case = TRUE)
+  #
+  # Removing "update" from title.
+  #
+  if (update) {
+    dataset_name <- gsub("update", "", dataset_name, ignore.case = TRUE)
+    dataset_name <- gsub("update:", "", dataset_name, ignore.case = TRUE)
+    dataset_name <- gsub("update: ", "", dataset_name, ignore.case = TRUE)
+    dataset_name <- gsub("update ", "", dataset_name, ignore.case = TRUE)
+  }
   
+  #
   # Adding geodata to title.
-  dataset_name <- paste0("geodata-of-", dataset_name)
+  #
+  if (add_geodata) {
+    dataset_name <- paste0("geodata-of-", dataset_name)
+  }
   
-  # Trimming names to 90 characters.
+  #
+  # Patch: Trimming names to 90 characters.
+  #
   dataset_name <- strtrim(dataset_name, 90)
   
+  #
   # Trimming double dashes
+  #
   dataset_name <- gsub("--", "-", dataset_name)
   
   cat('done.\n')
   return(dataset_name)
 }
 
+#
 # Function to create a nice HDX title.
+#
 createTitleName <- function(vector = NULL) {
   cat('Creating the dataset name ...')
   title <- paste("Geodata of", vector)
@@ -103,11 +145,15 @@ createTitleName <- function(vector = NULL) {
   return(title)
 }
 
-# Algorithm to elimitate duplicates
-# selecting the latest date only
+#
+# Select only the latest entry for duplicates.
+#
 cleanDuplicates <- function(df = NULL) {
+  
+  #
   # Using dplyr to "chain" the transformation
   # of a data.frame.
+  #
   cat('Cleaning duplicates ...')
   df$dataset_date <- as.Date(df$dataset_date)
   df <- df %>%
@@ -119,7 +165,9 @@ cleanDuplicates <- function(df = NULL) {
   return(df)
 }
 
-# Extracting file names with regex
+#
+# Extracting file names with regex.
+#
 extractFileNames <- function(vector = NULL) {
   cat('Extracting file names ...')
   vector <- basename(as.character(vector))
@@ -127,9 +175,11 @@ extractFileNames <- function(vector = NULL) {
   return(vector)
 }
 
-# Standardizing the glide number.
-fixGlide <- function(vector = NULL) {
-  cat('Fixing glide ...')
+#
+# Formatting the crisis id.
+#
+fixCrisisId <- function(vector = NULL) {
+  cat('Fixing crisis id ...')
   vector <- as.character(vector)
   s = '-'
   w = c(3, 8, 13)
@@ -145,26 +195,50 @@ fixGlide <- function(vector = NULL) {
   return(vector)
 }
 
-# Function to add missing metadat on
-# each of the dataset records.
-addMetadata <- function(df = NULL) {
+#
+# Add default missing metadata to
+# each dataset.
+#
+addMetadata <- function(df=NULL, is_private=TRUE) {
   cat('Adding metadata ...')
 
-  # Adding schema elements.
+  #  
+  # License
+  #
+  df$license_id = "hdx-other"
   df$license_title = "hdx-other"
+  df$license_other = "Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License"
+
+  #
+  # Author and maintainer.
+  #
   df$author = "unosat"
   df$author_email = "emergencymapping@unosat.org"
   df$maintainer = "unosat"
   df$maintainer_email = "emergencymapping@unosat.org"
-  df$package_creator = "unosat"
-  df$private = TRUE
-  df$methodology_other = NA
-  df$caveats = NA
-  df$license_other = NA
-  df$methodology = "Other"
   df$dataset_source = "UNOSAT"
-  df$license_id = "hdx-other"
   df$owner_org = "un-operational-satellite-appplications-programme-unosat"
+
+  #
+  # Organization id that created dataset.
+  #
+  df$package_creator = "unosat"
+
+  #
+  # Private attribute.
+  #
+  df$private = is_private
+
+  #
+  # Methodology and caveats.
+  #
+  df$methodology = "Other"
+  df$methodology_other = NA
+  df$caveats = "This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+
+  #
+  # Countries.
+  #
   df$group_id <- countrycode(df$country_name, "country.name", "iso3c")
   df$group_id <- ifelse(df$country_name == 'Horn Of Africa', "SOM", df$group_id)  # This is wrong conceptually. Horn of Africa != SOM.
   df$group_id <- tolower(df$group_id)  # Country names have to be lower case.
@@ -173,37 +247,114 @@ addMetadata <- function(df = NULL) {
   return(df)
 }
 
-# Adding tags based on glide numbers
-addGlideTags <- function(vector = NULL) {
-  cat('Adding tags based on Glide number ...')
-  vector <- data.frame(code = substr(vector, 1, 2))
-  glide_dictionary <- data.frame(code = c("FL","FR","VO","CE","TC","DR","EQ","AC","OT","RC"),
-                                 name  = c('Flood', 'Fire', 'Vulcano', 'Complex Emergency', 'Tropical Storm', 'Drought', 'Earthquake', 'Munitions Depot Explosion', 'Refugee Camp', 'Complex Emergency'))
-  glide_dictionary$name <- as.character(glide_dictionary$name)
-  vector <- merge(vector, glide_dictionary, by.y="code", all.x = T)
-  vector$code <- NULL
+
+#
+# Adding tags based on crisis ids.
+#
+addCrisisTag <- function(vector = NULL) {
+  cat('Adding tags based on crisis id ...')
+
+  #
+  # Crisis code and description.
+  #
+  crisis_dictionary <- data.frame(
+    code = c("FL","FR","VO","CE","TC","DR","EQ","AC","OT","RC","ST"),
+    name = c('Flood', 'Fire', 'Vulcano', 'Complex Emergency', 'Tropical Storm', 'Drought', 'Earthquake', 'Munitions Depot Explosion', 'Other', 'Refugee Camp', 'Storm')
+    )
+
+  #
+  # Make sure they are characters.
+  #
+  crisis_dictionary$code <- as.character(crisis_dictionary$code)
+  crisis_dictionary$name <- as.character(crisis_dictionary$name)
+  
+  #
+  # Split 2 first characeters of vector
+  # and merge with dictionary.
+  #
+  vector <- data.frame(code = toupper(substr(vector, 1, 2)), id = 1:length(vector))
+  vector <- merge(vector, crisis_dictionary, by="code", all.x=TRUE)
+  vector <- arrange(vector, id)
+
+  #
+  # Done.
+  #
   cat('done.\n')
   return(vector$name)
 }
 
-addOtherTags <- function(df = NULL) {
-  tags = c("geodata", "shapefile", "geodatabase")
-  df$tag_1 = df$glide_id
+#
+# Add ad-hoc tags.
+#
+addOtherTags <- function(df=NULL, tags=NULL) {
+  cat('Adding extra tags ...')
+
+  #
+  # Sanity check.
+  #
+  if (is.null(tags)) {
+    warn('No tags provided...')
+    return(FALSE)
+  }
+
+  #
+  # Iterating over tags.
+  #
+  df$tag_1 = df$crisis_id
   df$tag_2 = tags[1]
   df$tag_3 = tags[2]
   df$tag_4 = tags[3]
+  
+  #
+  # Done.
+  #
+  cat('done.\n')
   return(df)
 }
 
+#
+# Find and remove based on key.
+#
+findAndRemoveKey <- function(df=NULL, keys=NULL) {
+  cat('Filtering keys ...')
+
+  #
+  # Sanity check.
+  #
+  if (is.null(keys)) {
+    warn('No keys provided...')
+    return(FALSE)
+  }
+
+  #
+  # Iterating over every key.
+  #
+  for (i in 1:length(keys)) {
+    found = grep(keys[i], df$title, ignore.case=TRUE)
+    if (length(found) > 0) {
+      df <- df[-found,] 
+    }
+  }
+  
+  #
+  # Done.
+  #
+  cat('done.\n')
+  return(df)
+}
 
 #### JSON SERIALIZATION ####
 
+#
 # Function to transform a UNOSAT data.frame
 # into a CKAN / HDX dataset JSON object.
+#
 createDatasetsJson <- function(df = NULL) {
   cat('Creating CKAN JSON object ...')
   
+  #
   # Making all variables character -- and !factors.
+  #
   df <- data.frame(lapply(df, as.character), stringsAsFactors=FALSE)
 
   for (i in 1:nrow(df)) {
@@ -252,7 +403,9 @@ createDatasetsJson <- function(df = NULL) {
 
 
 
-# Function to create resouces.
+#
+# Serializing resources.
+#
 createResourcesJson <- function(df = NULL) {
   cat('Creating CKAN JSON object ...')
   
@@ -303,7 +456,9 @@ createResourcesJson <- function(df = NULL) {
 }
 
 
-# Function to create gallery items.
+#
+# Serializing gallery items.
+#
 createGalleryJson <- function(df = NULL) {
   cat('Creating CKAN JSON object ...')
   
@@ -328,6 +483,4 @@ createGalleryJson <- function(df = NULL) {
   cat('done.\n')
   return(out)
 }
-
-
 
