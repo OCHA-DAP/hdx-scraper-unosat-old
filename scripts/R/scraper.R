@@ -78,12 +78,12 @@ grabPageLinks <- function() {
     #
     setTxtProgressBar(pb, i)
     url = country_list$country[i]
-    download.file(url, 'data/temp.html', method = 'wget', quiet = T)
+    download.file(url, onSw('data/temp.html'), method = 'wget', quiet = T)
 
     #
     # Parse the HTML document.
     #
-    doc <- htmlParse('data/temp.html')
+    doc <- htmlParse(onSw('data/temp.html'))
     crisis_ids = xpathSApply(doc, '//*[@id="block-system-main"]/div/div/div/h3', xmlValue)
     country_name = gsub("Maps: ", "", xpathSApply(doc, '//*[@id="title-container"]/h1', xmlValue))
     for (j in 1:length(crisis_ids)) {
@@ -145,7 +145,7 @@ fetchContent <- function(list_of_pages = NULL, verbose = F) {
     # that XPath for particular pages wasn't being generated.
     #
     url = as.character(list_of_pages$page_url[i])
-    download.file(url = url, destfile = 'data/temp.html', method = 'wget', quiet = T)
+    download.file(url = url, destfile = onSw('data/temp.html'), method = 'wget', quiet = T)
     doc <- htmlParse(paste0(onSw(),'data/temp.html'))
 
     # Debugging
