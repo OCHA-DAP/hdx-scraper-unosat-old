@@ -17,11 +17,12 @@
 # Author: Luis Capelo | capelo@un.org
 #
 
-library(RCurl)
+
 library(XML)
-library(countrycode)
 library(dplyr)
+library(RCurl)
 library(RJSONIO)
+library(countrycode)
 
 #
 # ScraperWiki path-helper function.
@@ -307,7 +308,6 @@ subsetAndClean <- function(df=NULL,
 runScraper <- function(p = NULL,
                        backup = FALSE,
                        table = NULL,
-                       key = NULL,
                        c = NULL,
                        csv = TRUE,
                        json = TRUE,
@@ -371,7 +371,7 @@ runScraper <- function(p = NULL,
 #
 # ScraperWiki error handler.
 #
-tryCatch(runScraper(p = JSON_PATH, table = DB_TABLE_NAME_SUBSET, key = apikey, c = CSV_PATH),
+tryCatch(runScraper(p = JSON_PATH, table = DB_TABLE_NAME_SUBSET, c = CSV_PATH),
          error = function(e) {
            cat('Error detected ... sending notification.')
            system('mail -s "CKAN Statistics: Organization list failed." luiscape@gmail.com')
