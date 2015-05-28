@@ -296,12 +296,6 @@ subsetAndClean <- function(df=NULL,
 }
 
 
-############################################
-############################################
-########### ScraperWiki Logic ##############
-############################################
-############################################
-
 #
 # Wrapper.
 #
@@ -309,7 +303,7 @@ runScraper <- function(p = NULL,
                        backup = FALSE,
                        table = NULL,
                        c = NULL,
-                       csv = TRUE,
+                       csv = FALSE,
                        json = TRUE,
                        db = TRUE
                        ) {
@@ -340,7 +334,7 @@ runScraper <- function(p = NULL,
   #
   # Write CSV.
   #
-  if (csv) write.csv(subset_of_interest, onSw(c), row.names = F)
+  if (csv) write.csv(subset_of_interest, c, row.names = F)
   
   #
   # Write results in database.
@@ -354,12 +348,19 @@ runScraper <- function(p = NULL,
   #
   if (json) {
     
+    #
+    # Creating JSON in memory.
+    #
     datasets_json <- createDatasetsJson(subset_of_interest)
     resources_json <- createResourcesJson(subset_of_interest)
     gallery_json <- createGalleryJson(subset_of_interest)
+    
+    #
+    # Writing JSON files to disk.
+    #
     jsons <- list(datasets_json, resources_json, gallery_json)
     for (i in 1:length(jsons)) {
-      p = c("data/datasets.json", "data/resources.json", "data/gallery.json")
+      p = c(onSw("data/datasets.json"), onSw("data/resources.json"), onSw("data/gallery.json"))
       sink(onSw(p[i]))
         cat(toJSON(jsons[i]))
       sink()
