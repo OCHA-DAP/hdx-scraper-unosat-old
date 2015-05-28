@@ -229,7 +229,7 @@ def CreateDatasets(dataset_dict, hdx_site, apikey, verbose=True):
     i += 1
   
   if verbose is False:
-
-    .finish()
+    pbar.finish()
+    
   print "--------------------------------------------------"
   return True
