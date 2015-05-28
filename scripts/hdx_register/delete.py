@@ -126,10 +126,13 @@ def DeleteResources(dataset_dict, hdx_site, apikey, verbose=True):
     #
     d = requests.get(package_show_url + dataset["name"], headers=headers, auth=('dataproject', 'humdata')).json()
 
-    if d["success"] is False and d['__type'] == 'Not Found Error':
-      print '%s There was an error connecting to HDX.' % I('prompt_error')
-      if verbose:
-       print json.dumps(d['error'])
+    if d["success"] is False:
+      if d['error']['__type'] == 'Not Found Error':
+        print '%s Dataset not found.' % I('prompt_warn')
+      else:
+        print '%s There was an error connecting to HDX.' % I('prompt_error')
+        if verbose:
+         print json.dumps(d['error'])
 
     
     if d["success"] is True:
