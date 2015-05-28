@@ -26,6 +26,17 @@ def Main():
     print "--------------------------------------------------"
     print '%s HDX Site: %s' % (I('prompt_bullet').decode('utf-8'), p['hdx_site'])
 
+    #
+    # Deleting all datasets from org.
+    #
+    if p['delete_datasets']:
+      try:
+        delete.DeleteAllDatasetsFromOrg(organization='un-operational-satellite-appplications-programme-unosat', hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'])
+      
+      except Exception as e:
+        print e
+        return False
+
     try:
       # Loading dictionaries.
       dataset_dict = load.LoadData(os.path.join(p['json_folder'], 'datasets.json'))
@@ -45,6 +56,7 @@ def Main():
 
     except Exception as e:
       print e
+      return False
 
 
 
