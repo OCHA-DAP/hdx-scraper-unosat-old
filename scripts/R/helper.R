@@ -389,6 +389,7 @@ createDatasetsJson <- function(df = NULL) {
             dataset_date = format(as.Date(dataset_date[i]), "%m/%d/%Y"),
             subnational = "1",
             notes = notes[i],
+            caveats = caveats[i],
             dataset_source = dataset_source[i],
             package_creator = package_creator[i],
             private = TRUE,  # otherwise it will be public to the world
@@ -432,42 +433,52 @@ createResourcesJson <- function(df = NULL) {
   
   for (i in 1:nrow(df)) {
       with(df, 
-           it <<-
-               list(
-                package_id = dataset_name[i],
-                url = url_2[i],
-                name = file_name_2[i],
-                format = url_2_format[i]
-               ),
-               list(
-                package_id = dataset_name[i],
-                url = url_3[i],
-                name = file_name_3[i],
-                format = url_3_format[i]
-                ),
-               list(
-                 package_id = dataset_name[i],
-                 url = url_4[i],
-                 name = file_name_4[i],
-                 format = url_4_format[i]
-               ),
-               list(
-                 package_id = dataset_name[i],
-                 url = url_5[i],
-                 name = file_name_5[i],
-                 format = url_5_format[i]
-               ),
-               list(
-                 package_id = dataset_name[i],
-                 url = url_6[i],
-                 name = file_name_6[i],
-                 format = url_6_format[i]
-               )
+           resource_1 <<-
+             list(
+               package_id = dataset_name[i],
+               url = url_2[i],
+               name = file_name_2[i],
+               format = url_2_format[i]
+             )
+      )
+      with(df, 
+           resource_2 <<-
+             list(
+               package_id = dataset_name[i],
+               url = url_3[i],
+               name = file_name_3[i],
+               format = url_3_format[i]
+             )
+      )
+      with(df, 
+           resource_3 <<-
+             list(
+               package_id = dataset_name[i],
+               url = url_4[i],
+               name = file_name_4[i],
+               format = url_4_format[i]
+             )
+      )
+      with(df, 
+           resource_4 <<-
+             list(
+               package_id = dataset_name[i],
+               url = url_5[i],
+               name = file_name_5[i],
+               format = url_5_format[i]
+             )
       )
       
-    if (i == 1) out <- it
-    else out <- rbind(out, it)
-  }
+      it <- cbind(resource_1, resource_2, resource_3, resource_4)
+      
+      #
+      # Filter resources without URL
+      #
+      # it <- filter(it, is.na(url) != TRUE)
+      if (i == 1) out <- it
+      else out <- rbind(out, it)
+    }
+  
   # names(out) <- rep("dataset", length(out))
   cat('done.\n')
   return(out)
