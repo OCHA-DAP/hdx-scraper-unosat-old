@@ -39,10 +39,10 @@ def Main():
 
     try:
       #
-      # Loading JSON data. Resources has issues.
+      # Loading JSON data.
       #
       dataset_dict = load.LoadData(os.path.join(p['json_folder'], 'datasets.json'))
-      resource_dict = load.LoadData(os.path.join(p['json_folder'], 'resources.json'))[0]
+      resource_dict = load.LoadData(os.path.join(p['json_folder'], 'resources.json'))
       gallery_dict = load.LoadData(os.path.join(p['json_folder'], 'gallery.json'))
 
       # Delete resources before running:
