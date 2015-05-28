@@ -360,7 +360,7 @@ runScraper <- function(p = NULL,
     #
     jsons <- list(datasets_json, resources_json, gallery_json)
     for (i in 1:length(jsons)) {
-      p = c(onSw("data/datasets.json"), onSw("data/resources.json"), onSw("data/gallery.json"))
+      p = c("data/datasets.json", "data/resources.json", "data/gallery.json")
       sink(onSw(p[i]))
         cat(toJSON(jsons[i]))
       sink()
