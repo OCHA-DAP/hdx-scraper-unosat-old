@@ -73,6 +73,7 @@ def CreateResources(resource_dict, hdx_site, apikey, verbose=True):
 
   if verbose is False:
     pbar.finish()
+    
   print "--------------------------------------------------"
   return True
 
@@ -230,6 +231,6 @@ def CreateDatasets(dataset_dict, hdx_site, apikey, verbose=True):
   
   if verbose is False:
     pbar.finish()
-    
+
   print "--------------------------------------------------"
   return True

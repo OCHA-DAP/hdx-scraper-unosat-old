@@ -79,7 +79,7 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
 #
 # Create dataset ID based on page name.
 #
-createDatasetName <- function(vector = NULL, update=FALSE, add_geodata=TRUE) {
+createDatasetIDs <- function(vector = NULL, remove_update=TRUE, date_vector=NULL, add_geodata=TRUE) {
   cat('Creating dataset ids ...')
 
   #
@@ -107,7 +107,7 @@ createDatasetName <- function(vector = NULL, update=FALSE, add_geodata=TRUE) {
   #
   # Removing "update" from title.
   #
-  if (update) {
+  if (remove_update) {
     dataset_name <- gsub("update", "", dataset_name, ignore.case = TRUE)
     dataset_name <- gsub("update:", "", dataset_name, ignore.case = TRUE)
     dataset_name <- gsub("update: ", "", dataset_name, ignore.case = TRUE)
@@ -115,7 +115,7 @@ createDatasetName <- function(vector = NULL, update=FALSE, add_geodata=TRUE) {
   }
   
   #
-  # Adding geodata to title.
+  # Adding geodata to id.
   #
   if (add_geodata) {
     dataset_name <- paste0("geodata-of-", dataset_name)
@@ -124,7 +124,14 @@ createDatasetName <- function(vector = NULL, update=FALSE, add_geodata=TRUE) {
   #
   # Patch: Trimming names to 90 characters.
   #
-  dataset_name <- strtrim(dataset_name, 90)
+  dataset_name <- strtrim(dataset_name, 77)
+  
+  #
+  # Adding date to id.
+  #
+  if (!is.null(date_vector)) {
+    dataset_name <- paste0(dataset_name, tolower(format(as.Date(date_vector), "-%B-%d-%Y")))
+  }
   
   #
   # Trimming double dashes
@@ -339,6 +346,17 @@ findAndRemoveKey <- function(df=NULL, keys=NULL) {
   #
   # Done.
   #
+  cat('done.\n')
+  return(df)
+}
+
+#
+# Filter datasets from a certain date.
+#
+filterDatasetsByDate <- function(df=NULL, date='2014-01-01') {
+  cat('Filtering dataset by date ...')
+  df <- filter(df, as.Date(dataset_date) > as.Date(date))
+  
   cat('done.\n')
   return(df)
 }

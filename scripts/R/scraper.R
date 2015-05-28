@@ -209,6 +209,7 @@ subsetAndClean <- function(df=NULL,
                            improve_title=TRUE,
                            clean_duplicates=FALSE,
                            remove_keys=TRUE,
+                           filter_by_date=TRUE,
                            verbose=FALSE) {
 
   #
@@ -233,7 +234,7 @@ subsetAndClean <- function(df=NULL,
   #
   # Creating the dataset name as per HDX.
   #
-  df$dataset_name <- createDatasetName(df$title)
+  df$dataset_name <- createDatasetIDs(df$title, date_vector=df$dataset_date)
 
   #
   # Fixing all the glide numbers
@@ -282,6 +283,13 @@ subsetAndClean <- function(df=NULL,
   #
   if (remove_keys) {
     df <- findAndRemoveKey(df=df, keys=c('poster'))
+  }
+  
+  #
+  # Filter by date.
+  #
+  if (filter_by_date) {
+    df <- filterDatasetsByDate(df=df, date="2014-01-01")
   }
   
   #
