@@ -71,7 +71,8 @@ def CreateResources(resource_dict, hdx_site, apikey, verbose=True):
 
     i += 1
 
-  pbar.finish()
+  if verbose is False:
+    pbar.finish()
   print "--------------------------------------------------"
   return True
 
@@ -154,7 +155,8 @@ def CreateGalleryItems(gallery_dict, hdx_site, apikey, verbose=True):
 
         i += 1
 
-  pbar.finish()
+  if verbose is False:
+    pbar.finish()
   print "--------------------------------------------------"
   return True
 
@@ -226,6 +228,7 @@ def CreateDatasets(dataset_dict, hdx_site, apikey, verbose=True):
 
     i += 1
   
-  pbar.finish()
+  if verbose is False:
+    pbar.finish()
   print "--------------------------------------------------"
   return True
