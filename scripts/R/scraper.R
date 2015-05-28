@@ -374,7 +374,7 @@ runScraper <- function(p = NULL,
 tryCatch(runScraper(p = JSON_PATH, table = DB_TABLE_NAME_SUBSET, c = CSV_PATH),
          error = function(e) {
            cat('Error detected ... sending notification.')
-           system('mail -s "CKAN Statistics: Organization list failed." luiscape@gmail.com')
+           system('mail -s "UNOSAT Scraper: Data collection failed." luiscape@gmail.com')
            changeSwStatus(type = "error", message = "Scraper failed.")
            { stop("!!") }
          }
