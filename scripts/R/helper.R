@@ -469,14 +469,19 @@ createResourcesJson <- function(df = NULL) {
              )
       )
       
-      it <- cbind(resource_1, resource_2, resource_3, resource_4)
+      it <- c(
+        list(resource_1), 
+        list(resource_2), 
+        list(resource_3), 
+        list(resource_4)
+      )
       
       #
       # Filter resources without URL
       #
       # it <- filter(it, is.na(url) != TRUE)
       if (i == 1) out <- it
-      else out <- rbind(out, it)
+      else out <- c(out, it)
     }
   
   # names(out) <- rep("dataset", length(out))
