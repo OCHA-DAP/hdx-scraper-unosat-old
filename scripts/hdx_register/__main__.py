@@ -20,7 +20,7 @@ from utilities.prompt_format import item as I
 def Main():
   '''Wrapper'''
 
-  p = config.FetchConfig('prod')
+  p = config.FetchConfig('dev')
   if p is not False:
 
     print "--------------------------------------------------"
