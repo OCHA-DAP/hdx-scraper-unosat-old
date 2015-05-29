@@ -331,7 +331,7 @@ runScraper <- function(p = NULL,
   }
   else {
     system.time(page_content <- fetchContent(page_list))
-    writeTable(page_content, 'page_content')
+    writeTable(page_content, 'page_content', overwrite=TRUE)
   }
   
   #
