@@ -14,5 +14,6 @@ cd R
 make
 
 # Creating Python's virtual env
-cd ~
+# cd
 virtualenv venv
+pip install -r requirements.txt
