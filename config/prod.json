@@ -3,6 +3,6 @@
   "hdx_key": "XXX",
   "json_folder": "data",
   "verbose": false,
-  "delete_resources": true,
+  "delete_resources": false,
   "delete_datasets": false
 }
