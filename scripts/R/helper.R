@@ -240,8 +240,8 @@ addMetadata <- function(df=NULL, is_private=TRUE) {
   # Methodology and caveats.
   #
   df$methodology = "Other"
-  df$methodology_other = NA
-  df$caveats = "This is a preliminary analysis and has not yet been validated in the field. Please send ground feedback to UNITAR-UNOSAT."
+  df$methodology_other = "UNOSAT datasets and maps are produced using a variety of methods. In general, analysts closely review satellite imagery, often comparing two or more images together, and determine notable changes between the images. For damage assessments, refugee or IDP assessments, and similar analyses, these changes are then manually documented in the vector data by the analyst. For flood extractions, landcover mapping and similar analyses, a variety of automated remote sensing techniques are used to extract the relevant information which is then reviewed and revised as necessary by the analyst. In all cases, resulting data is then loaded into a standardized UNOSAT geodatabase and exported asshapefiles for dissemination."
+  df$caveats = "This is a preliminary assessment and has not yet been validated in the field. It is important to consider the characteristics of the source imagery used in the analyses when interpreting results. For damage assessments it should be noted that only significant damage to the structural integrity of the buildings analyzed can be seen in imagery, while minor damage such as cracks or holes may not be visible at all. For flood extractions using radar data it is important to note that urban areas and highly vegetated areas may mask the flood signature and result in underestimation of flood waters. Users with specific questions or concerns should contact unosat@unitar.org to seek clarification."
 
   #
   # Countries.
@@ -386,15 +386,15 @@ createDatasetsJson <- function(df = NULL) {
             maintainer_email = maintainer_email[i],
             license_id = license_id[i],
             license_other = license_other[i],
-            dataset_date = format(as.Date(dataset_date[i]), "%m/%d/%Y"),
+            dataset_date = format(as.Date(dataset_date[i]), "%m/%d/%Y"),  # HDX doesn't use ISO here.
             subnational = "1",
             notes = notes[i],
             caveats = caveats[i],
             dataset_source = dataset_source[i],
             package_creator = package_creator[i],
-            private = TRUE,  # otherwise it will be public to the world
+            private = FALSE,  # Public to the world?
             url = NULL,
-            state = "active",  # better don't touch this
+            state = "active",  # Better don't touch this.
             tags = list(
               list(name = tag[i]),
               list(name = tag_1[i]),
