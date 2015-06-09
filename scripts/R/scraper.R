@@ -7,9 +7,6 @@
 # a HDX-friendly metadata format, storing
 # the output in a series of JSON files.
 #
-# Author: Luis Capelo | capelo@un.org
-#
-#
 # There is a conceptual problem with 'Horn of Africa': 
 # at the moment 'Horn of Africa' is being turned into
 # Somalia (SOM).
@@ -19,6 +16,7 @@
 
 
 library(XML)
+library(httr)
 library(dplyr)
 library(RCurl)
 library(RJSONIO)
@@ -27,7 +25,7 @@ library(countrycode)
 #
 # ScraperWiki path-helper function.
 #
-onSw <- function(p = NULL, l = 'tool/', d = TRUE) {
+onSw <- function(p = NULL, l = 'tool/', d = FALSE) {
   if(d) return(paste0(l, p))
   else return(p)
 }
@@ -210,6 +208,7 @@ subsetAndClean <- function(df=NULL,
                            clean_duplicates=FALSE,
                            remove_keys=TRUE,
                            filter_by_date=TRUE,
+                           add_file_size=TRUE,
                            verbose=FALSE) {
 
   #
@@ -293,6 +292,17 @@ subsetAndClean <- function(df=NULL,
   }
   
   #
+  # Adding file size.
+  #
+  if (add_file_size) {
+    df$file_size_2 <- addFileSize(df$url_2)
+    df$file_size_3 <- addFileSize(df$url_3)
+    df$file_size_4 <- addFileSize(df$url_4)
+    df$file_size_5 <- addFileSize(df$url_5)
+    df$file_size_6 <- addFileSize(df$url_6)
+  }
+  
+  #
   # Arrange dates.
   #
   df <- arrange(df, dataset_date)
@@ -308,7 +318,7 @@ subsetAndClean <- function(df=NULL,
 # Wrapper.
 #
 runScraper <- function(p = NULL,
-                       backup = FALSE,
+                       backup = TRUE,
                        table = NULL,
                        c = NULL,
                        csv = FALSE,
@@ -320,8 +330,13 @@ runScraper <- function(p = NULL,
   # Download the page lists
   # and store in database.
   #
-  page_list <- grabPageLinks()
-  writeTable(page_list, 'page_list', overwrite=TRUE)
+  if (backup) {
+    page_list <- readTable('page_list')
+  }
+  else {
+    page_list <- grabPageLinks()
+    writeTable(page_list, 'page_list', overwrite=TRUE)
+  }
   
   #
   # Collect detailed metadata.

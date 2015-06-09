@@ -1,11 +1,11 @@
 run:
-  bash bin/run.sh
+	bash bin/run.sh;
 
 runsw:
-	bash bin/runsw.sh
+	bash bin/runsw.sh;
 	
 setup:
-	bash bin/setup.sh
+	bash bin/setup.sh;
 
 setupsw:
-	bash bin/setupsw.sh
+	bash bin/setupsw.sh;

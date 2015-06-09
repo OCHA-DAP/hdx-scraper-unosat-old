@@ -361,6 +361,49 @@ filterDatasetsByDate <- function(df=NULL, date='2014-01-01') {
   return(df)
 }
 
+#
+# Add file size.
+#
+addFileSize <- function(vector=NULL) {
+  cat('Collecting file sizes ...\n')
+
+  #
+  # Iterating over the file URLs.
+  #
+  size_vector = NA
+  total = length(vector)
+  pb <- txtProgressBar(min = 0, max = total, char = ".", style = 3)
+  for (i in 1:total) {
+    setTxtProgressBar(pb, i)
+    if (!is.na(vector[i])) {
+      s = 'Unknown file size.'
+      r = try(GET(vector[i]), silent=TRUE)
+      n = try(round(as.numeric(r$headers$`content-length`)/100000, 1), silent=TRUE)
+      s = paste(n, 'mb')
+      
+      #
+      # Check if field contains all characters.
+      #
+      if (nchar(s) <= 3) {
+        s = 'Unknown file size.'
+      }
+    }
+    else {
+      s = 'Unknown file size.'
+    }
+
+    #
+    # Combine results into vector.
+    #
+    if (i == 1) size_vector = s
+    else size_vector = c(size_vector, s)
+  }
+  cat('done.\n')
+  return(size_vector)
+}
+  
+
+
 #### JSON SERIALIZATION ####
 
 #
@@ -440,7 +483,8 @@ createResourcesJson <- function(df = NULL) {
                package_id = dataset_name[i],
                url = url_2[i],
                name = file_name_2[i],
-               format = url_2_format[i]
+               format = url_2_format[i],
+               description = file_size_2[i]
              )
       )
       with(df, 
@@ -449,7 +493,8 @@ createResourcesJson <- function(df = NULL) {
                package_id = dataset_name[i],
                url = url_3[i],
                name = file_name_3[i],
-               format = url_3_format[i]
+               format = url_3_format[i],
+               description = file_size_3[i]
              )
       )
       with(df, 
@@ -458,7 +503,8 @@ createResourcesJson <- function(df = NULL) {
                package_id = dataset_name[i],
                url = url_4[i],
                name = file_name_4[i],
-               format = url_4_format[i]
+               format = url_4_format[i],
+               description = file_size_4[i]
              )
       )
       with(df, 
@@ -467,7 +513,18 @@ createResourcesJson <- function(df = NULL) {
                package_id = dataset_name[i],
                url = url_5[i],
                name = file_name_5[i],
-               format = url_5_format[i]
+               format = url_5_format[i],
+               description = file_size_5[i]
+             )
+      )
+      with(df, 
+           resource_5 <<-
+             list(
+               package_id = dataset_name[i],
+               url = url_6[i],
+               name = file_name_6[i],
+               format = url_6_format[i],
+               description = file_size_6[i]
              )
       )
       
@@ -475,7 +532,8 @@ createResourcesJson <- function(df = NULL) {
         list(resource_1), 
         list(resource_2), 
         list(resource_3), 
-        list(resource_4)
+        list(resource_4),
+        list(resource_5)
       )
       
       #
