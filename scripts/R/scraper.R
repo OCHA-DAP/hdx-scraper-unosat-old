@@ -25,7 +25,7 @@ library(countrycode)
 #
 # ScraperWiki path-helper function.
 #
-onSw <- function(p = NULL, l = 'tool/', d = FALSE) {
+onSw <- function(p = NULL, l = 'tool/', d = TRUE) {
   if(d) return(paste0(l, p))
   else return(p)
 }
@@ -318,7 +318,7 @@ subsetAndClean <- function(df=NULL,
 # Wrapper.
 #
 runScraper <- function(p = NULL,
-                       backup = TRUE,
+                       backup = FALSE,
                        table = NULL,
                        c = NULL,
                        csv = FALSE,
