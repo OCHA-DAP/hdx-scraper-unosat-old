@@ -5,10 +5,10 @@ Scraper designed to extract data from [UNOSAT's website](http://www.unitar.org/u
 The scraper is dissasociated from the scripts that register datasets (and resources and gallery items) on HDX. This was intentional design as I was trying to make the latter functions useful in other contexts.
 
 ## Scraper
-In order to scrape data from UNOSAT's website, run the `run.sh` shell script. On Unix systems, do:
+In order to scrape data from UNOSAT's website, run the [`bin/run.sh`](bin/run.sh) shell script. On Unix systems, do:
 
 ```shell
-$ bash run.sh
+$ make run
 ```
 
 Or run direactly using `R`:

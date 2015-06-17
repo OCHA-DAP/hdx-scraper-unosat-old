@@ -1286,5 +1286,45 @@
 "url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_Landscape_Saada_17May2015.pdf",
 "image_url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_Landscape_Saada_17May2015.jpg",
 "dataset_id": "geodata-of-damage-assessment-of-sadah-saada-governorate-yemen-may-20-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/CO/LS20150521COL/UNOSAT_A3_Salgar_Mudflow_Landscape.pdf",
+"image_url": "http://maps.unosat.org/CO/LS20150521COL/UNOSAT_A3_Salgar_Mudflow_Landscape.jpg",
+"dataset_id": "geodata-of-áreas-afectadas-por-el-aluvión-en-el-municipio-de-salgar-departame-may-27-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_Portrait_Sanaa_City_20150603.pdf",
+"image_url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_Portrait_Sanaa_City_20150603.jpg",
+"dataset_id": "geodata-of-damage-assessment-of-sanaa-city-sanaa-governorate-yemen-june-03-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_Portrait_Sanaa_Airport_20150603.pdf",
+"image_url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_Portrait_Sanaa_Airport_20150603.jpg",
+"dataset_id": "geodata-of-damage-assessment-of-sanaa-international-airport-sanaa-governorate-june-03-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_BabAlSalameCamp_CE20130604SYR_05Jun2015opt.pdf",
+"image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_BabAlSalameCamp_CE20130604SYR_05Jun2015opt.jpg",
+"dataset_id": "geodata-of-bab-al-salame-idp-camp-azaz-district-aleppo-governorate-syria-june-12-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_OncuniparCamp_CE20130604SYR_05Jun2015opt.pdf",
+"image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_OncuniparCamp_CE20130604SYR_05Jun2015opt.jpg",
+"dataset_id": "geodata-of-oncunipar-refugee-camp-merkez-district-kilis-province-turkey-june-16-2015" 
 } ] 
 ]

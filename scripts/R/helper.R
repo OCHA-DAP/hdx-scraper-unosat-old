@@ -11,7 +11,7 @@
 #
 identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
   cat('Idenfying data files ...')
-  
+
   #
   # Creating file format dimensions.
   #
@@ -20,12 +20,12 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
   data$url_4_format <- NA
   data$url_5_format <- NA
   data$url_6_format <- NA
-  
+
   #
   # Find file extension by pattern.
   #
   findPattern <- function(df = NULL, pattern = NULL, verbose = v) {
-    
+
     #
     # Changing type to character.
     #
@@ -53,7 +53,7 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
 
     return(df)
   }
-  
+
   #
   # Iterating over the file extensions
   # to identify any potential matches.
@@ -61,7 +61,7 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
   for (i in 1:length(pattern_vector)) {
     data <- findPattern(df = data, pattern_vector[i])
   }
-  
+
   #
   # From "SHP" to "ZIPPED SHAPEFILE" to use the
   # new geo-preview feature.
@@ -71,7 +71,7 @@ identifyDataFile <- function(data = NULL, pattern_vector = NULL, v = FALSE) {
   data$url_4_format <- ifelse(data$url_4_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
   data$url_5_format <- ifelse(data$url_5_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
   data$url_6_format <- ifelse(data$url_6_format == "SHP", "ZIPPED SHAPEFILE", data$url_2_format)
-  
+
   cat('done.\n')
   return(data)
 }
@@ -88,7 +88,7 @@ createDatasetIDs <- function(vector = NULL, remove_update=TRUE, date_vector=NULL
   dataset_name <- gsub("[[:punct:]]", "", vector)  # punctuation
   dataset_name <- gsub("[^[:alnum:]]", "", dataset_name)  # non alpha-numeric
   # dataset_name <- gsub("[[:alnum:]]", "", dataset_name)  # non alpha-numeric
-  
+
   #
   # Adjust blank spaces.
   #
@@ -103,7 +103,7 @@ createDatasetIDs <- function(vector = NULL, remove_update=TRUE, date_vector=NULL
   dataset_name <- gsub("--", "-", dataset_name)
   dataset_name <- gsub("&", "", dataset_name)
   dataset_name <- gsub("'", "", dataset_name)
-  
+
   #
   # Removing "update" from title.
   #
@@ -113,31 +113,31 @@ createDatasetIDs <- function(vector = NULL, remove_update=TRUE, date_vector=NULL
     dataset_name <- gsub("update: ", "", dataset_name, ignore.case = TRUE)
     dataset_name <- gsub("update ", "", dataset_name, ignore.case = TRUE)
   }
-  
+
   #
   # Adding geodata to id.
   #
   if (add_geodata) {
     dataset_name <- paste0("geodata-of-", dataset_name)
   }
-  
+
   #
   # Patch: Trimming names to 90 characters.
   #
   dataset_name <- strtrim(dataset_name, 77)
-  
+
   #
   # Adding date to id.
   #
   if (!is.null(date_vector)) {
     dataset_name <- paste0(dataset_name, tolower(format(as.Date(date_vector), "-%B-%d-%Y")))
   }
-  
+
   #
   # Trimming double dashes
   #
   dataset_name <- gsub("--", "-", dataset_name)
-  
+
   cat('done.\n')
   return(dataset_name)
 }
@@ -156,7 +156,7 @@ createTitleName <- function(vector = NULL) {
 # Select only the latest entry for duplicates.
 #
 cleanDuplicates <- function(df = NULL) {
-  
+
   #
   # Using dplyr to "chain" the transformation
   # of a data.frame.
@@ -209,7 +209,7 @@ fixCrisisId <- function(vector = NULL) {
 addMetadata <- function(df=NULL, is_private=TRUE) {
   cat('Adding metadata ...')
 
-  #  
+  #
   # License
   #
   df$license_id = "hdx-other"
@@ -274,7 +274,7 @@ addCrisisTag <- function(vector = NULL) {
   #
   crisis_dictionary$code <- as.character(crisis_dictionary$code)
   crisis_dictionary$name <- as.character(crisis_dictionary$name)
-  
+
   #
   # Split 2 first characeters of vector
   # and merge with dictionary.
@@ -311,7 +311,7 @@ addOtherTags <- function(df=NULL, tags=NULL) {
   df$tag_2 = tags[1]
   df$tag_3 = tags[2]
   df$tag_4 = tags[3]
-  
+
   #
   # Done.
   #
@@ -339,10 +339,10 @@ findAndRemoveKey <- function(df=NULL, keys=NULL) {
   for (i in 1:length(keys)) {
     found = grep(keys[i], df$title, ignore.case=TRUE)
     if (length(found) > 0) {
-      df <- df[-found,] 
+      df <- df[-found,]
     }
   }
-  
+
   #
   # Done.
   #
@@ -356,7 +356,7 @@ findAndRemoveKey <- function(df=NULL, keys=NULL) {
 filterDatasetsByDate <- function(df=NULL, date='2014-01-01') {
   cat('Filtering dataset by date ...')
   df <- filter(df, as.Date(dataset_date) > as.Date(date))
-  
+
   cat('done.\n')
   return(df)
 }
@@ -380,16 +380,16 @@ addFileSize <- function(vector=NULL) {
       r = try(GET(vector[i]), silent=TRUE)
       n = try(round(as.numeric(r$headers$`content-length`)/100000, 1), silent=TRUE)
       s = paste(n, 'mb')
-      
+
       #
       # Check if field contains all characters.
       #
       if (nchar(s) <= 3) {
-        s = 'Unknown file size.'
+        s = NA
       }
     }
     else {
-      s = 'Unknown file size.'
+      s = NA
     }
 
     #
@@ -398,10 +398,16 @@ addFileSize <- function(vector=NULL) {
     if (i == 1) size_vector = s
     else size_vector = c(size_vector, s)
   }
+  
+  #
+  # Fixing cells with errors.
+  #
+  size_vector = ifelse(grepl('Error', size_vector), NA, size_vector)
+  
   cat('done.\n')
   return(size_vector)
 }
-  
+
 
 
 #### JSON SERIALIZATION ####
@@ -411,15 +417,15 @@ addFileSize <- function(vector=NULL) {
 # into a CKAN / HDX dataset JSON object.
 #
 createDatasetsJson <- function(df = NULL) {
-  cat('Creating CKAN JSON object ...')
-  
+  cat('Creating CKAN datasets JSON object ...')
+
   #
   # Making all variables character -- and !factors.
   #
   df <- data.frame(lapply(df, as.character), stringsAsFactors=FALSE)
 
   for (i in 1:nrow(df)) {
-    with(df, 
+    with(df,
          it <<- list(
             name = dataset_name[i],
             title = title[i],
@@ -471,13 +477,13 @@ createDatasetsJson <- function(df = NULL) {
 # Serializing resources.
 #
 createResourcesJson <- function(df = NULL) {
-  cat('Creating CKAN JSON object ...')
-  
+  cat('Creating CKAN resources JSON object ...')
+
   # Making all variables character -- and !factors.
   df <- data.frame(lapply(df, as.character), stringsAsFactors=FALSE)
-  
+
   for (i in 1:nrow(df)) {
-      with(df, 
+      with(df,
            resource_1 <<-
              list(
                package_id = dataset_name[i],
@@ -487,7 +493,7 @@ createResourcesJson <- function(df = NULL) {
                description = file_size_2[i]
              )
       )
-      with(df, 
+      with(df,
            resource_2 <<-
              list(
                package_id = dataset_name[i],
@@ -497,7 +503,7 @@ createResourcesJson <- function(df = NULL) {
                description = file_size_3[i]
              )
       )
-      with(df, 
+      with(df,
            resource_3 <<-
              list(
                package_id = dataset_name[i],
@@ -507,35 +513,13 @@ createResourcesJson <- function(df = NULL) {
                description = file_size_4[i]
              )
       )
-      with(df, 
-           resource_4 <<-
-             list(
-               package_id = dataset_name[i],
-               url = url_5[i],
-               name = file_name_5[i],
-               format = url_5_format[i],
-               description = file_size_5[i]
-             )
-      )
-      with(df, 
-           resource_5 <<-
-             list(
-               package_id = dataset_name[i],
-               url = url_6[i],
-               name = file_name_6[i],
-               format = url_6_format[i],
-               description = file_size_6[i]
-             )
-      )
-      
+
       it <- c(
-        list(resource_1), 
-        list(resource_2), 
-        list(resource_3), 
-        list(resource_4),
-        list(resource_5)
+        list(resource_1),
+        list(resource_2),
+        list(resource_3)
       )
-      
+
       #
       # Filter resources without URL
       #
@@ -543,7 +527,7 @@ createResourcesJson <- function(df = NULL) {
       if (i == 1) out <- it
       else out <- c(out, it)
     }
-  
+
   # names(out) <- rep("dataset", length(out))
   cat('done.\n')
   return(out)
@@ -554,13 +538,13 @@ createResourcesJson <- function(df = NULL) {
 # Serializing gallery items.
 #
 createGalleryJson <- function(df = NULL) {
-  cat('Creating CKAN JSON object ...')
-  
+  cat('Creating CKAN gallery JSON object ...')
+
   # Making all variables character -- and !factors.
   df <- data.frame(lapply(df, as.character), stringsAsFactors=FALSE)
-  
+
   for (i in 1:nrow(df)) {
-    with(df, 
+    with(df,
          it <<- list(
              title = "Static PDF Map",
              type = "paper",

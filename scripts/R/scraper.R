@@ -1,13 +1,13 @@
 #
 # Scraper for UNOSAT public datasets.
-# 
+#
 # This script will visit UNOSAT's public
 # website and collect the metadata available.
 # It will later organize that metadata in
 # a HDX-friendly metadata format, storing
 # the output in a series of JSON files.
 #
-# There is a conceptual problem with 'Horn of Africa': 
+# There is a conceptual problem with 'Horn of Africa':
 # at the moment 'Horn of Africa' is being turned into
 # Somalia (SOM).
 #
@@ -30,9 +30,14 @@ onSw <- function(p = NULL, l = 'tool/', d = TRUE) {
   else return(p)
 }
 
+#
+# Configuring S4 classes to store data in db.
+# Based on: https://github.com/hadley/dplyr/issues/969
+#
+setOldClass(c("tbl_df", "data.frame"))
 
 #
-# Configuration variables. 
+# Configuration variables.
 #
 JSON_PATH = onSw("http/data.json")
 CSV_PATH = onSw("http/data.csv")
@@ -70,7 +75,7 @@ grabPageLinks <- function() {
   total = nrow(country_list)
   pb <- txtProgressBar(min = 0, max = total, char = ".", style = 3)
   for (i in 1:total) {
-    
+
     #
     # Download HTML document using wget.
     #
@@ -135,7 +140,7 @@ fetchContent <- function(list_of_pages = NULL, verbose = F) {
   pb <- txtProgressBar(min = 0, max = total,  char = ".", style = 3)
   for (i in 1:total) {
     setTxtProgressBar(pb, i)
-    
+
     #
     # This method effectively downloads the HTML page
     # from WFP locally and then proceeds to processing the page.
@@ -164,7 +169,7 @@ fetchContent <- function(list_of_pages = NULL, verbose = F) {
       page_url = url,
       title = ifelse(is.na(xpathSApply(doc, '//*[@id="title-container"]/h1', xmlValue)), NA, xpathSApply(doc, '//*[@id="title-container"]/h1', xmlValue)),
       img_url = ifelse(
-          length(xpathSApply(doc, '//*[@id="node-44"]/div/div/div/div/table/tr[1]/td[2]/img', xmlGetAttr, 'src')) == 0, 
+          length(xpathSApply(doc, '//*[@id="node-44"]/div/div/div/div/table/tr[1]/td[2]/img', xmlGetAttr, 'src')) == 0,
           NA,
           xpathSApply(doc, '//*[@id="node-44"]/div/div/div/div/table/tr[1]/td[2]/img', xmlGetAttr, 'src')
         ),
@@ -177,7 +182,7 @@ fetchContent <- function(list_of_pages = NULL, verbose = F) {
       n_product_links = as.numeric(length(xpathSApply(doc, '//*[@id="node-44"]/div/div/div/div/table//a', xmlGetAttr, 'href'))),
       notes = ifelse(
         is.na(
-          xpathSApply(doc, paste0('//*[@id=\"node-44\"]/div/div/div/div/table/tr[', d_row, ']'), xmlValue)), 
+          xpathSApply(doc, paste0('//*[@id=\"node-44\"]/div/div/div/div/table/tr[', d_row, ']'), xmlValue)),
           NA,
           xpathSApply(doc, paste0('//*[@id=\"node-44\"]/div/div/div/div/table/tr[', d_row, ']'), xmlValue)
         )
@@ -222,12 +227,12 @@ subsetAndClean <- function(df=NULL,
   # attached files contains data it will be
   # considered a dataset.
   #
-  df <- df[!is.na(df$url_2_format) | 
+  df <- df[!is.na(df$url_2_format) |
            !is.na(df$url_3_format) |
            !is.na(df$url_4_format) |
            !is.na(df$url_5_format) |
            !is.na(df$url_6_format) ,]
-  
+
   if (verbose) print(paste("There are: ", nrow(df), "rows in the dataset this after selecting data only."))
 
   #
@@ -239,7 +244,7 @@ subsetAndClean <- function(df=NULL,
   # Fixing all the glide numbers
   #
   if (fix_crisis_id) df$crisis_id <- fixCrisisId(df$crisis_id)
-  
+
   #
   # Adding missing HDX metadata fields.
   #
@@ -252,7 +257,7 @@ subsetAndClean <- function(df=NULL,
     df$tag <- addCrisisTag(df$crisis_id)
     df <- addOtherTags(df, tags=c("geodata", "shapefile", "geodatabase"))
   }
-  
+
   #
   # Creating file names.
   #
@@ -262,35 +267,35 @@ subsetAndClean <- function(df=NULL,
   df$file_name_4 <- extractFileNames(df$url_4)
   df$file_name_5 <- extractFileNames(df$url_5)
   df$file_name_6 <- extractFileNames(df$url_6)
-  
+
   #
   # Improving title.
   #
   if (improve_title) {
     df$title <- createTitleName(df$title)
   }
-  
+
   #
   # Chosing the latest duplicate file (based on date).
   #
   if (clean_duplicates) {
     df <- cleanDuplicates(df)
   }
-  
+
   #
   # Remove datasets by key.
   #
   if (remove_keys) {
     df <- findAndRemoveKey(df=df, keys=c('poster'))
   }
-  
+
   #
   # Filter by date.
   #
   if (filter_by_date) {
     df <- filterDatasetsByDate(df=df, date="2014-01-01")
   }
-  
+
   #
   # Adding file size.
   #
@@ -298,10 +303,8 @@ subsetAndClean <- function(df=NULL,
     df$file_size_2 <- addFileSize(df$url_2)
     df$file_size_3 <- addFileSize(df$url_3)
     df$file_size_4 <- addFileSize(df$url_4)
-    df$file_size_5 <- addFileSize(df$url_5)
-    df$file_size_6 <- addFileSize(df$url_6)
   }
-  
+
   #
   # Arrange dates.
   #
@@ -325,7 +328,7 @@ runScraper <- function(p = NULL,
                        json = TRUE,
                        db = TRUE
                        ) {
-  
+
   #
   # Download the page lists
   # and store in database.
@@ -337,7 +340,7 @@ runScraper <- function(p = NULL,
     page_list <- grabPageLinks()
     writeTable(page_list, 'page_list', overwrite=TRUE)
   }
-  
+
   #
   # Collect detailed metadata.
   #
@@ -348,36 +351,36 @@ runScraper <- function(p = NULL,
     system.time(page_content <- fetchContent(page_list))
     writeTable(page_content, 'page_content', overwrite=TRUE)
   }
-  
+
   #
   # Process data.
   #
   subset_of_interest <- subsetAndClean(page_content)
-  
+
   #
   # Write CSV.
   #
   if (csv) write.csv(subset_of_interest, c, row.names = F)
-  
+
   #
   # Write results in database.
   #
   if (db) {
-    writeTable(subset_of_interest, table)
+    writeTable(subset_of_interest, table, overwrite=TRUE)
   }
 
   #
   # Create JSON files.
   #
   if (json) {
-    
+
     #
     # Creating JSON in memory.
     #
     datasets_json <- createDatasetsJson(subset_of_interest)
     resources_json <- createResourcesJson(subset_of_interest)
     gallery_json <- createGalleryJson(subset_of_interest)
-    
+
     #
     # Writing JSON files to disk.
     #

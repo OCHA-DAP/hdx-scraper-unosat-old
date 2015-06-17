@@ -4,3865 +4,3487 @@
  "package_id": "geodata-of-6-reduction-of-somali-idp-shelter-concentrations-in-mogadishu-som-january-02-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Mogadishu_20131124.zip",
 "name": "Mogadishu_20131124.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-6-reduction-of-somali-idp-shelter-concentrations-in-mogadishu-som-january-02-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-6-reduction-of-somali-idp-shelter-concentrations-in-mogadishu-som-january-02-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-6-reduction-of-somali-idp-shelter-concentrations-in-mogadishu-som-january-02-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-09-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-09-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-09-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-09-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-09-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-09-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-09-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-09-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-domiz-refugee-camp-duhok-governorate-iraq-january-10-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225_SHP.zip",
 "name": "Domiz_20131225_SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-domiz-refugee-camp-duhok-governorate-iraq-january-10-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Domiz_20131225.gdb.zip",
 "name": "Domiz_20131225.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-domiz-refugee-camp-duhok-governorate-iraq-january-10-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-domiz-refugee-camp-duhok-governorate-iraq-january-10-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-gendrasa-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD_SHP.zip",
 "name": "OT20130511SSD_SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-gendrasa-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD.gdb.zip",
 "name": "OT20130511SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-gendrasa-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-gendrasa-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-batil-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD_SHP.zip",
 "name": "OT20130511SSD_SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-batil-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD.gdb.zip",
 "name": "OT20130511SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-batil-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-batil-refugee-camp-maban-county-upper-nile-state-south-sudan-january-13-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-ajuong-thok-refugee-camp-pariang-county-unity-state-south-sudan-january-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD_SHP.zip",
 "name": "OT20130511SSD_SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-ajuong-thok-refugee-camp-pariang-county-unity-state-south-sudan-january-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD.gdb.zip",
 "name": "OT20130511SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-ajuong-thok-refugee-camp-pariang-county-unity-state-south-sudan-january-13-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-ajuong-thok-refugee-camp-pariang-county-unity-state-south-sudan-january-13-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-doro-refugee-camp-maban-county-upper-nile-state-south-sudan-january-15-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD_SHP.zip",
 "name": "OT20130511SSD_SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-doro-refugee-camp-maban-county-upper-nile-state-south-sudan-january-15-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/OT20130511SSD/OT20130511SSD.gdb.zip",
 "name": "OT20130511SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-doro-refugee-camp-maban-county-upper-nile-state-south-sudan-january-15-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-doro-refugee-camp-maban-county-upper-nile-state-south-sudan-january-15-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-15-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-15-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-15-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-camp-in-unmiss-rubkona-base-rubkona-south-sudan-january-15-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-rubkona-unity-state-south-sudan-january-16-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-rubkona-unity-state-south-sudan-january-16-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-rubkona-unity-state-south-sudan-january-16-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-destruction-in-rubkona-unity-state-south-sudan-january-16-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-2-al-azraq-refugee-camp-az-zarqa-governorate-jordan-january-17-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_shp.zip",
 "name": "Azraq_20131228_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-2-al-azraq-refugee-camp-az-zarqa-governorate-jordan-january-17-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20131228_gdb.zip",
 "name": "Azraq_20131228_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-2-al-azraq-refugee-camp-az-zarqa-governorate-jordan-january-17-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-2-al-azraq-refugee-camp-az-zarqa-governorate-jordan-january-17-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-the-city-of-bentiu-unity-state-south-sudan-january-18-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-the-city-of-bentiu-unity-state-south-sudan-january-18-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-the-city-of-bentiu-unity-state-south-sudan-january-18-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-the-city-of-bentiu-unity-state-south-sudan-january-18-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-malakal-base-malakal-south-sudan-january-20-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-malakal-base-malakal-south-sudan-january-20-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-unmiss-malakal-base-malakal-south-sudan-january-20-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-camp-in-unmiss-malakal-base-malakal-south-sudan-january-20-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-20-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-20-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-20-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-20-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-bor-jonglei-state-south-sudan-january-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-bor-jonglei-state-south-sudan-january-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-bor-jonglei-state-south-sudan-january-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assesment-in-the-city-of-bor-jonglei-state-south-sudan-january-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-mayom-unity-state-south-sudan-january-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-mayom-unity-state-south-sudan-january-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-mayom-unity-state-south-sudan-january-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-destruction-in-mayom-unity-state-south-sudan-january-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-january-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-january-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-january-24-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-january-24-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-m-poko-airport-bangui-central-african-republic-january-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-m-poko-airport-bangui-central-african-republic-january-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-m-poko-airport-bangui-central-african-republic-january-24-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlement-m-poko-airport-bangui-central-african-republic-january-24-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-31-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-31-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-31-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-camp-expansion-in-unmiss-base-juba-airport-south-sudan-january-31-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-february-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107_shp.zip",
 "name": "Al_Zaatari_20140107_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-february-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140107.gdb.zip",
 "name": "Al_Zaatari_20140107.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-february-03-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-february-03-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-leer-unity-state-south-sudan-february-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-leer-unity-state-south-sudan-february-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-leer-unity-state-south-sudan-february-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-destruction-in-leer-unity-state-south-sudan-february-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-11-2014",
 "url": "https://unosatgis.cern.ch/arcgis/rest/services/FL/FP01_FL_20140207_ZWE_Flood_20140211_TerraSARX/MapServer/kml/mapImage.kmz",
 "name": "mapImage.kmz",
-"format": "KMZ" 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip",
 "name": "FL20140207ZWE_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip",
 "name": "FL20140207ZWE.gdb.zip",
-"format": "KMZ" 
-},
-{
- "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-11-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-submerged-homesteads-at-tokwe-mukorsi-dam-masvingo-province-zimbab-february-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/TokweMukorsiDam.kmz",
 "name": "TokweMukorsiDam.kmz",
-"format": "KMZ" 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-submerged-homesteads-at-tokwe-mukorsi-dam-masvingo-province-zimbab-february-13-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-submerged-homesteads-at-tokwe-mukorsi-dam-masvingo-province-zimbab-february-13-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-submerged-homesteads-at-tokwe-mukorsi-dam-masvingo-province-zimbab-february-13-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-19-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/TokweMukorsiDam.kmz",
 "name": "TokweMukorsiDam.kmz",
-"format": "KMZ" 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-19-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE_shp.zip",
 "name": "FL20140207ZWE_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-19-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/ZW/FL20140207ZWE/FL20140207ZWE.gdb.zip",
 "name": "FL20140207ZWE.gdb.zip",
-"format": "KMZ" 
-},
-{
- "package_id": "geodata-of-flood-water-over-tokwe-mukorsi-dam-masvingo-province-zimbabwe-february-19-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-structures-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-structures-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-structures-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-structures-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlements-in-wau-shilluk-upper-nile-state-south-sudan-february-24-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-march-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-march-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-march-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-march-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-12-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip",
 "name": "FL20140213BOL.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-12-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip",
 "name": "FL20140213BOL.gdb.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-12-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-12-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-riberalta-departamento-de-beni-bolivia-march-12-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.zip",
 "name": "FL20140213BOL.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-riberalta-departamento-de-beni-bolivia-march-12-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL.gdb.zip",
 "name": "FL20140213BOL.gdb.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-riberalta-departamento-de-beni-bolivia-march-12-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-inundaciones-en-riberalta-departamento-de-beni-bolivia-march-12-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bouar-nana-membere-province-central-african-re-march-14-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bouar-nana-membere-province-central-african-re-march-14-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bouar-nana-membere-province-central-african-re-march-14-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assesment-in-bouar-nana-membere-province-central-african-re-march-14-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-bossangoa-area-ouham-central-african-republic-march-14-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-bossangoa-area-ouham-central-african-republic-march-14-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-destruction-in-bossangoa-area-ouham-central-african-republic-march-14-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-destruction-in-bossangoa-area-ouham-central-african-republic-march-14-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-21-august-2013-and-0-march-18-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip",
 "name": "CE20130710SOM_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-21-august-2013-and-0-march-18-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip",
 "name": "CE20130710SOM.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-21-august-2013-and-0-march-18-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-21-august-2013-and-0-march-18-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-kismayo-somalia-between-11-august-2013-05-m-march-18-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip",
 "name": "CE20130710SOM_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-kismayo-somalia-between-11-august-2013-05-m-march-18-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip",
 "name": "CE20130710SOM.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-kismayo-somalia-between-11-august-2013-05-m-march-18-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelter-changes-in-kismayo-somalia-between-11-august-2013-05-m-march-18-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Shape_Trinidad.zip",
 "name": "FL20140213BOL_Shape_Trinidad.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/BO/FL20140213BOL/FL20140213BOL_Trinidad.gdb.zip",
 "name": "FL20140213BOL_Trinidad.gdb.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-inundaciones-en-trinidad-departamento-de-beni-bolivia-march-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-march-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-march-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-march-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assesment-in-the-city-of-malakal-upper-nile-state-south-sud-march-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-detected-in-galkayo-somalia-april-09-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Galkayo_20140407.gdb.zip",
 "name": "Galkayo_20140407.gdb.zip",
-"format": "GDB" 
+"format": "GDB",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-detected-in-galkayo-somalia-april-09-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-detected-in-galkayo-somalia-april-09-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelters-detected-in-galkayo-somalia-april-09-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-along-matanikau-river-honiara-guadalcanal-solomo-april-15-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SB/FL20140405SLB/UNOSAT_Honiara_Damage_20140413.KMZ",
 "name": "UNOSAT_Honiara_Damage_20140413.KMZ",
-"format": "KMZ" 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-along-matanikau-river-honiara-guadalcanal-solomo-april-15-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-along-matanikau-river-honiara-guadalcanal-solomo-april-15-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-along-matanikau-river-honiara-guadalcanal-solomo-april-15-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-april-30-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/Kismayo_shp.zip",
 "name": "Kismayo_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-april-30-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Kismayo.gdb.zip",
 "name": "CE20130710SOM_Kismayo.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-april-30-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-april-30-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-01-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-01-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-01-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-01-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-01-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406_shp.zip",
 "name": "Al_Zaatari_20140406_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-01-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140406.gdb.zip",
 "name": "Al_Zaatari_20140406.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-01-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-01-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-and-inundation-near-khwaja-du-koh-jawzjan-province-af-may-01-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-and-inundation-near-khwaja-du-koh-jawzjan-province-af-may-01-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-and-inundation-near-khwaja-du-koh-jawzjan-province-af-may-01-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-and-inundation-near-khwaja-du-koh-jawzjan-province-af-may-01-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-may-02-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20140426_shp.zip",
 "name": "Azraq_20140426_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-may-02-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20130616.gdb.zip",
 "name": "Azraq_20130616.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-may-02-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-may-02-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-02-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-02-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-02-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-02-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-04-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-04-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-04-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-04-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-estimated-rainfall-accumulation-from-30-april-to-06-may-2014-afgha-may-06-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-estimated-rainfall-accumulation-from-30-april-to-06-may-2014-afgha-may-06-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-estimated-rainfall-accumulation-from-30-april-to-06-may-2014-afgha-may-06-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-estimated-rainfall-accumulation-from-30-april-to-06-may-2014-afgha-may-06-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-khwaja-du-koh-jawzjan-province-afghanistan-may-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-07-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-inundation-near-sar-e-pol-sar-e-pol-province-afghanistan-may-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-08-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-landslide-in-ab-barek-badakshan-province-afghanistan-may-08-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-kulukh-tapah-kunduz-province-afghanistan-may-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG_shp.zip",
 "name": "FL20140430AFG_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-kulukh-tapah-kunduz-province-afghanistan-may-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/AF/FL20140430AFG/FL20140430AFG.gdb.zip",
 "name": "FL20140430AFG.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-kulukh-tapah-kunduz-province-afghanistan-may-13-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-kulukh-tapah-kunduz-province-afghanistan-may-13-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-detected-north-of-galkayo-somalia-may-27-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_shp.zip",
 "name": "CE20130710SOM_Galkayo_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-detected-north-of-galkayo-somalia-may-27-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_Galkayo_gdb.zip",
 "name": "CE20130710SOM_Galkayo_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-detected-north-of-galkayo-somalia-may-27-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelters-detected-north-of-galkayo-somalia-may-27-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-03-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-03-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-leitchour-refugee-camp-gambella-region-ethiopia-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Leitchour_Shelters_5may2014.zip",
 "name": "IDP_Leitchour_Shelters_5may2014.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-leitchour-refugee-camp-gambella-region-ethiopia-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD__Leitchour_5May2014.gdb.zip",
 "name": "CE20131218SSD__Leitchour_5May2014.gdb.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-leitchour-refugee-camp-gambella-region-ethiopia-june-03-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-leitchour-refugee-camp-gambella-region-ethiopia-june-03-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-kamatsi-province-orientale-democratic-republic-o-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip",
 "name": "CE20131107COD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-kamatsi-province-orientale-democratic-republic-o-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip",
 "name": "CE20131107COD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-kamatsi-province-orientale-democratic-republic-o-june-03-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlement-in-kamatsi-province-orientale-democratic-republic-o-june-03-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-west-geti-province-orientale-democratic-republic-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip",
 "name": "CE20131107COD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-west-geti-province-orientale-democratic-republic-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip",
 "name": "CE20131107COD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-west-geti-province-orientale-democratic-republic-june-03-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlement-in-west-geti-province-orientale-democratic-republic-june-03-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-boga-province-orientale-democratic-republic-of-c-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD_shp.zip",
 "name": "CE20131107COD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-boga-province-orientale-democratic-republic-of-c-june-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CD/CE20131107COD/CE20131107COD.gdb.zip",
 "name": "CE20131107COD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-in-boga-province-orientale-democratic-republic-of-c-june-03-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlement-in-boga-province-orientale-democratic-republic-of-c-june-03-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Minkaman_Shelters_10May2014.zip",
 "name": "IDP_Minkaman_Shelters_10May2014.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Minkaman_10May2014_.gdb.zip",
 "name": "CE20131218SSD_Minkaman_10May2014_.gdb.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-wunthou-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/IDP_Wunthou_Shelters_10May2014.zip",
 "name": "IDP_Wunthou_Shelters_10May2014.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-wunthou-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Wunthou_10May2014.gdb.zip",
 "name": "CE20131218SSD_Wunthou_10May2014.gdb.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-wunthou-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-wunthou-idp-site-awerial-county-lakes-state-south-sudan-june-13-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-19-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-19-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-19-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-sido-refugee-camp-moyen-chari-region-republic-of-chad-june-19-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-paoua-ouhampende-central-african-republic-june-23-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-paoua-ouhampende-central-african-republic-june-23-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-paoua-ouhampende-central-african-republic-june-23-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-paoua-ouhampende-central-african-republic-june-23-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-mpoko-airport-bangui-central-african-republic-june-26-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-mpoko-airport-bangui-central-african-republic-june-26-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlement-mpoko-airport-bangui-central-african-republic-june-26-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlement-mpoko-airport-bangui-central-african-republic-june-26-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-luuq-gedo-province-somalia-june-30-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_shp.zip",
 "name": "CE20130710SOM_GalkayoKismayoLuuq_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-luuq-gedo-province-somalia-june-30-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_gdb.gdb.zip",
 "name": "CE20130710SOM_GalkayoKismayoLuuq_gdb.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-luuq-gedo-province-somalia-june-30-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlements-and-shelters-in-luuq-gedo-province-somalia-june-30-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-july-02-2014",
 "url": "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-july-02-2014",
 "url": "http://cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-july-02-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assesment-in-bangui-central-african-republic-july-02-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-july-03-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_shp.zip",
 "name": "CE20130710SOM_GalkayoKismayoLuuq_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-july-03-2014",
 "url": "ttp://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_GalkayoKismayoLuuq_gdb.gdb.zip",
 "name": "CE20130710SOM_GalkayoKismayoLuuq_gdb.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-july-03-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-settlements-and-shelters-in-kismayo-lower-juba-somalia-july-03-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-marcounda-sub-prefecture-central-african-repu-july-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF_shp.zip",
 "name": "CE20131212CAF_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-marcounda-sub-prefecture-central-african-repu-july-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/CF/CE20131212CAF/CE20131212CAF.gdb.zip",
 "name": "CE20131212CAF.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-marcounda-sub-prefecture-central-african-repu-july-08-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-marcounda-sub-prefecture-central-african-repu-july-08-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-july-15-2014",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-july-15-2014",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-july-15-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-july-15-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-shagarab-1-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip",
 "name": "RC20140709SDN.gdb.zip",
-"format": "GDB" 
+"format": "GDB",
+"description": null 
 },
 {
  "package_id": "geodata-of-shagarab-1-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-shagarab-1-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-shagarab-1-refugee-camp-al-qadarif-province-sudan-july-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-shagarab-2-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip",
 "name": "RC20140709SDN.gdb.zip",
-"format": "GDB" 
+"format": "GDB",
+"description": null 
 },
 {
  "package_id": "geodata-of-shagarab-2-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-shagarab-2-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-shagarab-2-refugee-camp-al-qadarif-province-sudan-july-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-um-gargour-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/RC20140709SDN/RC20140709SDN.gdb.zip",
 "name": "RC20140709SDN.gdb.zip",
-"format": "GDB" 
+"format": "GDB",
+"description": null 
 },
 {
  "package_id": "geodata-of-um-gargour-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-um-gargour-refugee-camp-al-qadarif-province-sudan-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-um-gargour-refugee-camp-al-qadarif-province-sudan-july-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-central-gaza-strip-occupied-palestinian-terri-july-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-central-gaza-strip-occupied-palestinian-terri-july-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-central-gaza-strip-occupied-palestinian-terri-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-central-gaza-strip-occupied-palestinian-terri-july-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-july-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.shp.zip",
 "name": "Al_Zaatari_20140706.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-july-21-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20140706.gdb.zip",
 "name": "Al_Zaatari_20140706.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-july-21-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-july-21-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-northeastern-gaza-strip-occupied-palestinian-july-27-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-northeastern-gaza-strip-occupied-palestinian-july-27-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-northeastern-gaza-strip-occupied-palestinian-july-27-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-northeastern-gaza-strip-occupied-palestinian-july-27-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-beit-hanun-gaza-strip-occupied-palestinian-te-july-28-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-beit-hanun-gaza-strip-occupied-palestinian-te-july-28-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-beit-hanun-gaza-strip-occupied-palestinian-te-july-28-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-beit-hanun-gaza-strip-occupied-palestinian-te-july-28-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-beit-lahia-gaza-strip-occupied-palestinian-te-july-30-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-beit-lahia-gaza-strip-occupied-palestinian-te-july-30-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-beit-lahia-gaza-strip-occupied-palestinian-te-july-30-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-beit-lahia-gaza-strip-occupied-palestinian-te-july-30-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-rubkan-border-crossing-idp-settlement-homs-governorate-syria-july-31-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725_SHP.zip",
 "name": "Rubkan_20140725_SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-rubkan-border-crossing-idp-settlement-homs-governorate-syria-july-31-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Rubkan_20140725.gdb.zip",
 "name": "Rubkan_20140725.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-rubkan-border-crossing-idp-settlement-homs-governorate-syria-july-31-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-rubkan-border-crossing-idp-settlement-homs-governorate-syria-july-31-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-gaza-city-gaza-strip-occupied-palestinian-ter-july-31-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-gaza-city-gaza-strip-occupied-palestinian-ter-july-31-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-gaza-city-gaza-strip-occupied-palestinian-ter-july-31-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-gaza-city-gaza-strip-occupied-palestinian-ter-july-31-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-atatra-gaza-strip-occupied-palestinian-territ-august-04-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-atatra-gaza-strip-occupied-palestinian-territ-august-04-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-atatra-gaza-strip-occupied-palestinian-territ-august-04-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-atatra-gaza-strip-occupied-palestinian-territ-august-04-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-to-agricultural-fields-gaza-strip-occupied-palestinian-terr-august-05-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-to-agricultural-fields-gaza-strip-occupied-palestinian-terr-august-05-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-to-agricultural-fields-gaza-strip-occupied-palestinian-terr-august-05-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-to-agricultural-fields-gaza-strip-occupied-palestinian-terr-august-05-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-rafah-gaza-strip-occupied-palestinian-territo-august-07-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-rafah-gaza-strip-occupied-palestinian-territo-august-07-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-rafah-gaza-strip-occupied-palestinian-territo-august-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-rafah-gaza-strip-occupied-palestinian-territo-august-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-jarara-area-gaza-strip-occupied-palestinian-t-august-07-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-jarara-area-gaza-strip-occupied-palestinian-t-august-07-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-jarara-area-gaza-strip-occupied-palestinian-t-august-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-jarara-area-gaza-strip-occupied-palestinian-t-august-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-khuzaa-and-al-qararra-gaza-strip-occupied-pal-august-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.SHP.zip",
 "name": "CE20140715PSE.SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-khuzaa-and-al-qararra-gaza-strip-occupied-pal-august-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-in-khuzaa-and-al-qararra-gaza-strip-occupied-pal-august-08-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-in-khuzaa-and-al-qararra-gaza-strip-occupied-pal-august-08-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip",
 "name": "FL20140803SDN.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip",
 "name": "FL20140803SDN.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-08-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-08-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip",
 "name": "FL20140803SDN.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip",
 "name": "FL20140803SDN.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-11-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-11-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-east-of-khartoum-city-khartoum-state-sudan-august-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip",
 "name": "FL20140803SDN.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-east-of-khartoum-city-khartoum-state-sudan-august-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip",
 "name": "FL20140803SDN.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-east-of-khartoum-city-khartoum-state-sudan-august-11-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-east-of-khartoum-city-khartoum-state-sudan-august-11-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-19-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip",
 "name": "FL20140803SDN.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-19-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip",
 "name": "FL20140803SDN.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-19-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-19-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-20-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.shp.zip",
 "name": "FL20140803SDN.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-20-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SD/FL20140803SDN/FL20140803SDN.gdb.zip",
 "name": "FL20140803SDN.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-20-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-khartoum-state-sudan-august-20-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-wazirabad-area-punjab-province-pakista-september-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip",
 "name": "FL20140910PAK_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-wazirabad-area-punjab-province-pakista-september-11-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip",
 "name": "FL20140910PAK_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-wazirabad-area-punjab-province-pakista-september-11-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-overview-of-flood-waters-in-wazirabad-area-punjab-province-pakista-september-11-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-puran-fatehpur-area-punjab-province-pa-september-12-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip",
 "name": "FL20140910PAK_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-puran-fatehpur-area-punjab-province-pa-september-12-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip",
 "name": "FL20140910PAK_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-puran-fatehpur-area-punjab-province-pa-september-12-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-overview-of-flood-waters-in-puran-fatehpur-area-punjab-province-pa-september-12-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-multan-area-punjab-province-pakistan-september-15-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip",
 "name": "FL20140910PAK_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-multan-area-punjab-province-pakistan-september-15-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip",
 "name": "FL20140910PAK_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-overview-of-flood-waters-in-multan-area-punjab-province-pakistan-september-15-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-overview-of-flood-waters-in-multan-area-punjab-province-pakistan-september-15-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-chiniot-area-punjab-province-pakistan-september-16-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip",
 "name": "FL20140910PAK_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-chiniot-area-punjab-province-pakistan-september-16-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip",
 "name": "FL20140910PAK_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-chiniot-area-punjab-province-pakistan-september-16-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-in-chiniot-area-punjab-province-pakistan-september-16-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-standing-waters-in-tarind-muhammed-panah-area-punjab-province-paki-september-17-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_shp.zip",
 "name": "FL20140910PAK_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-standing-waters-in-tarind-muhammed-panah-area-punjab-province-paki-september-17-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PK/FL20140910PAK/FL20140910PAK_gdb.zip",
 "name": "FL20140910PAK_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-standing-waters-in-tarind-muhammed-panah-area-punjab-province-paki-september-17-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-standing-waters-in-tarind-muhammed-panah-area-punjab-province-paki-september-17-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-based-damage-assessment-of-gaza-strip-occupied-palestini-september-18-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip",
 "name": "CE20140715PSE.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-based-damage-assessment-of-gaza-strip-occupied-palestini-september-18-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-based-damage-assessment-of-gaza-strip-occupied-palestini-september-18-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-satellite-based-damage-assessment-of-gaza-strip-occupied-palestini-september-18-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-2009-2014-density-comparison-of-destroyed-and-severely-damaged-str-september-19-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip",
 "name": "CE20140715PSE.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-2009-2014-density-comparison-of-destroyed-and-severely-damaged-str-september-19-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-2009-2014-density-comparison-of-destroyed-and-severely-damaged-str-september-19-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-2009-2014-density-comparison-of-destroyed-and-severely-damaged-str-september-19-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-density-of-damage-assessment-in-gaza-strip-occupied-palestinian-te-september-19-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip",
 "name": "CE20140715PSE.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-density-of-damage-assessment-in-gaza-strip-occupied-palestinian-te-september-19-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-density-of-damage-assessment-in-gaza-strip-occupied-palestinian-te-september-19-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-density-of-damage-assessment-in-gaza-strip-occupied-palestinian-te-september-19-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-to-agricultural-areas-and-greenhouses-gaza-strip-occupied-p-september-23-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip",
 "name": "CE20140715PSE.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-to-agricultural-areas-and-greenhouses-gaza-strip-occupied-p-september-23-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-to-agricultural-areas-and-greenhouses-gaza-strip-occupied-p-september-23-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-to-agricultural-areas-and-greenhouses-gaza-strip-occupied-p-september-23-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-september-25-2014",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-september-25-2014",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-september-25-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-september-25-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-health-facilities-damage-assessment-in-gaza-strip-occupied-palesti-september-26-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip",
 "name": "CE20140715PSE.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-health-facilities-damage-assessment-in-gaza-strip-occupied-palesti-september-26-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-health-facilities-damage-assessment-in-gaza-strip-occupied-palesti-september-26-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-health-facilities-damage-assessment-in-gaza-strip-occupied-palesti-september-26-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-education-facilities-damage-assessment-in-gaza-strip-occupied-pale-september-26-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip",
 "name": "CE20140715PSE.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-education-facilities-damage-assessment-in-gaza-strip-occupied-pale-september-26-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-education-facilities-damage-assessment-in-gaza-strip-occupied-pale-september-26-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-education-facilities-damage-assessment-in-gaza-strip-occupied-pale-september-26-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-gaza-damage-assessment-2014-unosat-satellite-derived-geospatial-an-october-02-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.shp.zip",
 "name": "CE20140715PSE.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-gaza-damage-assessment-2014-unosat-satellite-derived-geospatial-an-october-02-2014",
 "url": "http://cern.ch/unosat-maps/PS/CE20140715PSE/CE20140715PSE.gdb.zip",
 "name": "CE20140715PSE.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-gaza-damage-assessment-2014-unosat-satellite-derived-geospatial-an-october-02-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-gaza-damage-assessment-2014-unosat-satellite-derived-geospatial-an-october-02-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-informal-idp-shelters-in-border-town-of-doolow-somalia-october-28-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip",
 "name": "CE20130710SOM_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-informal-idp-shelters-in-border-town-of-doolow-somalia-october-28-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip",
 "name": "CE20130710SOM.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-informal-idp-shelters-in-border-town-of-doolow-somalia-october-28-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-informal-idp-shelters-in-border-town-of-doolow-somalia-october-28-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-08-february-and-02-o-october-31-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip",
 "name": "CE20130710SOM_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-08-february-and-02-o-october-31-2014",
 "url": "http://cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip",
 "name": "CE20130710SOM.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-08-february-and-02-o-october-31-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelter-changes-in-baidoa-somalia-between-08-february-and-02-o-october-31-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-aleppo-aleppo-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-aleppo-aleppo-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-aleppo-aleppo-governorate-syria-november-06-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-aleppo-aleppo-governorate-syria-november-06-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-homs-homs-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-homs-homs-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-homs-homs-governorate-syria-november-06-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-homs-homs-governorate-syria-november-06-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-hama-hama-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-hama-hama-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-hama-hama-governorate-syria-november-06-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-hama-hama-governorate-syria-november-06-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-deir-ez-zor-deir-ez-zor-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-deir-ez-zor-deir-ez-zor-governorate-syria-november-06-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-deir-ez-zor-deir-ez-zor-governorate-syria-november-06-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-deir-ez-zor-deir-ez-zor-governorate-syria-november-06-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-ar-raqqa-ar-raqqa-governorate-syria-november-07-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-ar-raqqa-ar-raqqa-governorate-syria-november-07-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-ar-raqqa-ar-raqqa-governorate-syria-november-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-ar-raqqa-ar-raqqa-governorate-syria-november-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-idlib-idlib-governorate-syria-november-07-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-idlib-idlib-governorate-syria-november-07-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-idlib-idlib-governorate-syria-november-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-idlib-idlib-governorate-syria-november-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-daraa-daraa-governorate-syria-november-07-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-daraa-daraa-governorate-syria-november-07-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
 "name": "UNOSAT_DamageAssessment_OFDA-REACH_CE20130604SYR.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-daraa-daraa-governorate-syria-november-07-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-daraa-daraa-governorate-syria-november-07-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-density-in-daynile-and-dharkenley-district-mogadishu-november-10-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD_shp.zip",
 "name": "CE20130710SOM_DD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-density-in-daynile-and-dharkenley-district-mogadishu-november-10-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_DD.gdb.zip",
 "name": "CE20130710SOM_DD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-density-in-daynile-and-dharkenley-district-mogadishu-november-10-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelter-density-in-daynile-and-dharkenley-district-mogadishu-november-10-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-november-19-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_Shelters_20141111_shp.zip",
 "name": "Al_Zaatari_Shelters_20141111_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-november-19-2014",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20141111.gdb.zip",
 "name": "Al_Zaatari_20141111.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-november-19-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-november-19-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-november-26-2014",
 "url": "http://cern.ch/unosat-maps/CV/VO20141124CPV/LS20141125_lava_Flow_Fogo.kmz",
 "name": "LS20141125_lava_Flow_Fogo.kmz",
-"format": "KMZ" 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-november-26-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-november-26-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-november-26-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-november-28-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_SHP.zip",
 "name": "Azraq_20141111_SHP.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-november-28-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/Azraq_20141111_gdb.zip",
 "name": "Azraq_20141111_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-november-28-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-al-azraq-refugee-camp-az-zarqa-governorate-jordan-november-28-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-impact-november-28-2014",
 "url": "http://cern.ch/unosat-maps/CV/VO20141124CPV/WV20141125_lava_Flow_Fogo.kmz",
 "name": "WV20141125_lava_Flow_Fogo.kmz",
-"format": "KMZ" 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-impact-november-28-2014",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-impact-november-28-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-pico-de-fogo-volcanic-eruption-fogo-island-cape-verde-impact-november-28-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-december-02-2014",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-december-02-2014",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-december-02-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-december-02-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-san-miguel-leyte-eastern-visayas-ph-december-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-san-miguel-leyte-eastern-visayas-ph-december-08-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-san-miguel-leyte-eastern-visayas-ph-december-08-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-satellite-detected-waters-over-san-miguel-leyte-eastern-visayas-ph-december-08-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-can-avid-in-dolores-area-eastern-sa-december-09-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-can-avid-in-dolores-area-eastern-sa-december-09-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-can-avid-in-dolores-area-eastern-sa-december-09-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-satellite-detected-waters-over-can-avid-in-dolores-area-eastern-sa-december-09-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-calbayog-city-samar-island-philippines-december-11-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-calbayog-city-samar-island-philippines-december-11-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-calbayog-city-samar-island-philippines-december-11-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damaged-structures-in-calbayog-city-samar-island-philippines-december-11-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-guiuan-city-eastern-samar-philippines-december-11-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-guiuan-city-eastern-samar-philippines-december-11-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-guiuan-city-eastern-samar-philippines-december-11-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damaged-structures-in-guiuan-city-eastern-samar-philippines-december-11-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-dolores-city-east-samar-philippines-december-15-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-dolores-city-east-samar-philippines-december-15-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-dolores-city-east-samar-philippines-december-15-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damaged-structures-in-dolores-city-east-samar-philippines-december-15-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-taft-city-eastern-samar-province-philippines-december-16-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-taft-city-eastern-samar-province-philippines-december-16-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-taft-city-eastern-samar-province-philippines-december-16-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damaged-structures-in-taft-city-eastern-samar-province-philippines-december-16-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-hargeisa-somalia-between-20-august-2012-and-december-17-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM_shp.zip",
 "name": "CE20130710SOM_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-hargeisa-somalia-between-20-august-2012-and-december-17-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SO/CE20130710SOM/CE20130710SOM.gdb.zip",
 "name": "CE20130710SOM.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelter-changes-in-hargeisa-somalia-between-20-august-2012-and-december-17-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelter-changes-in-hargeisa-somalia-between-20-august-2012-and-december-17-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-san-julian-area-eastern-samar-philippines-december-17-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-san-julian-area-eastern-samar-philippines-december-17-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-san-julian-area-eastern-samar-philippines-december-17-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damaged-structures-in-san-julian-area-eastern-samar-philippines-december-17-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-borongan-eastern-samar-province-philippines-december-18-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL_shp.zip",
 "name": "TC20141204PHL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-borongan-eastern-samar-province-philippines-december-18-2014",
 "url": "http://cern.ch/unosat-maps/PH/TC20141204PHL/TC20141204PHL.gdb.zip",
 "name": "TC20141204PHL.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damaged-structures-in-borongan-eastern-samar-province-philippines-december-18-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damaged-structures-in-borongan-eastern-samar-province-philippines-december-18-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-melut-upper-nile-state-south-sudan-december-23-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut_shp.zip",
 "name": "CE20131218SSD_Melut_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-melut-upper-nile-state-south-sudan-december-23-2014",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Melut.gdb.zip",
 "name": "CE20131218SSD_Melut.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-camp-in-melut-upper-nile-state-south-sudan-december-23-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-camp-in-melut-upper-nile-state-south-sudan-december-23-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-ampara-and-batticaloa-districts-sri-lanka-december-31-2014",
 "url": "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_shp.zip",
 "name": "FL20141229LKA_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-ampara-and-batticaloa-districts-sri-lanka-december-31-2014",
 "url": "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_gdb.zip",
 "name": "FL20141229LKA_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-ampara-and-batticaloa-districts-sri-lanka-december-31-2014",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-ampara-and-batticaloa-districts-sri-lanka-december-31-2014",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-ampara-and-batticaloa-districts-sri-january-07-2015",
 "url": "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_shp.zip",
 "name": "FL20141229LKA_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-ampara-and-batticaloa-districts-sri-january-07-2015",
 "url": "http://cern.ch/unosat-maps/LK/FL20141230LKA/FL20141229LKA_gdb.zip",
 "name": "FL20141229LKA_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-satellite-detected-waters-over-ampara-and-batticaloa-districts-sri-january-07-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-satellite-detected-waters-over-ampara-and-batticaloa-districts-sri-january-07-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-12-2015",
 "url": "http://cern.ch/unosat-maps/PS/ST20150107PSE/modis_terra_20150112_snowcover_Final.zip",
 "name": "modis_terra_20150112_snowcover_Final.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-12-2015",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-12-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-12-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-13-2015",
 "url": "http://cern.ch/unosat-maps/PS/ST20150107PSE/Modis_Aqua_Terra_Snowcover_20150113.zip",
 "name": "Modis_Aqua_Terra_Snowcover_20150113.zip",
-"format": "ZIP" 
+"format": "ZIP",
+"description": null 
 },
 {
  "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-13-2015",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-13-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-snow-cover-extent-over-west-bank-israel-jordan-lebanon-and-syria-january-13-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-zambezia-province-mozambique-january-19-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip",
 "name": "FL20150112MOZ_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-zambezia-province-mozambique-january-19-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-zambezia-province-mozambique-january-19-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-zambezia-province-mozambique-january-19-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-zambezia-tete-and-sofala-provinces-mozambique-january-21-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip",
 "name": "FL20150112MOZ_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-zambezia-tete-and-sofala-provinces-mozambique-january-21-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-over-zambezia-tete-and-sofala-provinces-mozambique-january-21-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-over-zambezia-tete-and-sofala-provinces-mozambique-january-21-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-ramadi-al-anbar-province-iraq-january-22-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi_shp.zip",
 "name": "CE20140613IRQ_Ramadi_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-ramadi-al-anbar-province-iraq-january-22-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Ramadi.gdb.zip",
 "name": "CE20140613IRQ_Ramadi.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-ramadi-al-anbar-province-iraq-january-22-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-ramadi-al-anbar-province-iraq-january-22-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-fallujah-al-anbar-province-iraq-january-22-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_shp.zip",
 "name": "CE20140613IRQ_Fallujah_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-fallujah-al-anbar-province-iraq-january-22-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Fallujah_gdb.zip",
 "name": "CE20140613IRQ_Fallujah_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-fallujah-al-anbar-province-iraq-january-22-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-fallujah-al-anbar-province-iraq-january-22-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-02-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip",
 "name": "FL20150112MOZ_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-02-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-02-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-02-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-04-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip",
 "name": "FL20150112MOZ_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-04-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-04-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-04-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-jalawla-diyala-governorate-iraq-february-06-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla_shp.zip",
 "name": "CE20140613IRQ_Jalawla_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-jalawla-diyala-governorate-iraq-february-06-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Jalawla.gdb.zip",
 "name": "CE20140613IRQ_Jalawla.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-jalawla-diyala-governorate-iraq-february-06-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-jalawla-diyala-governorate-iraq-february-06-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-zumar-nineveh-governorate-iraq-february-06-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar_shp.zip",
 "name": "CE20140613IRQ_Zumar_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-zumar-nineveh-governorate-iraq-february-06-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Zumar.gdb.zip",
 "name": "CE20140613IRQ_Zumar.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-zumar-nineveh-governorate-iraq-february-06-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-zumar-nineveh-governorate-iraq-february-06-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-namacura-and-maganja-da-costa-district-zambezia-p-february-10-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip",
 "name": "FL20150112MOZ_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-namacura-and-maganja-da-costa-district-zambezia-p-february-10-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-water-over-namacura-and-maganja-da-costa-district-zambezia-p-february-10-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-water-over-namacura-and-maganja-da-costa-district-zambezia-p-february-10-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-february-11-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_shp.zip",
 "name": "Kobane_20150122_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-february-11-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_gdb.zip",
 "name": "Kobane_20150122_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-february-11-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-february-11-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ_shp.zip",
 "name": "FL20150112MOZ_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-southern-region-malawi-and-zambezia-mozambique-february-16-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.shp.zip",
 "name": "FL20150112MOZ.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-southern-region-malawi-and-zambezia-mozambique-february-16-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-southern-region-malawi-and-zambezia-mozambique-february-16-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-in-southern-region-malawi-and-zambezia-mozambique-february-16-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.shp.zip",
 "name": "FL20150112MOZ.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/MZ/FL20150112MOZ/FL20150112MOZ.gdb.zip",
 "name": "FL20150112MOZ.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-flood-waters-in-zambezia-tete-and-sofala-mozambique-and-southern-r-february-16-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-in-un-house-compound-juba-south-sudan-february-20-2015",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_shp.zip",
 "name": "CE20131218SSD_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-in-un-house-compound-juba-south-sudan-february-20-2015",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD.gdb.zip",
 "name": "CE20131218SSD.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-idp-shelters-in-un-house-compound-juba-south-sudan-february-20-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-idp-shelters-in-un-house-compound-juba-south-sudan-february-20-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-baiji-salah-ad-din-governorate-iraq-february-20-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji_Shp.zip",
 "name": "CE20140613IRQ_Baiji_Shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-baiji-salah-ad-din-governorate-iraq-february-20-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Baiji.gdb.zip",
 "name": "CE20140613IRQ_Baiji.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-baiji-salah-ad-din-governorate-iraq-february-20-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-baiji-salah-ad-din-governorate-iraq-february-20-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-tikrit-salah-ad-din-governorate-iraq-february-24-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Tikrit_shp.zip",
 "name": "CE20140613IRQ_Tikrit_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-tikrit-salah-ad-din-governorate-iraq-february-24-2015",
 "url": "http://cern.ch/unosat-maps/IQ/CE20140613IRQ/CE20140613IRQ_Tikrit_gdb.zip",
 "name": "CE20140613IRQ_Tikrit_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-tikrit-salah-ad-din-governorate-iraq-february-24-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-tikrit-salah-ad-din-governorate-iraq-february-24-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-neighborhood-damage-assessment-kobane-aleppo-governorate-syria-march-06-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_shp.zip",
 "name": "Kobane_20150122_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-neighborhood-damage-assessment-kobane-aleppo-governorate-syria-march-06-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_gdb.zip",
 "name": "Kobane_20150122_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-neighborhood-damage-assessment-kobane-aleppo-governorate-syria-march-06-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-neighborhood-damage-assessment-kobane-aleppo-governorate-syria-march-06-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-march-06-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_shp.zip",
 "name": "Kobane_20150122_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-march-06-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Kobane_20150122_gdb.zip",
 "name": "Kobane_20150122_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-march-06-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-kobane-aleppo-governorate-syria-march-06-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-march-11-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_MinkamanFEB2015_shp.zip",
 "name": "CE20131218SSD_MinkamanFEB2015_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-march-11-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_MinkamanFEB2015.gdb.zip",
 "name": "CE20131218SSD_MinkamanFEB2015.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-march-11-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-minkaman-idp-site-awerial-county-lakes-state-south-sudan-march-11-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-bentiu-idp-camp-rubkona-county-unity-state-south-sudan-march-24-2015",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Bentiu.shp.zip",
 "name": "CE20131218SSD_Bentiu.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-bentiu-idp-camp-rubkona-county-unity-state-south-sudan-march-24-2015",
 "url": "http://cern.ch/unosat-maps/SS/CE20131218SSD/CE20131218SSD_Bentiu.gdb.zip",
 "name": "CE20131218SSD_Bentiu.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-bentiu-idp-camp-rubkona-county-unity-state-south-sudan-march-24-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-bentiu-idp-camp-rubkona-county-unity-state-south-sudan-march-24-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-minawao-refugee-settlement-far-north-province-cameroon-april-02-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/NG/CE20140617NGA/CE20140617NGA_Minawao_shp.zip",
 "name": "CE20140617NGA_Minawao_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minawao-refugee-settlement-far-north-province-cameroon-april-02-2015",
 "url": "http://unosat-maps.web.cern.ch/unosat-maps/NG/CE20140617NGA/CE20140617NGA_Minawao.gdb.zip",
 "name": "CE20140617NGA_Minawao.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-minawao-refugee-settlement-far-north-province-cameroon-april-02-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-minawao-refugee-settlement-far-north-province-cameroon-april-02-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-and-displaced-persons-visible-in-satellite-imagery-kathmand-april-28-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/Kathmandu_Nepal_27April2015_IDP_Damage.kmz",
 "name": "Kathmandu_Nepal_27April2015_IDP_Damage.kmz",
-"format": "KMZ" 
+"format": "KMZ",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-and-displaced-persons-visible-in-satellite-imagery-kathmand-april-28-2015",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-and-displaced-persons-visible-in-satellite-imagery-kathmand-april-28-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-and-displaced-persons-visible-in-satellite-imagery-kathmand-april-28-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-sankhu-kathmandu-valley-nepal-april-30-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-sankhu-kathmandu-valley-nepal-april-30-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-sankhu-kathmandu-valley-nepal-april-30-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-sankhu-kathmandu-valley-nepal-april-30-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-banepa-kathmandu-valley-nepal-april-30-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-banepa-kathmandu-valley-nepal-april-30-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-banepa-kathmandu-valley-nepal-april-30-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-banepa-kathmandu-valley-nepal-april-30-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-bhaktapur-kathmandu-valley-nepal-april-30-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-bhaktapur-kathmandu-valley-nepal-april-30-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-bhaktapur-kathmandu-valley-nepal-april-30-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-bhaktapur-kathmandu-valley-nepal-april-30-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-daraudi-valley-western-region-nepal-may-05-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-daraudi-valley-western-region-nepal-may-05-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-daraudi-valley-western-region-nepal-may-05-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-daraudi-valley-western-region-nepal-may-05-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-hansapur-area-western-region-nepal-may-05-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-hansapur-area-western-region-nepal-may-05-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-hansapur-area-western-region-nepal-may-05-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-hansapur-area-western-region-nepal-may-05-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-muchok-area-western-region-nepal-may-05-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-muchok-area-western-region-nepal-may-05-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-muchok-area-western-region-nepal-may-05-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-muchok-area-western-region-nepal-may-05-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-manbu-area-western-region-nepal-may-07-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-manbu-area-western-region-nepal-may-07-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-manbu-area-western-region-nepal-may-07-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-manbu-area-western-region-nepal-may-07-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-west-sundar-bazar-area-western-region-nepal-may-08-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-west-sundar-bazar-area-western-region-nepal-may-08-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-west-sundar-bazar-area-western-region-nepal-may-08-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-west-sundar-bazar-area-western-region-nepal-may-08-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-tuhure-pasal-area-western-region-nepal-may-08-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_shp.zip",
 "name": "EQ20150425NPL_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-tuhure-pasal-area-western-region-nepal-may-08-2015",
 "url": "https://unosatgis.cern.ch/live/EQ20150425NPL/",
 "name": "EQ20150425NPL",
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-tuhure-pasal-area-western-region-nepal-may-08-2015",
 "url": "http://cern.ch/unosat-maps/NP/EQ20150425NPL/EQ20150425NPL_gdb.zip",
 "name": "EQ20150425NPL_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-tuhure-pasal-area-western-region-nepal-may-08-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-12-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20150426.shp.zip",
 "name": "Al_Zaatari_20150426.shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-12-2015",
 "url": "http://cern.ch/unosat-maps/SY/CE20130604SYR/Al_Zaatari_20150426.gdb.zip",
 "name": "Al_Zaatari_20150426.gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-12-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-al-zaatari-refugee-camp-mafraq-governorate-jordan-may-12-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-aden-aden-governorate-yemen-may-19-2015",
 "url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_shp.zip",
 "name": "CE20150402YEM_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-aden-aden-governorate-yemen-may-19-2015",
 "url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_gdb.zip",
 "name": "CE20150402YEM_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-aden-aden-governorate-yemen-may-19-2015",
 "url": null,
 "name": null,
-"format": null 
-},
-{
- "package_id": "geodata-of-damage-assessment-of-aden-aden-governorate-yemen-may-19-2015",
-"url": null,
-"name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-sadah-saada-governorate-yemen-may-20-2015",
 "url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_shp.zip",
 "name": "CE20150402YEM_shp.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-sadah-saada-governorate-yemen-may-20-2015",
 "url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_gdb.zip",
 "name": "CE20150402YEM_gdb.zip",
-"format": "ZIPPED SHAPEFILE" 
+"format": "ZIPPED SHAPEFILE",
+"description": null 
 },
 {
  "package_id": "geodata-of-damage-assessment-of-sadah-saada-governorate-yemen-may-20-2015",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
 },
 {
- "package_id": "geodata-of-damage-assessment-of-sadah-saada-governorate-yemen-may-20-2015",
+ "package_id": "geodata-of-áreas-afectadas-por-el-aluvión-en-el-municipio-de-salgar-departame-may-27-2015",
+"url": "http://cern.ch/unosat-maps/CO\\LS20150521COL/LS20150521COL_shp.zip",
+"name": "LS20150521COL_shp.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-áreas-afectadas-por-el-aluvión-en-el-municipio-de-salgar-departame-may-27-2015",
+"url": "http://cern.ch/unosat-maps/CO\\LS20150521COL/LS20150521COL.gdb.zip",
+"name": "LS20150521COL.gdb.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-áreas-afectadas-por-el-aluvión-en-el-municipio-de-salgar-departame-may-27-2015",
 "url": null,
 "name": null,
-"format": null 
+"format": null,
+"description": null 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-sanaa-city-sanaa-governorate-yemen-june-03-2015",
+"url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_shp.zip",
+"name": "CE20150402YEM_shp.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-sanaa-city-sanaa-governorate-yemen-june-03-2015",
+"url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_gdb.zip",
+"name": "CE20150402YEM_gdb.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-sanaa-city-sanaa-governorate-yemen-june-03-2015",
+"url": null,
+"name": null,
+"format": null,
+"description": null 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-sanaa-international-airport-sanaa-governorate-june-03-2015",
+"url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_shp.zip",
+"name": "CE20150402YEM_shp.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-sanaa-international-airport-sanaa-governorate-june-03-2015",
+"url": "http://cern.ch/unosat-maps/YE/CE20150402YEM/CE20150402YEM_gdb.zip",
+"name": "CE20150402YEM_gdb.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-damage-assessment-of-sanaa-international-airport-sanaa-governorate-june-03-2015",
+"url": null,
+"name": null,
+"format": null,
+"description": null 
+},
+{
+ "package_id": "geodata-of-bab-al-salame-idp-camp-azaz-district-aleppo-governorate-syria-june-12-2015",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/CE20130604SYR_BabAlSalame_shp.zip",
+"name": "CE20130604SYR_BabAlSalame_shp.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-bab-al-salame-idp-camp-azaz-district-aleppo-governorate-syria-june-12-2015",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/CE20130604SYR_BabAlSalame.gdb.zip",
+"name": "CE20130604SYR_BabAlSalame.gdb.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-bab-al-salame-idp-camp-azaz-district-aleppo-governorate-syria-june-12-2015",
+"url": null,
+"name": null,
+"format": null,
+"description": null 
+},
+{
+ "package_id": "geodata-of-oncunipar-refugee-camp-merkez-district-kilis-province-turkey-june-16-2015",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/CE20130604SYR_Oncunipar_shp.zip",
+"name": "CE20130604SYR_Oncunipar_shp.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-oncunipar-refugee-camp-merkez-district-kilis-province-turkey-june-16-2015",
+"url": "http://unosat-maps.web.cern.ch/unosat-maps/SY/CE20130604SYR/CE20130604SYR_Oncunipar.gdb.zip",
+"name": "CE20130604SYR_Oncunipar.gdb.zip",
+"format": "ZIPPED SHAPEFILE",
+"description": null 
+},
+{
+ "package_id": "geodata-of-oncunipar-refugee-camp-merkez-district-kilis-province-turkey-june-16-2015",
+"url": null,
+"name": null,
+"format": null,
+"description": null 
 } 
 ] 
 ]

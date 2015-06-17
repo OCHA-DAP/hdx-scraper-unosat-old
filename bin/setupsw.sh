@@ -18,4 +18,5 @@ rm R-3.1.1.tar.gz
 #
 cd ~
 virtualenv venv
+source venv/bin/activate
 pip install -r requirements.txt
