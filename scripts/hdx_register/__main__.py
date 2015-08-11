@@ -73,17 +73,12 @@ def Main():
 
 
 if __name__ == '__main__':
-  Main()
-  print '%s UNOSAT Product scraper finished successfully.\n' % I('prompt_success')
 
+  if Main() != False:
+    print '%s UNOSAT Product scraper finished successfully.\n' % I('prompt_success')
+    scraperwiki.status('ok')
 
-
-# if __name__ == '__main__':
-
-#   if Main() != False:
-#     scraperwiki.status('ok')
-
-#   else:
-#     scraperwiki.status('error', 'Failed to register resources.')
-#     os("mail -s 'UNOSAT Product scraper failed' luiscape@gmail.com")
+  else:
+    scraperwiki.status('error', 'Failed to register resources.')
+    os.system("mail -s 'UNOSAT Product scraper failed' luiscape@gmail.com")
 
