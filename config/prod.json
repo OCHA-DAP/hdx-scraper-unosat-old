@@ -1,6 +1,6 @@
 {
   "hdx_site": "https://data.hdx.rwlabs.org/",
-  "hdx_key": "XXX",
+  "hdx_key": "xxxxxxxxxx-xxxxxxxxxx-xxxxxxxxxx-xxx",
   "json_folder": "tool/data",
   "verbose": false,
   "delete_resources": false,

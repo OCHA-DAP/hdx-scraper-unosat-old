@@ -23,7 +23,7 @@ def Main():
   #
   # Setting up configuration: dev = development; prod = production.
   #
-  p = config.FetchConfig('dev')
+  p = config.FetchConfig('prod')
   if p is not False:
 
     print "--------------------------------------------------"
@@ -55,9 +55,9 @@ def Main():
       #
       # Create datasets, resources, and gallery items.
       #
-      create.CreateDatasets(dataset_dict=dataset_dict, hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'])
-      create.CreateResources(resource_dict=resource_dict, hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'])
-      create.CreateGalleryItems(gallery_dict=gallery_dict, hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'])
+      create.CreateDatasets(dataset_dict=dataset_dict, hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'], update_all_datasets=p['update_all_datasets'])
+      create.CreateResources(resource_dict=resource_dict, hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'], update_all_datasets=p['update_all_datasets'])
+      create.CreateGalleryItems(gallery_dict=gallery_dict, hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'], update_all_datasets=p['update_all_datasets'])
 
     except Exception as e:
       print e
