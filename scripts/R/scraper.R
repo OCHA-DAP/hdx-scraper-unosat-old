@@ -25,7 +25,7 @@ library(countrycode)
 #
 # ScraperWiki path-helper function.
 #
-onSw <- function(p = NULL, l = 'tool/', d = TRUE) {
+onSw <- function(p = NULL, l = 'tool/', d = FALSE) {
   if(d) return(paste0(l, p))
   else return(p)
 }

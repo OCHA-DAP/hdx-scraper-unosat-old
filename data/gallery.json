@@ -1326,5 +1326,61 @@
 "url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_OncuniparCamp_CE20130604SYR_05Jun2015opt.pdf",
 "image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_OncuniparCamp_CE20130604SYR_05Jun2015opt.jpg",
 "dataset_id": "geodata-of-oncunipar-refugee-camp-merkez-district-kilis-province-turkey-june-16-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_SujjoCamp_CE20130604SYR_05Jun2015opt.pdf",
+"image_url": "http://maps.unosat.org/SY/CE20130604SYR/UNOSAT_SujjoCamp_CE20130604SYR_05Jun2015opt.jpg",
+"dataset_id": "geodata-of-sujjo-idp-camp-azaz-district-aleppo-governorate-syria-june-19-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_CE20131218SSD_LandClassification_2015_Kakhuma_Camp.pdf",
+"image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_CE20131218SSD_LandClassification_2015_Kakhuma_Camp.jpg",
+"dataset_id": "geodata-of-landcover-classification-kalobeyei-and-kakuma-areas-turkana-county-july-01-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Landcover_Kalobeyi_Landscape_20150630.pdf",
+"image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Landcover_Kalobeyi_Landscape_20150630.jpg",
+"dataset_id": "geodata-of-landcover-classification-kalobeyei-turkana-county-kenya-july-01-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Landscape_Gendrasa_Update_20150630.pdf",
+"image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_Landscape_Gendrasa_Update_20150630.jpg",
+"dataset_id": "geodata-of-gendrasa-refugee-camp-maban-county-upper-nile-state-south-sudan-july-01-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_CE20131218SSD_KalobeyeiFloodRisk.pdf",
+"image_url": "http://maps.unosat.org/SS/CE20131218SSD/UNOSAT_A3_CE20131218SSD_KalobeyeiFloodRisk.jpg",
+"dataset_id": "geodata-of-elevation-map-of-kalobeyei-turkana-county-kenya-july-01-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_TaizDamageAssessment_26June2015_Landscapeopt.pdf",
+"image_url": "http://maps.unosat.org/YE/CE20150402YEM/UNOSAT_A3_TaizDamageAssessment_26June2015_Landscapeopt.jpg",
+"dataset_id": "geodata-of-damage-assessment-of-taiz-city-at-taziah-district-yemen-july-03-2015" 
+},
+{
+ "title": "Static PDF Map",
+"type": "paper",
+"description": "Static viewing map for printing.",
+"url": "http://maps.unosat.org/MM/FL20150703MMR/UNOSAT_A3_20150703MMR_Rakhine_North.pdf",
+"image_url": "http://maps.unosat.org/MM/FL20150703MMR/UNOSAT_A3_20150703MMR_Rakhine_North.jpg",
+"dataset_id": "geodata-of-flood-waters-over-northwest-rakhine-state-myanmar-july-13-2015" 
 } ] 
 ]

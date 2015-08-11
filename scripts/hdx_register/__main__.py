@@ -15,11 +15,14 @@ from hdx_register import config
 from hdx_register import delete
 from hdx_register import create
 from utilities.prompt_format import item as I
- 
+
 
 def Main():
   '''Wrapper'''
 
+  #
+  # Setting up configuration: dev = development; prod = production.
+  #
   p = config.FetchConfig('dev')
   if p is not False:
 
@@ -32,7 +35,7 @@ def Main():
     if p['delete_datasets']:
       try:
         delete.DeleteAllDatasetsFromOrg(organization='un-operational-satellite-appplications-programme-unosat', hdx_site=p['hdx_site'], apikey=p['hdx_key'], verbose=p['verbose'])
-      
+
       except Exception as e:
         print e
         return False

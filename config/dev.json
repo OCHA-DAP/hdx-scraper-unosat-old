@@ -1,8 +1,8 @@
 {
   "hdx_site": "https://test-data.hdx.rwlabs.org/",
-  "hdx_key": "xxx",
+  "hdx_key": "f6bbbc39-cdd5-4d32-a058-58088af67106",
   "json_folder": "data",
   "verbose": false,
   "delete_resources": true,
-  "delete_datasets": false
+  "delete_datasets": true
 }
