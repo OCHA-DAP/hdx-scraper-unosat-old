@@ -1,7 +1,7 @@
 ## Scraper for UNOSAT Data
 Scraper designed to extract data from [UNOSAT's website](http://www.unitar.org/unosat/maps). It contains a few routines for identifying datasets of interest and excluding possible duplicates. It generates a CKAN compliant metadata JSON with all the resources -- and gallery items -- that have to be created in batch on HDX.
 
-[![Build Status](https://travis-ci.org/luiscape/hdxscraper-unosat.svg)](https://travis-ci.org/luiscape/hdxscraper-unosat)
+[![Build Status](https://travis-ci.org/luiscape/hdxscraper-unosat.svg)](https://travis-ci.org/luiscape/hdxscraper-unosat) [![Coverage Status](https://coveralls.io/repos/luiscape/hdxscraper-unosat/badge.svg?branch=master&service=github)](https://coveralls.io/github/luiscape/hdxscraper-unosat?branch=master)
 
 ## Logic
 The scraper is dissasociated from the scripts that register datasets (and resources and gallery items) on HDX. This was intentional design as I was trying to make the latter functions useful in other contexts.
