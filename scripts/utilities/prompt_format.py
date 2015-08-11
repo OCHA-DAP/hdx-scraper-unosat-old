@@ -11,7 +11,7 @@ def item(i):
     'prompt_warn': color(u" WARN:", "yellow", attrs=['bold']),
     'prompt_deleted': color(u" DELETED:", "yellow", attrs=['bold'])
   }
-  return dictionary[i].decode('utf-8')
+  return dictionary[i].encode('utf-8')
 
 
 if __name__ == '__main__':
