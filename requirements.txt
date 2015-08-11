@@ -2,7 +2,7 @@ Mako==1.0.1
 MarkupSafe==0.23
 SQLAlchemy==1.0.8
 alembic==0.7.7
-cffi==1.0.0b1
+cffi==1.0.0
 ckanapi==3.3
 colorlog==2.6.0
 cryptography==0.8.2
