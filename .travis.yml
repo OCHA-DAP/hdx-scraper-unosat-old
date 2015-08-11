@@ -1,0 +1,29 @@
+language: python
+sudo: required
+python:
+  - "2.7"
+
+#
+# Command to install dependencies.
+#
+install:
+  - pip install coveralls
+  - pip install node
+  - pip install coverage
+  - pip install -r requirements.txt
+  - make setup
+
+#
+# Run tests + coverage.
+#
+script:
+  - make test
+
+#
+# Send coverage report to coveralls.io
+#
+after_success:
+  - coveralls
+
+notifications:
+    email: false
