@@ -3,7 +3,7 @@
 #
 # Running the scraper.
 #
-# Rscript scripts/R/scraper.R
+Rscript scripts/R/scraper.R
 
 #
 # Registering the datasets on HDX.
